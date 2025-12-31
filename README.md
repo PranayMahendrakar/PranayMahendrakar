@@ -12,7 +12,7 @@
 
 AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natural Language Processing**, **Computer Vision**, and **Full AI Product Development**. I've delivered **20+ AI systems** across automotive, defence, and education sectors.
 
-- 🔭 Currently working as **MD at SONYTECH** and **Nodal Coordinator at IIRS-ISRO**
+- 🔭 Currently working as **Nodal Coordinator at IIRS-ISRO** and **Instructor at Tutorials Point**
 - 📚 Author of **3 published AI books**
 - 🏆 Holder of a **UK-registered patent** in Blockchain technology
 - 💻 Creator of the **Phoenix Programming Language**
@@ -50,6 +50,16 @@ AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natur
 
 ---
 
+## 💼 Professional Experience
+
+| Role | Organization | Period |
+|------|--------------|--------|
+| **Nodal Coordinator** | IIRS-ISRO | Nov 2024 – Present |
+| **Instructor & Author** | Tutorials Point | Jan 2025 – Present |
+| **Technical Lead** | SonyTech | Mar 2021 – Aug 2024 |
+| **Software Developer Intern** | VTU | Oct 2023 – Mar 2024 |
+
+---
 
 ## 🏆 Featured Projects
 
@@ -83,6 +93,7 @@ Fine-tuned custom LLM deployed on Ollama (2025)
 | **It's Me LLM** | 978-93-341-4930-2 |
 
 ### Research Papers
+- 📄 *Sheaf-Theoretic Semantics and Quantum Contextuality in Large Language Models: A Unified Categorical Framework for Understanding Semantic Coherence and Hallucination Phenomena* — [DOI: 10.5281/zenodo.18074071](https://doi.org/10.5281/zenodo.18074071)
 - 📄 *The Emotional Intelligence Paradox in LLMs* — [DOI: 10.5281/zenodo.14040453](https://doi.org/10.5281/zenodo.14040453)
 - 📄 *AI-Infused Drones for Autonomous Security* — [DOI: 10.5281/zenodo.14041518](https://doi.org/10.5281/zenodo.14041518)
 - 📄 *Quantum Mirrors of the Mind: AI vs. Consciousness* — [DOI: 10.5281/zenodo.14047259](https://doi.org/10.5281/zenodo.14047259)
