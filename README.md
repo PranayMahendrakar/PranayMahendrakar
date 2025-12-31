@@ -12,7 +12,7 @@
 
 AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natural Language Processing**, **Computer Vision**, and **Full AI Product Development**. I've delivered **20+ AI systems** across automotive, defence, and education sectors.
 
-- 🔭 Currently working as **AI Specialist at AMS-INDIA** and **Nodal Coordinator at IIRS-ISRO**
+- 🔭 Currently working as **MD at SONYTECH** and **Nodal Coordinator at IIRS-ISRO**
 - 📚 Author of **3 published AI books**
 - 🏆 Holder of a **UK-registered patent** in Blockchain technology
 - 💻 Creator of the **Phoenix Programming Language**
