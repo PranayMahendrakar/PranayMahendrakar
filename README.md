@@ -50,17 +50,6 @@ AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natur
 
 ---
 
-## 💼 Professional Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| **AI Specialist** | AMS-INDIA | Mar 2025 – Present |
-| **Nodal Coordinator** | IIRS-ISRO | Nov 2024 – Present |
-| **Instructor & Author** | Tutorials Point | Jan 2025 – Present |
-| **AI Engineer** | AMS-INDIA | Aug 2024 – Feb 2025 |
-| **Technical Lead** | SonyTech | Mar 2021 – Aug 2024 |
-
----
 
 ## 🏆 Featured Projects
 
