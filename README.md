@@ -136,18 +136,6 @@ Fine-tuned custom LLM deployed on Ollama (2025)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranayMahendrakar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranayMahendrakar&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
