@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natural Language Processing**, **Computer Vision**, and **Full AI Product Development**. I've delivered **150+ AI systems** across automotive, defence, and education sectors.
+AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natural Language Processing**, **Computer Vision**, and **Full AI Product Development**. I've delivered **250+ AI systems** across automotive, defence, and education sectors.
 
 - 🔭 Currently working as **Nodal Coordinator at IIRS-ISRO** and **Instructor at Tutorials Point**
 - 📚 Author of **3 published AI books**
