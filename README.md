@@ -50,15 +50,7 @@ AI Specialist with proven expertise in **Large Language Models (LLMs)**, **Natur
 
 ---
 
-## 💼 Professional Experience
 
-| Role | Organization | Period |
-|------|--------------|--------|
-| **Nodal Coordinator** | IIRS-ISRO | Nov 2024 – Present |
-| **MANAGING DIRECTOR** | SONYTECH | MAR 2020 – Present |
-| **Instructor & Author** | Tutorials Point | Jan 2025 – Present |
-| **Technical Lead** | SonyTech | Mar 2021 – Aug 2024 |
-| **Software Developer Intern** | VTU | Oct 2023 – Mar 2024 |
 
 ---
 
