@@ -1,4 +1,4 @@
-# Hi there, I'm Pranay M Mahendrakar 👋
+# Hi there, I'm Pranay Mahendrakar 👋
 
 **AI Specialist | Author | Patent Holder | Open-Source Contributor**
 
