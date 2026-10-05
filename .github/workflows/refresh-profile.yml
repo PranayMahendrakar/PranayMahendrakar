@@ -33,7 +33,7 @@ jobs:
       - name: Rebuild images and lists
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/build_profile.py
+        run: python3 -u scripts/build_profile.py
 
       - name: Commit what changed
         run: |

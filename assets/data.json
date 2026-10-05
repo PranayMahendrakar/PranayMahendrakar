@@ -1,4 +1,12 @@
 {
+ "answered": {
+  "blog": "2026-10-05",
+  "github": "2026-10-05",
+  "leetcode": "2026-10-05",
+  "packages": "2026-10-05",
+  "podcast": "2026-10-05",
+  "research": "2026-10-05"
+ },
  "blog": {
   "latest": [
    {
@@ -29,7 +37,8 @@
   ]
  },
  "github": {
-  "contributions": 9800,
+  "contributions": 9801,
+  "first_sunday": "2025-10-05",
   "followers": 14,
   "languages": [
    {
@@ -58,22 +67,16 @@
     "repos": 10
    },
    {
-    "color": "#A97BFF",
-    "name": "Kotlin",
-    "repos": 1
-   },
-   {
     "color": "#663399",
     "name": "CSS",
     "repos": 1
    },
    {
-    "color": "#012456",
-    "name": "PowerShell",
-    "repos": 1
+    "color": "#8b949e",
+    "name": "Other",
+    "repos": 2
    }
   ],
-  "last_day": "2026-10-05",
   "repos": 1381,
   "stars": 84,
   "weeks": [
@@ -547,9 +550,15 @@
    ],
    [
     6,
-    2
+    3,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
-  ]
+  ],
+  "with_language": 1315
  },
  "leetcode": {
   "easy": 833,
@@ -557,8 +566,32 @@
   "medium": 1648,
   "solved": 3260
  },
- "pypi": {
+ "packages": {
   "count": 41
+ },
+ "podcast": {
+  "latest": [
+   {
+    "date": "2026-07-14",
+    "title": "Building Your Life's Mission | The Founder Mindset Podcast EP012",
+    "url": "https://www.youtube.com/watch?v=YoBbKL8uHAw"
+   },
+   {
+    "date": "2026-07-11",
+    "title": "The Entrepreneur's Daily Operating System | The Founder Mindset Podcast EP011",
+    "url": "https://www.youtube.com/watch?v=TTBAUIlvqR8"
+   },
+   {
+    "date": "2026-07-08",
+    "title": "Building Mental Toughness | The Founder Mindset Podcast EP010",
+    "url": "https://www.youtube.com/watch?v=5puf3O51PzE"
+   },
+   {
+    "date": "2026-07-03",
+    "title": "The Founder's Relationship With Money | The Founder Mindset Podcast EP09",
+    "url": "https://www.youtube.com/watch?v=BhUvlND20V0"
+   }
+  ]
  },
  "research": {
   "count": 72,
@@ -592,30 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23112895",
     "title": "Whose Goals? Autotelic Agents Generate Goals Within Spaces They Are Given: The Goal Space and the Referee Stay Outside the Agent, and a Foundation Model in the Loop Relocates Them Rather Than Removing Them",
     "url": "https://research.pranaymahendrakar.com/p/whose-goals-autotelic-agents-generate-goals-within-spaces"
-   }
-  ]
- },
- "youtube": {
-  "latest": [
-   {
-    "date": "2026-07-14",
-    "title": "Building Your Life's Mission | The Founder Mindset Podcast EP012",
-    "url": "https://www.youtube.com/watch?v=YoBbKL8uHAw"
-   },
-   {
-    "date": "2026-07-11",
-    "title": "The Entrepreneur's Daily Operating System | The Founder Mindset Podcast EP011",
-    "url": "https://www.youtube.com/watch?v=TTBAUIlvqR8"
-   },
-   {
-    "date": "2026-07-08",
-    "title": "Building Mental Toughness | The Founder Mindset Podcast EP010",
-    "url": "https://www.youtube.com/watch?v=5puf3O51PzE"
-   },
-   {
-    "date": "2026-07-03",
-    "title": "The Founder's Relationship With Money | The Founder Mindset Podcast EP09",
-    "url": "https://www.youtube.com/watch?v=BhUvlND20V0"
    }
   ]
  }

@@ -6,6 +6,8 @@
   <img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/banner-dark.svg" width="100%" alt="Pranay Mahendrakar - AI Specialist and LLM Engineer | Managing Director, SonyTech | Author">
 </picture>
 
+**AI Specialist and LLM Engineer &nbsp;|&nbsp; Managing Director, SonyTech &nbsp;|&nbsp; Author**
+
 **[pranaymahendrakar.com](https://pranaymahendrakar.com/)** &nbsp;·&nbsp; [Research papers](https://research.pranaymahendrakar.com/) &nbsp;·&nbsp; [Learn AI](https://learn.pranaymahendrakar.com/) &nbsp;·&nbsp; [Google Scholar](https://scholar.google.com/citations?user=7EecYNMAAAAJ) &nbsp;·&nbsp; [ORCID](https://orcid.org/0009-0003-7224-029X) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pranay-mahendrakar-84bb3b197/) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@Pranay_Mahendrakar)
 
 </div>
@@ -20,17 +22,19 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## At a glance
 
+<!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers"></picture></a>
-  <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories"></picture></a>
-  <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode problems solved"></picture></a>
-  <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="GitHub contributions in the last 12 months"></picture></a>
-  <a href="https://pypi.org/user/pranaymahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-pypi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-pypi-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-pypi-dark.svg" width="32%" alt="PyPI packages"></picture></a>
-  <a href="https://pranaymahendrakar.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg" width="32%" alt="Books"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 72 (open access, each with a DOI)"></picture></a>
+  <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,381 (on GitHub)"></picture></a>
+  <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,260 (833 easy / 1,648 medium / 779 hard)"></picture></a>
+  <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,801 (on GitHub in the last 12 months)"></picture></a>
+  <a href="https://pypi.org/user/pranaymahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-dark.svg" width="32%" alt="PyPI packages: 41 (open-source Python packages)"></picture></a>
+  <a href="https://pranaymahendrakar.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg" width="32%" alt="Books: 3 (on artificial intelligence, with ISBNs)"></picture></a>
 </p>
+<!-- TILES:END -->
 
 > [!NOTE]
-> Every number and list on this page is live. A [script in this repository](scripts/build_profile.py) reads GitHub, LeetCode, PyPI, the blog, the podcast feed and [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/) once a day and redraws the images, so nothing here is typed in by hand.
+> The six tiles, the two charts below and the three "latest" lists are redrawn once a day by a [script in this repository](scripts/build_profile.py) from GitHub, LeetCode, the blog and podcast feeds, [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/) and the package list on pranaymahendrakar.com. The rest of the page is written by hand.
 
 ## Latest research
 
@@ -39,9 +43,9 @@ Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->72<!-- PAP
 <!-- PAPERS:START -->
 - [Detectors Say 'Different', Not 'What'](https://research.pranaymahendrakar.com/p/detectors-say-different-not-what) &mdash; [DOI](https://doi.org/10.5281/zenodo.23147856) <sub>2026-10-05</sub>
 - [The Precursor Assumption](https://research.pranaymahendrakar.com/p/the-precursor-assumption-what-an-early-warning-threshold) &mdash; [DOI](https://doi.org/10.5281/zenodo.23138107) <sub>2026-10-04</sub>
-- [Spend the Budget on the Known or the Unknown? Open-Set Active Learning Scores Two Opposed Objectives Under…](https://research.pranaymahendrakar.com/p/spend-the-budget-on-the-known-or-the-unknown-open-set) &mdash; [DOI](https://doi.org/10.5281/zenodo.23130464) <sub>2026-10-04</sub>
+- [Spend the Budget on the Known or the Unknown?](https://research.pranaymahendrakar.com/p/spend-the-budget-on-the-known-or-the-unknown-open-set) &mdash; [DOI](https://doi.org/10.5281/zenodo.23130464) <sub>2026-10-04</sub>
 - [The Evaluator Is the Bottleneck](https://research.pranaymahendrakar.com/p/the-evaluator-is-the-bottleneck) &mdash; [DOI](https://doi.org/10.5281/zenodo.23130396) <sub>2026-10-04</sub>
-- [Whose Goals? Autotelic Agents Generate Goals Within Spaces They Are Given](https://research.pranaymahendrakar.com/p/whose-goals-autotelic-agents-generate-goals-within-spaces) &mdash; [DOI](https://doi.org/10.5281/zenodo.23112895) <sub>2026-10-03</sub>
+- [Whose Goals? Autotelic Agents Generate Goals Within Spaces They Are Given: The Goal Space and the Referee…](https://research.pranaymahendrakar.com/p/whose-goals-autotelic-agents-generate-goals-within-spaces) &mdash; [DOI](https://doi.org/10.5281/zenodo.23112895) <sub>2026-10-03</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
@@ -69,23 +73,16 @@ Also on [Spotify](https://open.spotify.com/show/033vo2L1KZrhb2qU3ypYhJ).
 
 ## A year of code
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-light.svg">
-  <img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg" width="100%" alt="A year of GitHub contributions drawn as a city: one block per day, taller on busier days">
-</picture>
+<!-- CHARTS:START -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg" width="100%" alt="9,801 GitHub contributions in the last 12 months, drawn as a city: one block per day, taller on busier days"></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-light.svg">
-  <img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg" width="100%" alt="Primary language of public repositories">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg" width="100%" alt="Primary language of 1,315 public repositories: Python 1,132, C++ 95, JavaScript 59, HTML 16, TypeScript 10, CSS 1, Other 2"></picture>
+<!-- CHARTS:END -->
 
 ## The road so far
 
 ```mermaid
 timeline
-    title The road so far
     Earlier : Game development
             : BCA, Rani Channamma University
             : MCA, Visvesvaraya Technological University
@@ -97,7 +94,7 @@ timeline
          : Sheaf-theoretic semantics paper
     2026 : A year of research papers
          : ML-reliability packages on PyPI
-         : pranaymahendrakar.com, with research and Learn AI sites
+         : Personal, research and Learn AI sites
 ```
 
 ## Selected work
@@ -121,7 +118,7 @@ timeline
 
 | Patent | Status |
 |--------|--------|
-| **Blockchain-Enabled Decentralized Cloud Computing** | UK Patent #6380496 (Registered) |
+| **Blockchain-Enabled Decentralized Cloud Computing** | UK registered patent #6380496 |
 | **Clone Profile Detection for Online Social Networks** | India (Pipeline) |
 
 <details>
