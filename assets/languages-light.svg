@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-labelledby="t d" font-family="&quot;Segoe UI&quot;, system-ui, -apple-system, &quot;Helvetica Neue&quot;, Arial, sans-serif">
+<title id="t">Primary language of public repositories</title><desc id="d">Python 1,131, C++ 95, JavaScript 59, HTML 16, TypeScript 10, Kotlin 1, CSS 1, PowerShell 1</desc>
+<style>.seg{animation:grow 1.1s cubic-bezier(.16,1,.3,1) both;transform-origin:64px 0}@keyframes grow{from{transform:scaleX(0)}to{transform:none}}@media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="1280" height="190" rx="22" fill="#FFFFFF"/>
+<rect x=".5" y=".5" width="1279" height="189" rx="22" fill="none" stroke="#D5DAE6"/>
+<text x="64" y="54" font-size="20" fill="#525C75">Primary language across <tspan fill="#0B0E18" font-weight="700">1,381</tspan> public repositories</text>
+<clipPath id="bar"><rect x="64" y="84" width="1152" height="20" rx="10.0"/></clipPath>
+<rect x="64" y="84" width="1152" height="20" rx="10.0" fill="#ECEEF5"/>
+<g clip-path="url(#bar)"><g class="seg"><rect x="64.0" y="84" width="951.0" height="20" fill="#3572A5"/><rect x="1014.4" y="84" width="86.8" height="20" fill="#f34b7d"/><rect x="1100.6" y="84" width="56.8" height="20" fill="#f1e05a"/><rect x="1156.8" y="84" width="20.9" height="20" fill="#e34c26"/><rect x="1177.2" y="84" width="15.9" height="20" fill="#3178c6"/><rect x="1192.5" y="84" width="8.4" height="20" fill="#A97BFF"/><rect x="1200.3" y="84" width="8.4" height="20" fill="#663399"/><rect x="1208.2" y="84" width="8.4" height="20" fill="#012456"/></g></g>
+<circle cx="71.0" cy="144.0" r="7" fill="#3572A5"/><text x="86.0" y="150.0" font-size="18" fill="#0B0E18">Python <tspan fill="#525C75">1,131</tspan></text>
+<circle cx="247.8" cy="144.0" r="7" fill="#f34b7d"/><text x="262.8" y="150.0" font-size="18" fill="#0B0E18">C++ <tspan fill="#525C75">95</tspan></text>
+<circle cx="362.2" cy="144.0" r="7" fill="#f1e05a"/><text x="377.2" y="150.0" font-size="18" fill="#0B0E18">JavaScript <tspan fill="#525C75">59</tspan></text>
+<circle cx="549.4" cy="144.0" r="7" fill="#e34c26"/><text x="564.4" y="150.0" font-size="18" fill="#0B0E18">HTML <tspan fill="#525C75">16</tspan></text>
+<circle cx="674.2" cy="144.0" r="7" fill="#3178c6"/><text x="689.2" y="150.0" font-size="18" fill="#0B0E18">TypeScript <tspan fill="#525C75">10</tspan></text>
+<circle cx="861.4" cy="144.0" r="7" fill="#A97BFF"/><text x="876.4" y="150.0" font-size="18" fill="#0B0E18">Kotlin <tspan fill="#525C75">1</tspan></text>
+<circle cx="996.6" cy="144.0" r="7" fill="#663399"/><text x="1011.6" y="150.0" font-size="18" fill="#0B0E18">CSS <tspan fill="#525C75">1</tspan></text>
+<circle cx="1100.6" cy="144.0" r="7" fill="#012456"/><text x="1115.6" y="150.0" font-size="18" fill="#0B0E18">PowerShell <tspan fill="#525C75">1</tspan></text>
+</svg>

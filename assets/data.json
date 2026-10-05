@@ -1,0 +1,622 @@
+{
+ "blog": {
+  "latest": [
+   {
+    "date": "2026-10-05",
+    "title": "A 125B model now runs on a gaming GPU. Whether it's good enough is the real question.",
+    "url": "https://pranaymahendrakar.com/blog/a-125b-model-now-runs-on-a-gaming-gpu-whether-its-good-enough-is-the-r"
+   },
+   {
+    "date": "2026-10-04",
+    "title": "A deepfake detector that runs on light is a hardware story, not a model story.",
+    "url": "https://pranaymahendrakar.com/blog/a-deepfake-detector-that-runs-on-light-is-a-hardware-story-not-a-model"
+   },
+   {
+    "date": "2026-10-03",
+    "title": "Exploits now arrive in under a day. Your patch cycle still runs on weeks.",
+    "url": "https://pranaymahendrakar.com/blog/exploits-now-arrive-in-under-a-day-your-patch-cycle-still-runs-on-week"
+   },
+   {
+    "date": "2026-10-02",
+    "title": "Robots now think with a cloud model. Most factory floors can't depend on that.",
+    "url": "https://pranaymahendrakar.com/blog/robots-now-think-with-a-cloud-model-most-factory-floors-cant-depend-on"
+   },
+   {
+    "date": "2026-10-01",
+    "title": "OpenAI just cut frontier pricing to a fifth. Your model bill was never the real problem.",
+    "url": "https://pranaymahendrakar.com/blog/openai-just-cut-frontier-pricing-to-a-fifth-your-model-bill-was-never-"
+   }
+  ]
+ },
+ "github": {
+  "contributions": 9800,
+  "followers": 14,
+  "languages": [
+   {
+    "color": "#3572A5",
+    "name": "Python",
+    "repos": 1131
+   },
+   {
+    "color": "#f34b7d",
+    "name": "C++",
+    "repos": 95
+   },
+   {
+    "color": "#f1e05a",
+    "name": "JavaScript",
+    "repos": 59
+   },
+   {
+    "color": "#e34c26",
+    "name": "HTML",
+    "repos": 16
+   },
+   {
+    "color": "#3178c6",
+    "name": "TypeScript",
+    "repos": 10
+   },
+   {
+    "color": "#A97BFF",
+    "name": "Kotlin",
+    "repos": 1
+   },
+   {
+    "color": "#663399",
+    "name": "CSS",
+    "repos": 1
+   },
+   {
+    "color": "#012456",
+    "name": "PowerShell",
+    "repos": 1
+   }
+  ],
+  "last_day": "2026-10-05",
+  "repos": 1381,
+  "stars": 84,
+  "weeks": [
+   [
+    15,
+    11,
+    14,
+    9,
+    10,
+    11,
+    15
+   ],
+   [
+    13,
+    12,
+    12,
+    16,
+    15,
+    12,
+    10
+   ],
+   [
+    15,
+    9,
+    15,
+    11,
+    12,
+    17,
+    8
+   ],
+   [
+    13,
+    13,
+    14,
+    14,
+    7,
+    8,
+    11
+   ],
+   [
+    13,
+    11,
+    12,
+    16,
+    15,
+    12,
+    13
+   ],
+   [
+    17,
+    16,
+    9,
+    12,
+    16,
+    12,
+    17
+   ],
+   [
+    15,
+    9,
+    16,
+    14,
+    10,
+    9,
+    12
+   ],
+   [
+    15,
+    15,
+    11,
+    13,
+    13,
+    15,
+    9
+   ],
+   [
+    12,
+    14,
+    15,
+    9,
+    11,
+    13,
+    15
+   ],
+   [
+    13,
+    14,
+    13,
+    14,
+    10,
+    13,
+    13
+   ],
+   [
+    14,
+    18,
+    10,
+    15,
+    11,
+    14,
+    13
+   ],
+   [
+    9,
+    13,
+    38,
+    28,
+    12,
+    19,
+    13
+   ],
+   [
+    22,
+    12,
+    14,
+    41,
+    169,
+    13,
+    17
+   ],
+   [
+    17,
+    2,
+    280,
+    150,
+    27,
+    122,
+    5
+   ],
+   [
+    1,
+    93,
+    161,
+    89,
+    7,
+    7,
+    11
+   ],
+   [
+    8,
+    109,
+    98,
+    163,
+    13,
+    16,
+    6
+   ],
+   [
+    18,
+    12,
+    9,
+    9,
+    11,
+    13,
+    11
+   ],
+   [
+    28,
+    19,
+    21,
+    17,
+    27,
+    14,
+    28
+   ],
+   [
+    17,
+    22,
+    17,
+    14,
+    18,
+    34,
+    21
+   ],
+   [
+    18,
+    40,
+    28,
+    18,
+    21,
+    14,
+    17
+   ],
+   [
+    22,
+    21,
+    25,
+    22,
+    20,
+    20,
+    17
+   ],
+   [
+    10,
+    13,
+    38,
+    77,
+    171,
+    414,
+    110
+   ],
+   [
+    24,
+    24,
+    125,
+    47,
+    36,
+    33,
+    26
+   ],
+   [
+    42,
+    20,
+    16,
+    19,
+    56,
+    26,
+    22
+   ],
+   [
+    21,
+    28,
+    25,
+    34,
+    32,
+    53,
+    26
+   ],
+   [
+    31,
+    31,
+    18,
+    31,
+    25,
+    39,
+    29
+   ],
+   [
+    33,
+    49,
+    23,
+    41,
+    43,
+    28,
+    59
+   ],
+   [
+    47,
+    31,
+    37,
+    36,
+    42,
+    38,
+    54
+   ],
+   [
+    21,
+    40,
+    27,
+    30,
+    33,
+    36,
+    49
+   ],
+   [
+    44,
+    38,
+    37,
+    56,
+    37,
+    20,
+    34
+   ],
+   [
+    34,
+    25,
+    25,
+    28,
+    51,
+    24,
+    10
+   ],
+   [
+    43,
+    22,
+    7,
+    2,
+    28,
+    25,
+    26
+   ],
+   [
+    26,
+    26,
+    20,
+    24,
+    40,
+    27,
+    25
+   ],
+   [
+    32,
+    33,
+    42,
+    32,
+    35,
+    35,
+    38
+   ],
+   [
+    29,
+    29,
+    26,
+    23,
+    25,
+    25,
+    24
+   ],
+   [
+    21,
+    41,
+    25,
+    23,
+    27,
+    31,
+    33
+   ],
+   [
+    31,
+    29,
+    33,
+    24,
+    30,
+    32,
+    21
+   ],
+   [
+    24,
+    29,
+    29,
+    37,
+    29,
+    33,
+    19
+   ],
+   [
+    37,
+    28,
+    38,
+    27,
+    33,
+    24,
+    33
+   ],
+   [
+    22,
+    21,
+    28,
+    25,
+    30,
+    31,
+    30
+   ],
+   [
+    42,
+    34,
+    34,
+    61,
+    24,
+    26,
+    25
+   ],
+   [
+    26,
+    32,
+    22,
+    30,
+    35,
+    25,
+    31
+   ],
+   [
+    25,
+    32,
+    35,
+    40,
+    32,
+    34,
+    24
+   ],
+   [
+    28,
+    25,
+    28,
+    29,
+    28,
+    21,
+    31
+   ],
+   [
+    17,
+    27,
+    25,
+    1,
+    2,
+    1,
+    3
+   ],
+   [
+    3,
+    3,
+    0,
+    3,
+    1,
+    4,
+    0
+   ],
+   [
+    2,
+    2,
+    5,
+    5,
+    1,
+    4,
+    2
+   ],
+   [
+    5,
+    3,
+    3,
+    4,
+    4,
+    2,
+    2
+   ],
+   [
+    1,
+    4,
+    1,
+    2,
+    2,
+    4,
+    3
+   ],
+   [
+    0,
+    3,
+    2,
+    2,
+    3,
+    4,
+    2
+   ],
+   [
+    4,
+    429,
+    19,
+    3,
+    12,
+    11,
+    1
+   ],
+   [
+    0,
+    2,
+    5,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    6,
+    2
+   ]
+  ]
+ },
+ "leetcode": {
+  "easy": 833,
+  "hard": 779,
+  "medium": 1648,
+  "solved": 3260
+ },
+ "pypi": {
+  "count": 41
+ },
+ "research": {
+  "count": 72,
+  "latest": [
+   {
+    "date": "2026-10-05",
+    "doi": "https://doi.org/10.5281/zenodo.23147856",
+    "title": "Detectors Say 'Different', Not 'What': Score, Deviation and Name Are Three Claims With Three Referees, Only the Name Needs a Referee Outside the Detector, and Published Results Show Novelty Detected Far More Reliably Than It Is Named",
+    "url": "https://research.pranaymahendrakar.com/p/detectors-say-different-not-what"
+   },
+   {
+    "date": "2026-10-04",
+    "doi": "https://doi.org/10.5281/zenodo.23138107",
+    "title": "The Precursor Assumption: What an Early-Warning Threshold Must Deliver in a Frontier Safety Framework, Why the Continuity Evidence Covers Aggregates Under Fixed Elicitation Rather Than the Thresholded Task, and the Lead Time No Published Record Measures",
+    "url": "https://research.pranaymahendrakar.com/p/the-precursor-assumption-what-an-early-warning-threshold"
+   },
+   {
+    "date": "2026-10-04",
+    "doi": "https://doi.org/10.5281/zenodo.23130464",
+    "title": "Spend the Budget on the Known or the Unknown? Open-Set Active Learning Scores Two Opposed Objectives Under One Name, Its Filtering Side's Own Results Do Not Treat Unknowns as Waste, and the Winner Is Set by a Relevance Label and a Query Price the Benchmarks Fix in Advance",
+    "url": "https://research.pranaymahendrakar.com/p/spend-the-budget-on-the-known-or-the-unknown-open-set"
+   },
+   {
+    "date": "2026-10-04",
+    "doi": "https://doi.org/10.5281/zenodo.23130396",
+    "title": "The Evaluator Is the Bottleneck: What a Self-Modifying System's Acceptance Test Must Satisfy Before Its Verdict Can Be Trusted, Why Co-Evolving Evaluators Shrink the External Anchor Rather Than Remove It, and How Moving the Anchor Outside Moves the Attack Surface With It",
+    "url": "https://research.pranaymahendrakar.com/p/the-evaluator-is-the-bottleneck"
+   },
+   {
+    "date": "2026-10-03",
+    "doi": "https://doi.org/10.5281/zenodo.23112895",
+    "title": "Whose Goals? Autotelic Agents Generate Goals Within Spaces They Are Given: The Goal Space and the Referee Stay Outside the Agent, and a Foundation Model in the Loop Relocates Them Rather Than Removing Them",
+    "url": "https://research.pranaymahendrakar.com/p/whose-goals-autotelic-agents-generate-goals-within-spaces"
+   }
+  ]
+ },
+ "youtube": {
+  "latest": [
+   {
+    "date": "2026-07-14",
+    "title": "Building Your Life's Mission | The Founder Mindset Podcast EP012",
+    "url": "https://www.youtube.com/watch?v=YoBbKL8uHAw"
+   },
+   {
+    "date": "2026-07-11",
+    "title": "The Entrepreneur's Daily Operating System | The Founder Mindset Podcast EP011",
+    "url": "https://www.youtube.com/watch?v=TTBAUIlvqR8"
+   },
+   {
+    "date": "2026-07-08",
+    "title": "Building Mental Toughness | The Founder Mindset Podcast EP010",
+    "url": "https://www.youtube.com/watch?v=5puf3O51PzE"
+   },
+   {
+    "date": "2026-07-03",
+    "title": "The Founder's Relationship With Money | The Founder Mindset Podcast EP09",
+    "url": "https://www.youtube.com/watch?v=BhUvlND20V0"
+   }
+  ]
+ }
+}
