@@ -1,11 +1,11 @@
 {
  "answered": {
-  "blog": "2026-10-05",
-  "github": "2026-10-05",
-  "leetcode": "2026-10-05",
-  "packages": "2026-10-05",
-  "podcast": "2026-10-05",
-  "research": "2026-10-05"
+  "blog": "2026-10-06",
+  "github": "2026-10-06",
+  "leetcode": "2026-10-06",
+  "packages": "2026-10-06",
+  "podcast": "2026-10-06",
+  "research": "2026-10-06"
  },
  "blog": {
   "latest": [
@@ -37,7 +37,7 @@
   ]
  },
  "github": {
-  "contributions": 9801,
+  "contributions": 9803,
   "first_sunday": "2025-10-05",
   "followers": 14,
   "languages": [
@@ -550,8 +550,8 @@
    ],
    [
     6,
-    3,
-    null,
+    5,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 72,
+  "count": 74,
   "latest": [
+   {
+    "date": "2026-10-06",
+    "doi": "https://doi.org/10.5281/zenodo.23174118",
+    "title": "Age Is Not Evidence of Staleness: A Recency Decay Is a One-Rate Survival Model, the Rate Belongs to the Fact Rather Than the Clock, and the Silent Change Only a Rate Could Catch Is the Case No Agent-Memory Benchmark Scores",
+    "url": "https://research.pranaymahendrakar.com/p/age-is-not-evidence-of-staleness"
+   },
+   {
+    "date": "2026-10-05",
+    "doi": "https://doi.org/10.5281/zenodo.23168094",
+    "title": "Did the Model Change, or Did Your Measurement? A Drift Claim Is a Test Against a Declared Null, the Careful Longitudinal Studies Mostly Caught Announced Version Moves, and a Capability Change Under a Pinned Identifier Is the Claim the Evidence Supports Least",
+    "url": "https://research.pranaymahendrakar.com/p/did-the-model-change-or-did-your-measurement-a-drift-claim"
+   },
    {
     "date": "2026-10-05",
     "doi": "https://doi.org/10.5281/zenodo.23147856",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23130464",
     "title": "Spend the Budget on the Known or the Unknown? Open-Set Active Learning Scores Two Opposed Objectives Under One Name, Its Filtering Side's Own Results Do Not Treat Unknowns as Waste, and the Winner Is Set by a Relevance Label and a Query Price the Benchmarks Fix in Advance",
     "url": "https://research.pranaymahendrakar.com/p/spend-the-budget-on-the-known-or-the-unknown-open-set"
-   },
-   {
-    "date": "2026-10-04",
-    "doi": "https://doi.org/10.5281/zenodo.23130396",
-    "title": "The Evaluator Is the Bottleneck: What a Self-Modifying System's Acceptance Test Must Satisfy Before Its Verdict Can Be Trusted, Why Co-Evolving Evaluators Shrink the External Anchor Rather Than Remove It, and How Moving the Anchor Outside Moves the Attack Surface With It",
-    "url": "https://research.pranaymahendrakar.com/p/the-evaluator-is-the-bottleneck"
-   },
-   {
-    "date": "2026-10-03",
-    "doi": "https://doi.org/10.5281/zenodo.23112895",
-    "title": "Whose Goals? Autotelic Agents Generate Goals Within Spaces They Are Given: The Goal Space and the Referee Stay Outside the Agent, and a Foundation Model in the Loop Relocates Them Rather Than Removing Them",
-    "url": "https://research.pranaymahendrakar.com/p/whose-goals-autotelic-agents-generate-goals-within-spaces"
    }
   ]
  }
