@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-06",
-  "github": "2026-10-06",
-  "leetcode": "2026-10-06",
-  "packages": "2026-10-06",
-  "podcast": "2026-10-06",
-  "research": "2026-10-06"
+  "blog": "2026-10-07",
+  "github": "2026-10-07",
+  "leetcode": "2026-10-07",
+  "packages": "2026-10-07",
+  "podcast": "2026-10-07",
+  "research": "2026-10-07"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-07",
+    "title": "NIST just published an AI evaluation framework, and its best feature is no checklist.",
+    "url": "https://pranaymahendrakar.com/blog/nist-just-published-an-ai-evaluation-framework-and-its-best-feature-is"
+   },
    {
     "date": "2026-10-05",
     "title": "A 125B model now runs on a gaming GPU. Whether it's good enough is the real question.",
@@ -28,16 +33,11 @@
     "date": "2026-10-02",
     "title": "Robots now think with a cloud model. Most factory floors can't depend on that.",
     "url": "https://pranaymahendrakar.com/blog/robots-now-think-with-a-cloud-model-most-factory-floors-cant-depend-on"
-   },
-   {
-    "date": "2026-10-01",
-    "title": "OpenAI just cut frontier pricing to a fifth. Your model bill was never the real problem.",
-    "url": "https://pranaymahendrakar.com/blog/openai-just-cut-frontier-pricing-to-a-fifth-your-model-bill-was-never-"
    }
   ]
  },
  "github": {
-  "contributions": 9803,
+  "contributions": 9832,
   "first_sunday": "2025-10-05",
   "followers": 14,
   "languages": [
@@ -77,7 +77,7 @@
     "repos": 2
    }
   ],
-  "repos": 1381,
+  "repos": 1382,
   "stars": 84,
   "weeks": [
    [
@@ -532,7 +532,7 @@
    ],
    [
     4,
-    429,
+    428,
     19,
     3,
     12,
@@ -551,8 +551,8 @@
    [
     6,
     5,
+    30,
     0,
-    null,
     null,
     null,
     null
@@ -561,13 +561,13 @@
   "with_language": 1315
  },
  "leetcode": {
-  "easy": 833,
-  "hard": 779,
-  "medium": 1648,
-  "solved": 3260
+  "easy": 840,
+  "hard": 786,
+  "medium": 1662,
+  "solved": 3288
  },
  "packages": {
-  "count": 41
+  "count": 43
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 74,
+  "count": 76,
   "latest": [
+   {
+    "date": "2026-10-07",
+    "doi": "https://doi.org/10.5281/zenodo.23199460",
+    "title": "Agreement Is Not a Criterion: What Matching Human Labels Certifies About an LLM Judge, Why a Shared Shortcut Passes the Test, and Why Every External Criterion Found So Far Validates a Use Rather Than a Judge",
+    "url": "https://research.pranaymahendrakar.com/p/agreement-is-not-a-criterion"
+   },
+   {
+    "date": "2026-10-06",
+    "doi": "https://doi.org/10.5281/zenodo.23189547",
+    "title": "A Stated Limit Is a Forecast: What an Agent Can Truthfully Say About Its Own Permissions, Why the Checkable Part Should Never Come From the Model, and How to Score the Part Only the Model Can Supply",
+    "url": "https://research.pranaymahendrakar.com/p/a-stated-limit-is-a-forecast"
+   },
    {
     "date": "2026-10-06",
     "doi": "https://doi.org/10.5281/zenodo.23174118",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23147856",
     "title": "Detectors Say 'Different', Not 'What': Score, Deviation and Name Are Three Claims With Three Referees, Only the Name Needs a Referee Outside the Detector, and Published Results Show Novelty Detected Far More Reliably Than It Is Named",
     "url": "https://research.pranaymahendrakar.com/p/detectors-say-different-not-what"
-   },
-   {
-    "date": "2026-10-04",
-    "doi": "https://doi.org/10.5281/zenodo.23138107",
-    "title": "The Precursor Assumption: What an Early-Warning Threshold Must Deliver in a Frontier Safety Framework, Why the Continuity Evidence Covers Aggregates Under Fixed Elicitation Rather Than the Thresholded Task, and the Lead Time No Published Record Measures",
-    "url": "https://research.pranaymahendrakar.com/p/the-precursor-assumption-what-an-early-warning-threshold"
-   },
-   {
-    "date": "2026-10-04",
-    "doi": "https://doi.org/10.5281/zenodo.23130464",
-    "title": "Spend the Budget on the Known or the Unknown? Open-Set Active Learning Scores Two Opposed Objectives Under One Name, Its Filtering Side's Own Results Do Not Treat Unknowns as Waste, and the Winner Is Set by a Relevance Label and a Query Price the Benchmarks Fix in Advance",
-    "url": "https://research.pranaymahendrakar.com/p/spend-the-budget-on-the-known-or-the-unknown-open-set"
    }
   ]
  }
