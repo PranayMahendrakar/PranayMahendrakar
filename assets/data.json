@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-07",
-  "github": "2026-10-07",
-  "leetcode": "2026-10-07",
-  "packages": "2026-10-07",
-  "podcast": "2026-10-07",
-  "research": "2026-10-07"
+  "blog": "2026-10-08",
+  "github": "2026-10-08",
+  "leetcode": "2026-10-08",
+  "packages": "2026-10-08",
+  "podcast": "2026-10-08",
+  "research": "2026-10-08"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-08",
+    "title": "Open-weight isn't open until you can download it: what to test on Reflection's Beam",
+    "url": "https://pranaymahendrakar.com/blog/open-weight-isnt-open-until-you-can-download-it-what-to-test-on-reflec"
+   },
    {
     "date": "2026-10-07",
     "title": "NIST just published an AI evaluation framework, and its best feature is no checklist.",
@@ -28,16 +33,11 @@
     "date": "2026-10-03",
     "title": "Exploits now arrive in under a day. Your patch cycle still runs on weeks.",
     "url": "https://pranaymahendrakar.com/blog/exploits-now-arrive-in-under-a-day-your-patch-cycle-still-runs-on-week"
-   },
-   {
-    "date": "2026-10-02",
-    "title": "Robots now think with a cloud model. Most factory floors can't depend on that.",
-    "url": "https://pranaymahendrakar.com/blog/robots-now-think-with-a-cloud-model-most-factory-floors-cant-depend-on"
    }
   ]
  },
  "github": {
-  "contributions": 9832,
+  "contributions": 9833,
   "first_sunday": "2025-10-05",
   "followers": 14,
   "languages": [
@@ -552,8 +552,8 @@
     6,
     5,
     30,
+    1,
     0,
-    null,
     null,
     null
    ]
@@ -567,7 +567,7 @@
   "solved": 3288
  },
  "packages": {
-  "count": 43
+  "count": 44
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 76,
+  "count": 78,
   "latest": [
+   {
+    "date": "2026-10-08",
+    "doi": "https://doi.org/10.5281/zenodo.23225367",
+    "title": "A Contamination Flag Is Not an Inflation Estimate: What Benchmark Contamination Detectors Certify, What Decontamination Is Meant to Buy, and Why the Clean-Subset Comparison That Joins Them Is Biased From Both Sides",
+    "url": "https://research.pranaymahendrakar.com/p/a-contamination-flag-is-not-an-inflation-estimate"
+   },
+   {
+    "date": "2026-10-07",
+    "doi": "https://doi.org/10.5281/zenodo.23213949",
+    "title": "No Stable Self: What Self-Referential Anomaly Defence Can Certify for a Continually Learning System, Why Every Located Guarantee Holds the Benign Distribution Still, and Why Immunology's Own Answer Is a Damage Signal From Outside",
+    "url": "https://research.pranaymahendrakar.com/p/no-stable-self-what-self-referential-anomaly-defence-can"
+   },
    {
     "date": "2026-10-07",
     "doi": "https://doi.org/10.5281/zenodo.23199460",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23174118",
     "title": "Age Is Not Evidence of Staleness: A Recency Decay Is a One-Rate Survival Model, the Rate Belongs to the Fact Rather Than the Clock, and the Silent Change Only a Rate Could Catch Is the Case No Agent-Memory Benchmark Scores",
     "url": "https://research.pranaymahendrakar.com/p/age-is-not-evidence-of-staleness"
-   },
-   {
-    "date": "2026-10-05",
-    "doi": "https://doi.org/10.5281/zenodo.23168094",
-    "title": "Did the Model Change, or Did Your Measurement? A Drift Claim Is a Test Against a Declared Null, the Careful Longitudinal Studies Mostly Caught Announced Version Moves, and a Capability Change Under a Pinned Identifier Is the Claim the Evidence Supports Least",
-    "url": "https://research.pranaymahendrakar.com/p/did-the-model-change-or-did-your-measurement-a-drift-claim"
-   },
-   {
-    "date": "2026-10-05",
-    "doi": "https://doi.org/10.5281/zenodo.23147856",
-    "title": "Detectors Say 'Different', Not 'What': Score, Deviation and Name Are Three Claims With Three Referees, Only the Name Needs a Referee Outside the Detector, and Published Results Show Novelty Detected Far More Reliably Than It Is Named",
-    "url": "https://research.pranaymahendrakar.com/p/detectors-say-different-not-what"
    }
   ]
  }
