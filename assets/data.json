@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-08",
-  "github": "2026-10-08",
-  "leetcode": "2026-10-08",
-  "packages": "2026-10-08",
-  "podcast": "2026-10-08",
-  "research": "2026-10-08"
+  "blog": "2026-10-09",
+  "github": "2026-10-09",
+  "leetcode": "2026-10-09",
+  "packages": "2026-10-09",
+  "podcast": "2026-10-09",
+  "research": "2026-10-09"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-09",
+    "title": "Haiku 5.5 is 75% cheaper. The real win is that the small model finally gets a job.",
+    "url": "https://pranaymahendrakar.com/blog/haiku-55-is-75-cheaper-the-real-win-is-that-the-small-model-finally-ge"
+   },
    {
     "date": "2026-10-08",
     "title": "Open-weight isn't open until you can download it: what to test on Reflection's Beam",
@@ -28,11 +33,6 @@
     "date": "2026-10-04",
     "title": "A deepfake detector that runs on light is a hardware story, not a model story.",
     "url": "https://pranaymahendrakar.com/blog/a-deepfake-detector-that-runs-on-light-is-a-hardware-story-not-a-model"
-   },
-   {
-    "date": "2026-10-03",
-    "title": "Exploits now arrive in under a day. Your patch cycle still runs on weeks.",
-    "url": "https://pranaymahendrakar.com/blog/exploits-now-arrive-in-under-a-day-your-patch-cycle-still-runs-on-week"
    }
   ]
  },
@@ -554,7 +554,7 @@
     30,
     1,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -567,7 +567,7 @@
   "solved": 3288
  },
  "packages": {
-  "count": 44
+  "count": 46
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 78,
+  "count": 80,
   "latest": [
+   {
+    "date": "2026-10-09",
+    "doi": "https://doi.org/10.5281/zenodo.23250481",
+    "title": "Dictionaries Without Ontologies: What a Sparse Autoencoder Latent Is Evidence For, Why Decodability, Use and Reproducibility Do Not Add Up to Canonicity, and the Identifiability Premise No Real-Model Result Has Checked",
+    "url": "https://research.pranaymahendrakar.com/p/dictionaries-without-ontologies"
+   },
+   {
+    "date": "2026-10-08",
+    "doi": "https://doi.org/10.5281/zenodo.23240102",
+    "title": "Three Hazards Under One Horizon: Constant-Hazard, Degrading-Step and Log-Logistic Accounts of Agent Failure Describe Different Levels of the Same Data, the 50 Percent Trend Barely Depends on Which Is Right, and Every High-Reliability Forecast Does",
+    "url": "https://research.pranaymahendrakar.com/p/three-hazards-under-one-horizon"
+   },
    {
     "date": "2026-10-08",
     "doi": "https://doi.org/10.5281/zenodo.23225367",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23199460",
     "title": "Agreement Is Not a Criterion: What Matching Human Labels Certifies About an LLM Judge, Why a Shared Shortcut Passes the Test, and Why Every External Criterion Found So Far Validates a Use Rather Than a Judge",
     "url": "https://research.pranaymahendrakar.com/p/agreement-is-not-a-criterion"
-   },
-   {
-    "date": "2026-10-06",
-    "doi": "https://doi.org/10.5281/zenodo.23189547",
-    "title": "A Stated Limit Is a Forecast: What an Agent Can Truthfully Say About Its Own Permissions, Why the Checkable Part Should Never Come From the Model, and How to Score the Part Only the Model Can Supply",
-    "url": "https://research.pranaymahendrakar.com/p/a-stated-limit-is-a-forecast"
-   },
-   {
-    "date": "2026-10-06",
-    "doi": "https://doi.org/10.5281/zenodo.23174118",
-    "title": "Age Is Not Evidence of Staleness: A Recency Decay Is a One-Rate Survival Model, the Rate Belongs to the Fact Rather Than the Clock, and the Silent Change Only a Rate Could Catch Is the Case No Agent-Memory Benchmark Scores",
-    "url": "https://research.pranaymahendrakar.com/p/age-is-not-evidence-of-staleness"
    }
   ]
  }
