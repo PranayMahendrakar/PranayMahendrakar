@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 80 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 82 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,833 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->80<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->82<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [One Pass, Three Purchases](https://research.pranaymahendrakar.com/p/one-pass-three-purchases-deduplications-efficiency) &mdash; [DOI](https://doi.org/10.5281/zenodo.23271874) <sub>2026-10-10</sub>
+- [Deskilling Is Not One Endpoint](https://research.pranaymahendrakar.com/p/deskilling-is-not-one-endpoint) &mdash; [DOI](https://doi.org/10.5281/zenodo.23264409) <sub>2026-10-09</sub>
 - [Dictionaries Without Ontologies](https://research.pranaymahendrakar.com/p/dictionaries-without-ontologies) &mdash; [DOI](https://doi.org/10.5281/zenodo.23250481) <sub>2026-10-09</sub>
 - [Three Hazards Under One Horizon](https://research.pranaymahendrakar.com/p/three-hazards-under-one-horizon) &mdash; [DOI](https://doi.org/10.5281/zenodo.23240102) <sub>2026-10-08</sub>
 - [A Contamination Flag Is Not an Inflation Estimate](https://research.pranaymahendrakar.com/p/a-contamination-flag-is-not-an-inflation-estimate) &mdash; [DOI](https://doi.org/10.5281/zenodo.23225367) <sub>2026-10-08</sub>
-- [No Stable Self: What Self-Referential Anomaly Defence Can Certify for a Continually Learning System, Why…](https://research.pranaymahendrakar.com/p/no-stable-self-what-self-referential-anomaly-defence-can) &mdash; [DOI](https://doi.org/10.5281/zenodo.23213949) <sub>2026-10-07</sub>
-- [Agreement Is Not a Criterion](https://research.pranaymahendrakar.com/p/agreement-is-not-a-criterion) &mdash; [DOI](https://doi.org/10.5281/zenodo.23199460) <sub>2026-10-07</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: 722 AI-written math papers prove nothing until someone can rerun them](https://pranaymahendrakar.com/blog/hot-take-722-ai-written-math-papers-prove-nothing-until-someone-can-re) <sub>2026-10-10</sub>
 - [Haiku 5.5 is 75% cheaper. The real win is that the small model finally gets a job.](https://pranaymahendrakar.com/blog/haiku-55-is-75-cheaper-the-real-win-is-that-the-small-model-finally-ge) <sub>2026-10-09</sub>
 - [Open-weight isn't open until you can download it: what to test on Reflection's Beam](https://pranaymahendrakar.com/blog/open-weight-isnt-open-until-you-can-download-it-what-to-test-on-reflec) <sub>2026-10-08</sub>
 - [NIST just published an AI evaluation framework, and its best feature is no checklist.](https://pranaymahendrakar.com/blog/nist-just-published-an-ai-evaluation-framework-and-its-best-feature-is) <sub>2026-10-07</sub>
 - [A 125B model now runs on a gaming GPU. Whether it's good enough is the real question.](https://pranaymahendrakar.com/blog/a-125b-model-now-runs-on-a-gaming-gpu-whether-its-good-enough-is-the-r) <sub>2026-10-05</sub>
-- [A deepfake detector that runs on light is a hardware story, not a model story.](https://pranaymahendrakar.com/blog/a-deepfake-detector-that-runs-on-light-is-a-hardware-story-not-a-model) <sub>2026-10-04</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

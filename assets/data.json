@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-09",
-  "github": "2026-10-09",
-  "leetcode": "2026-10-09",
-  "packages": "2026-10-09",
-  "podcast": "2026-10-09",
-  "research": "2026-10-09"
+  "blog": "2026-10-10",
+  "github": "2026-10-10",
+  "leetcode": "2026-10-10",
+  "packages": "2026-10-10",
+  "podcast": "2026-10-10",
+  "research": "2026-10-10"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-10",
+    "title": "Hot take: 722 AI-written math papers prove nothing until someone can rerun them",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-722-ai-written-math-papers-prove-nothing-until-someone-can-re"
+   },
    {
     "date": "2026-10-09",
     "title": "Haiku 5.5 is 75% cheaper. The real win is that the small model finally gets a job.",
@@ -28,11 +33,6 @@
     "date": "2026-10-05",
     "title": "A 125B model now runs on a gaming GPU. Whether it's good enough is the real question.",
     "url": "https://pranaymahendrakar.com/blog/a-125b-model-now-runs-on-a-gaming-gpu-whether-its-good-enough-is-the-r"
-   },
-   {
-    "date": "2026-10-04",
-    "title": "A deepfake detector that runs on light is a hardware story, not a model story.",
-    "url": "https://pranaymahendrakar.com/blog/a-deepfake-detector-that-runs-on-light-is-a-hardware-story-not-a-model"
    }
   ]
  },
@@ -555,7 +555,7 @@
     1,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 80,
+  "count": 82,
   "latest": [
+   {
+    "date": "2026-10-10",
+    "doi": "https://doi.org/10.5281/zenodo.23271874",
+    "title": "One Pass, Three Purchases: Deduplication's Efficiency, Generalisation and Privacy Arguments Each Hold in Their Own Regime, Rest on Different Properties of the Repetition Distribution, and Cannot All Be Bought With One Similarity Threshold",
+    "url": "https://research.pranaymahendrakar.com/p/one-pass-three-purchases-deduplications-efficiency"
+   },
+   {
+    "date": "2026-10-09",
+    "doi": "https://doi.org/10.5281/zenodo.23264409",
+    "title": "Deskilling Is Not One Endpoint: Five Quantities Behind Assisted Gains and Unassisted Losses in Clinical AI, Why Two Studies of the Same Design Disagree, and Why a Within-Clinician Trial's Control Arm Has Already Been Exposed",
+    "url": "https://research.pranaymahendrakar.com/p/deskilling-is-not-one-endpoint"
+   },
    {
     "date": "2026-10-09",
     "doi": "https://doi.org/10.5281/zenodo.23250481",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23225367",
     "title": "A Contamination Flag Is Not an Inflation Estimate: What Benchmark Contamination Detectors Certify, What Decontamination Is Meant to Buy, and Why the Clean-Subset Comparison That Joins Them Is Biased From Both Sides",
     "url": "https://research.pranaymahendrakar.com/p/a-contamination-flag-is-not-an-inflation-estimate"
-   },
-   {
-    "date": "2026-10-07",
-    "doi": "https://doi.org/10.5281/zenodo.23213949",
-    "title": "No Stable Self: What Self-Referential Anomaly Defence Can Certify for a Continually Learning System, Why Every Located Guarantee Holds the Benign Distribution Still, and Why Immunology's Own Answer Is a Damage Signal From Outside",
-    "url": "https://research.pranaymahendrakar.com/p/no-stable-self-what-self-referential-anomaly-defence-can"
-   },
-   {
-    "date": "2026-10-07",
-    "doi": "https://doi.org/10.5281/zenodo.23199460",
-    "title": "Agreement Is Not a Criterion: What Matching Human Labels Certifies About an LLM Judge, Why a Shared Shortcut Passes the Test, and Why Every External Criterion Found So Far Validates a Use Rather Than a Judge",
-    "url": "https://research.pranaymahendrakar.com/p/agreement-is-not-a-criterion"
    }
   ]
  }
