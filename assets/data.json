@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-11",
-  "github": "2026-10-11",
-  "leetcode": "2026-10-11",
-  "packages": "2026-10-11",
-  "podcast": "2026-10-11",
-  "research": "2026-10-11"
+  "blog": "2026-10-12",
+  "github": "2026-10-12",
+  "leetcode": "2026-10-12",
+  "packages": "2026-10-12",
+  "podcast": "2026-10-12",
+  "research": "2026-10-12"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-12",
+    "title": "The EU AI Act disclosure rule is live, and it is an architecture problem, not a legal one",
+    "url": "https://pranaymahendrakar.com/blog/the-eu-ai-act-disclosure-rule-is-live-and-it-is-an-architecture-proble"
+   },
    {
     "date": "2026-10-11",
     "title": "Mistral's 1T-parameter Large 4 means nothing until the open weights actually ship",
@@ -28,16 +33,11 @@
     "date": "2026-10-08",
     "title": "Open-weight isn't open until you can download it: what to test on Reflection's Beam",
     "url": "https://pranaymahendrakar.com/blog/open-weight-isnt-open-until-you-can-download-it-what-to-test-on-reflec"
-   },
-   {
-    "date": "2026-10-07",
-    "title": "NIST just published an AI evaluation framework, and its best feature is no checklist.",
-    "url": "https://pranaymahendrakar.com/blog/nist-just-published-an-ai-evaluation-framework-and-its-best-feature-is"
    }
   ]
  },
  "github": {
-  "contributions": 9833,
+  "contributions": 9748,
   "first_sunday": "2025-10-12",
   "followers": 14,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -567,7 +567,7 @@
   "solved": 3288
  },
  "packages": {
-  "count": 48
+  "count": 50
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 84,
+  "count": 86,
   "latest": [
+   {
+    "date": "2026-10-12",
+    "doi": "https://doi.org/10.5281/zenodo.23306459",
+    "title": "What Counts as a Control? A Scaffold Effect Is a Contrast Conditional on What Was Held Fixed, the 2026 Controlled Studies Each Held Something Different, and Only a Declared Spend Interval Makes a Harness Claim Refutable",
+    "url": "https://research.pranaymahendrakar.com/p/what-counts-as-a-control-a-scaffold-effect-is-a-contrast"
+   },
+   {
+    "date": "2026-10-11",
+    "doi": "https://doi.org/10.5281/zenodo.23300114",
+    "title": "Repair Without a Repairer: Five Mechanisms Called Self-Repair in Neural Networks, Why Much of the Measured Restoration Is Restored Scale, and What Would License the Claim That a Network Restores Its Own Performance",
+    "url": "https://research.pranaymahendrakar.com/p/repair-without-a-repairer"
+   },
    {
     "date": "2026-10-11",
     "doi": "https://doi.org/10.5281/zenodo.23289446",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23271874",
     "title": "One Pass, Three Purchases: Deduplication's Efficiency, Generalisation and Privacy Arguments Each Hold in Their Own Regime, Rest on Different Properties of the Repetition Distribution, and Cannot All Be Bought With One Similarity Threshold",
     "url": "https://research.pranaymahendrakar.com/p/one-pass-three-purchases-deduplications-efficiency"
-   },
-   {
-    "date": "2026-10-09",
-    "doi": "https://doi.org/10.5281/zenodo.23264409",
-    "title": "Deskilling Is Not One Endpoint: Five Quantities Behind Assisted Gains and Unassisted Losses in Clinical AI, Why Two Studies of the Same Design Disagree, and Why a Within-Clinician Trial's Control Arm Has Already Been Exposed",
-    "url": "https://research.pranaymahendrakar.com/p/deskilling-is-not-one-endpoint"
-   },
-   {
-    "date": "2026-10-09",
-    "doi": "https://doi.org/10.5281/zenodo.23250481",
-    "title": "Dictionaries Without Ontologies: What a Sparse Autoencoder Latent Is Evidence For, Why Decodability, Use and Reproducibility Do Not Add Up to Canonicity, and the Identifiability Premise No Real-Model Result Has Checked",
-    "url": "https://research.pranaymahendrakar.com/p/dictionaries-without-ontologies"
    }
   ]
  }
