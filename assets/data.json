@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-12",
-  "github": "2026-10-12",
-  "leetcode": "2026-10-12",
-  "packages": "2026-10-12",
-  "podcast": "2026-10-12",
-  "research": "2026-10-12"
+  "blog": "2026-10-13",
+  "github": "2026-10-13",
+  "leetcode": "2026-10-13",
+  "packages": "2026-10-13",
+  "podcast": "2026-10-13",
+  "research": "2026-10-13"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-13",
+    "title": "Reflection's Beam has 23B active parameters. Your GPU bill will be set by the other 478B.",
+    "url": "https://pranaymahendrakar.com/blog/reflections-beam-has-23b-active-parameters-your-gpu-bill-will-be-set-b"
+   },
    {
     "date": "2026-10-12",
     "title": "The EU AI Act disclosure rule is live, and it is an architecture problem, not a legal one",
@@ -28,11 +33,6 @@
     "date": "2026-10-09",
     "title": "Haiku 5.5 is 75% cheaper. The real win is that the small model finally gets a job.",
     "url": "https://pranaymahendrakar.com/blog/haiku-55-is-75-cheaper-the-real-win-is-that-the-small-model-finally-ge"
-   },
-   {
-    "date": "2026-10-08",
-    "title": "Open-weight isn't open until you can download it: what to test on Reflection's Beam",
-    "url": "https://pranaymahendrakar.com/blog/open-weight-isnt-open-until-you-can-download-it-what-to-test-on-reflec"
    }
   ]
  },
@@ -551,7 +551,7 @@
    [
     0,
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -567,7 +567,7 @@
   "solved": 3288
  },
  "packages": {
-  "count": 50
+  "count": 52
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 86,
+  "count": 88,
   "latest": [
+   {
+    "date": "2026-10-13",
+    "doi": "https://doi.org/10.5281/zenodo.23328132",
+    "title": "INT4 Is Not One Treatment: Why the Quantisation-Safety Literature Cannot Be Reconciled as Reported, How Six Design Axes Separate Its Studies Before Bit-Width Does, and Why Two 2026 Studies of the Same Model Names Reach Opposite Verdicts",
+    "url": "https://research.pranaymahendrakar.com/p/int4-is-not-one-treatment"
+   },
+   {
+    "date": "2026-10-12",
+    "doi": "https://doi.org/10.5281/zenodo.23318714",
+    "title": "Where the Transcript Runs Out: When Model Internals Beat Behavioural Monitors, Why the Strongest Generalisation Evidence Comes From Targets the Text Already Shows, and the Comparisons No Study Has Yet Run",
+    "url": "https://research.pranaymahendrakar.com/p/where-the-transcript-runs-out"
+   },
    {
     "date": "2026-10-12",
     "doi": "https://doi.org/10.5281/zenodo.23306459",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23289446",
     "title": "Circuits Are Estimates, Not Mechanisms: A Recovered Subgraph Is One Draw From a Class Set by the Ablation, the Dataset and the Grain, the Results That Defend Circuits Hold at the Level of That Class, and What Ablation Evidence Licenses at Each Level",
     "url": "https://research.pranaymahendrakar.com/p/circuits-are-estimates-not-mechanisms"
-   },
-   {
-    "date": "2026-10-10",
-    "doi": "https://doi.org/10.5281/zenodo.23283718",
-    "title": "A Control Knob Is Not a Concept: What a Working Steering Vector Licenses, Why Its Equivalence Class Is Set by the Readout That Scores It, and the Controls That Would Upgrade Control to Representation",
-    "url": "https://research.pranaymahendrakar.com/p/a-control-knob-is-not-a-concept"
-   },
-   {
-    "date": "2026-10-10",
-    "doi": "https://doi.org/10.5281/zenodo.23271874",
-    "title": "One Pass, Three Purchases: Deduplication's Efficiency, Generalisation and Privacy Arguments Each Hold in Their Own Regime, Rest on Different Properties of the Repetition Distribution, and Cannot All Be Bought With One Similarity Threshold",
-    "url": "https://research.pranaymahendrakar.com/p/one-pass-three-purchases-deduplications-efficiency"
    }
   ]
  }
