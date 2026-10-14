@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-13",
-  "github": "2026-10-13",
-  "leetcode": "2026-10-13",
-  "packages": "2026-10-13",
-  "podcast": "2026-10-13",
-  "research": "2026-10-13"
+  "blog": "2026-10-14",
+  "github": "2026-10-14",
+  "leetcode": "2026-10-14",
+  "packages": "2026-10-14",
+  "podcast": "2026-10-14",
+  "research": "2026-10-14"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-14",
+    "title": "Utah's AI prescription pilot hinges on one number nobody has published: how often it asks a human",
+    "url": "https://pranaymahendrakar.com/blog/utahs-ai-prescription-pilot-hinges-on-one-number-nobody-has-published-"
+   },
    {
     "date": "2026-10-13",
     "title": "Reflection's Beam has 23B active parameters. Your GPU bill will be set by the other 478B.",
@@ -28,16 +33,11 @@
     "date": "2026-10-10",
     "title": "Hot take: 722 AI-written math papers prove nothing until someone can rerun them",
     "url": "https://pranaymahendrakar.com/blog/hot-take-722-ai-written-math-papers-prove-nothing-until-someone-can-re"
-   },
-   {
-    "date": "2026-10-09",
-    "title": "Haiku 5.5 is 75% cheaper. The real win is that the small model finally gets a job.",
-    "url": "https://pranaymahendrakar.com/blog/haiku-55-is-75-cheaper-the-real-win-is-that-the-small-model-finally-ge"
    }
   ]
  },
  "github": {
-  "contributions": 9748,
+  "contributions": 9749,
   "first_sunday": "2025-10-12",
   "followers": 14,
   "languages": [
@@ -551,8 +551,8 @@
    [
     0,
     0,
+    1,
     0,
-    null,
     null,
     null,
     null
@@ -567,7 +567,7 @@
   "solved": 3288
  },
  "packages": {
-  "count": 52
+  "count": 54
  },
  "podcast": {
   "latest": [
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 88,
+  "count": 90,
   "latest": [
+   {
+    "date": "2026-10-14",
+    "doi": "https://doi.org/10.5281/zenodo.23353594",
+    "title": "Which Signal Did the Synthesis Import? Information, Re-presentation and Selection in Synthetic Pretraining, Why 'the Verifier Is Doing the Work' Holds Only Where Correctness Is the Target, and the Controls That Would Assign the Credit",
+    "url": "https://research.pranaymahendrakar.com/p/which-signal-did-the-synthesis-import-information-re"
+   },
+   {
+    "date": "2026-10-13",
+    "doi": "https://doi.org/10.5281/zenodo.23343116",
+    "title": "Lossless at What Length? Near-Lossless KV Cache Compression Is a Claim Indexed by Decode Exposure, Scoring Statistic and Budget Accounting, the Decode-Aware Line Has Answered the First Index Mostly on Final-Answer Accuracy, and Divergence From the Full Cache Is Not by Itself the Defect",
+    "url": "https://research.pranaymahendrakar.com/p/lossless-at-what-length-near-lossless-kv-cache-compression"
+   },
    {
     "date": "2026-10-13",
     "doi": "https://doi.org/10.5281/zenodo.23328132",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23306459",
     "title": "What Counts as a Control? A Scaffold Effect Is a Contrast Conditional on What Was Held Fixed, the 2026 Controlled Studies Each Held Something Different, and Only a Declared Spend Interval Makes a Harness Claim Refutable",
     "url": "https://research.pranaymahendrakar.com/p/what-counts-as-a-control-a-scaffold-effect-is-a-contrast"
-   },
-   {
-    "date": "2026-10-11",
-    "doi": "https://doi.org/10.5281/zenodo.23300114",
-    "title": "Repair Without a Repairer: Five Mechanisms Called Self-Repair in Neural Networks, Why Much of the Measured Restoration Is Restored Scale, and What Would License the Claim That a Network Restores Its Own Performance",
-    "url": "https://research.pranaymahendrakar.com/p/repair-without-a-repairer"
-   },
-   {
-    "date": "2026-10-11",
-    "doi": "https://doi.org/10.5281/zenodo.23289446",
-    "title": "Circuits Are Estimates, Not Mechanisms: A Recovered Subgraph Is One Draw From a Class Set by the Ablation, the Dataset and the Grain, the Results That Defend Circuits Hold at the Level of That Class, and What Ablation Evidence Licenses at Each Level",
-    "url": "https://research.pranaymahendrakar.com/p/circuits-are-estimates-not-mechanisms"
    }
   ]
  }
