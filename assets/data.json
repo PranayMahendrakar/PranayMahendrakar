@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-14",
-  "github": "2026-10-14",
-  "leetcode": "2026-10-14",
-  "packages": "2026-10-14",
-  "podcast": "2026-10-14",
-  "research": "2026-10-14"
+  "blog": "2026-10-15",
+  "github": "2026-10-15",
+  "leetcode": "2026-10-15",
+  "packages": "2026-10-15",
+  "podcast": "2026-10-15",
+  "research": "2026-10-15"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-15",
+    "title": "Anthropic says open models carry \"more risk.\" It depends on whose risk you count.",
+    "url": "https://pranaymahendrakar.com/blog/anthropic-says-open-models-carry-more-risk-it-depends-on-whose-risk-yo"
+   },
    {
     "date": "2026-10-14",
     "title": "Utah's AI prescription pilot hinges on one number nobody has published: how often it asks a human",
@@ -28,16 +33,11 @@
     "date": "2026-10-11",
     "title": "Mistral's 1T-parameter Large 4 means nothing until the open weights actually ship",
     "url": "https://pranaymahendrakar.com/blog/mistrals-1t-parameter-large-4-means-nothing-until-the-open-weights-act"
-   },
-   {
-    "date": "2026-10-10",
-    "title": "Hot take: 722 AI-written math papers prove nothing until someone can rerun them",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-722-ai-written-math-papers-prove-nothing-until-someone-can-re"
    }
   ]
  },
  "github": {
-  "contributions": 9749,
+  "contributions": 9753,
   "first_sunday": "2025-10-12",
   "followers": 14,
   "languages": [
@@ -552,8 +552,8 @@
     0,
     0,
     1,
+    4,
     0,
-    null,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 90,
+  "count": 92,
   "latest": [
+   {
+    "date": "2026-10-15",
+    "doi": "https://doi.org/10.5281/zenodo.23381527",
+    "title": "A Blind Score Is Not a Reliance Measure: What Answering Without the Audio Shows About Audio-Language Benchmarks, Why the Partial-Input Debate Already Settled Half of It, and the Counterfactual-Audio Test the Other Half Needs",
+    "url": "https://research.pranaymahendrakar.com/p/a-blind-score-is-not-a-reliance-measure"
+   },
+   {
+    "date": "2026-10-14",
+    "doi": "https://doi.org/10.5281/zenodo.23370694",
+    "title": "Robust Because Coarse, or Robust Because Planned? A Research Agenda for Training-Data Provenance After the Aggregate-Disclosure Turn, in Which Granularity Buys Statistical Power, Prior Randomisation Buys Soundness, and Per-Example Value Has Neither",
+    "url": "https://research.pranaymahendrakar.com/p/robust-because-coarse-or-robust-because-planned-a-research"
+   },
    {
     "date": "2026-10-14",
     "doi": "https://doi.org/10.5281/zenodo.23353594",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23328132",
     "title": "INT4 Is Not One Treatment: Why the Quantisation-Safety Literature Cannot Be Reconciled as Reported, How Six Design Axes Separate Its Studies Before Bit-Width Does, and Why Two 2026 Studies of the Same Model Names Reach Opposite Verdicts",
     "url": "https://research.pranaymahendrakar.com/p/int4-is-not-one-treatment"
-   },
-   {
-    "date": "2026-10-12",
-    "doi": "https://doi.org/10.5281/zenodo.23318714",
-    "title": "Where the Transcript Runs Out: When Model Internals Beat Behavioural Monitors, Why the Strongest Generalisation Evidence Comes From Targets the Text Already Shows, and the Comparisons No Study Has Yet Run",
-    "url": "https://research.pranaymahendrakar.com/p/where-the-transcript-runs-out"
-   },
-   {
-    "date": "2026-10-12",
-    "doi": "https://doi.org/10.5281/zenodo.23306459",
-    "title": "What Counts as a Control? A Scaffold Effect Is a Contrast Conditional on What Was Held Fixed, the 2026 Controlled Studies Each Held Something Different, and Only a Declared Spend Interval Makes a Harness Claim Refutable",
-    "url": "https://research.pranaymahendrakar.com/p/what-counts-as-a-control-a-scaffold-effect-is-a-contrast"
    }
   ]
  }
