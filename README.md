@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 94 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 96 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,753 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->94<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->96<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [Hard to Read Is Not Hard to Audit](https://research.pranaymahendrakar.com/p/hard-to-read-is-not-hard-to-audit) &mdash; [DOI](https://doi.org/10.5281/zenodo.23427759) <sub>2026-10-17</sub>
+- [Wrong Together Is an Item-Level Quantity](https://research.pranaymahendrakar.com/p/wrong-together-is-an-item-level-quantity) &mdash; [DOI](https://doi.org/10.5281/zenodo.23418905) <sub>2026-10-16</sub>
 - [A Rewrite That Keeps the Label Has Already Read It](https://research.pranaymahendrakar.com/p/a-rewrite-that-keeps-the-label-has-already-read-it) &mdash; [DOI](https://doi.org/10.5281/zenodo.23406462) <sub>2026-10-16</sub>
 - [Who Spoke Next Is Not Who Should Have](https://research.pranaymahendrakar.com/p/who-spoke-next-is-not-who-should-have) &mdash; [DOI](https://doi.org/10.5281/zenodo.23396947) <sub>2026-10-15</sub>
 - [A Blind Score Is Not a Reliance Measure](https://research.pranaymahendrakar.com/p/a-blind-score-is-not-a-reliance-measure) &mdash; [DOI](https://doi.org/10.5281/zenodo.23381527) <sub>2026-10-15</sub>
-- [Robust Because Coarse, or Robust Because Planned?](https://research.pranaymahendrakar.com/p/robust-because-coarse-or-robust-because-planned-a-research) &mdash; [DOI](https://doi.org/10.5281/zenodo.23370694) <sub>2026-10-14</sub>
-- [Which Signal Did the Synthesis Import?](https://research.pranaymahendrakar.com/p/which-signal-did-the-synthesis-import-information-re) &mdash; [DOI](https://doi.org/10.5281/zenodo.23353594) <sub>2026-10-14</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Eight states sued OpenAI over the word "safe." Can you prove yours?](https://pranaymahendrakar.com/blog/eight-states-sued-openai-over-the-word-safe-can-you-prove-yours) <sub>2026-10-17</sub>
 - [Meta's 816B open model needs 700 GB of memory. Open weights is not on-device.](https://pranaymahendrakar.com/blog/metas-816b-open-model-needs-700-gb-of-memory-open-weights-is-not-on-de) <sub>2026-10-16</sub>
 - [Anthropic says open models carry "more risk." It depends on whose risk you count.](https://pranaymahendrakar.com/blog/anthropic-says-open-models-carry-more-risk-it-depends-on-whose-risk-yo) <sub>2026-10-15</sub>
 - [Utah's AI prescription pilot hinges on one number nobody has published: how often it asks a human](https://pranaymahendrakar.com/blog/utahs-ai-prescription-pilot-hinges-on-one-number-nobody-has-published-) <sub>2026-10-14</sub>
 - [Reflection's Beam has 23B active parameters. Your GPU bill will be set by the other 478B.](https://pranaymahendrakar.com/blog/reflections-beam-has-23b-active-parameters-your-gpu-bill-will-be-set-b) <sub>2026-10-13</sub>
-- [The EU AI Act disclosure rule is live, and it is an architecture problem, not a legal one](https://pranaymahendrakar.com/blog/the-eu-ai-act-disclosure-rule-is-live-and-it-is-an-architecture-proble) <sub>2026-10-12</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

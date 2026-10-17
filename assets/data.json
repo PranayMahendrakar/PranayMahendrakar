@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-16",
-  "github": "2026-10-16",
-  "leetcode": "2026-10-16",
-  "packages": "2026-10-16",
+  "blog": "2026-10-17",
+  "github": "2026-10-17",
+  "leetcode": "2026-10-17",
+  "packages": "2026-10-17",
   "podcast": "2026-10-16",
-  "research": "2026-10-16"
+  "research": "2026-10-17"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-17",
+    "title": "Eight states sued OpenAI over the word \"safe.\" Can you prove yours?",
+    "url": "https://pranaymahendrakar.com/blog/eight-states-sued-openai-over-the-word-safe-can-you-prove-yours"
+   },
    {
     "date": "2026-10-16",
     "title": "Meta's 816B open model needs 700 GB of memory. Open weights is not on-device.",
@@ -28,11 +33,6 @@
     "date": "2026-10-13",
     "title": "Reflection's Beam has 23B active parameters. Your GPU bill will be set by the other 478B.",
     "url": "https://pranaymahendrakar.com/blog/reflections-beam-has-23b-active-parameters-your-gpu-bill-will-be-set-b"
-   },
-   {
-    "date": "2026-10-12",
-    "title": "The EU AI Act disclosure rule is live, and it is an architecture problem, not a legal one",
-    "url": "https://pranaymahendrakar.com/blog/the-eu-ai-act-disclosure-rule-is-live-and-it-is-an-architecture-proble"
    }
   ]
  },
@@ -555,7 +555,7 @@
     4,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 94,
+  "count": 96,
   "latest": [
+   {
+    "date": "2026-10-17",
+    "doi": "https://doi.org/10.5281/zenodo.23427759",
+    "title": "Hard to Read Is Not Hard to Audit: Why Degrading a Text Image Raises Jailbreak Success in One 2026 Study and Lowers It in Another, Four Accounts That Fit the Same Curve, and the Ablations That Would Separate Them",
+    "url": "https://research.pranaymahendrakar.com/p/hard-to-read-is-not-hard-to-audit"
+   },
+   {
+    "date": "2026-10-16",
+    "doi": "https://doi.org/10.5281/zenodo.23418905",
+    "title": "Wrong Together Is an Item-Level Quantity: Why Per-Person Reliance Measures Cannot Say Whether AI Assistance Correlates Human Errors, Why the Direct Probes Disagree, and the Reanalysis That Would Settle It",
+    "url": "https://research.pranaymahendrakar.com/p/wrong-together-is-an-item-level-quantity"
+   },
    {
     "date": "2026-10-16",
     "doi": "https://doi.org/10.5281/zenodo.23406462",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23381527",
     "title": "A Blind Score Is Not a Reliance Measure: What Answering Without the Audio Shows About Audio-Language Benchmarks, Why the Partial-Input Debate Already Settled Half of It, and the Counterfactual-Audio Test the Other Half Needs",
     "url": "https://research.pranaymahendrakar.com/p/a-blind-score-is-not-a-reliance-measure"
-   },
-   {
-    "date": "2026-10-14",
-    "doi": "https://doi.org/10.5281/zenodo.23370694",
-    "title": "Robust Because Coarse, or Robust Because Planned? A Research Agenda for Training-Data Provenance After the Aggregate-Disclosure Turn, in Which Granularity Buys Statistical Power, Prior Randomisation Buys Soundness, and Per-Example Value Has Neither",
-    "url": "https://research.pranaymahendrakar.com/p/robust-because-coarse-or-robust-because-planned-a-research"
-   },
-   {
-    "date": "2026-10-14",
-    "doi": "https://doi.org/10.5281/zenodo.23353594",
-    "title": "Which Signal Did the Synthesis Import? Information, Re-presentation and Selection in Synthetic Pretraining, Why 'the Verifier Is Doing the Work' Holds Only Where Correctness Is the Target, and the Controls That Would Assign the Credit",
-    "url": "https://research.pranaymahendrakar.com/p/which-signal-did-the-synthesis-import-information-re"
    }
   ]
  }
