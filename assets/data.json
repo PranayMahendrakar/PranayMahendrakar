@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-17",
-  "github": "2026-10-17",
-  "leetcode": "2026-10-17",
-  "packages": "2026-10-17",
-  "podcast": "2026-10-16",
-  "research": "2026-10-17"
+  "blog": "2026-10-18",
+  "github": "2026-10-18",
+  "leetcode": "2026-10-18",
+  "packages": "2026-10-18",
+  "podcast": "2026-10-18",
+  "research": "2026-10-18"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-18",
+    "title": "China would regulate running AI models abroad, not renting them. Know where yours run.",
+    "url": "https://pranaymahendrakar.com/blog/china-would-regulate-running-ai-models-abroad-not-renting-them-know-wh"
+   },
    {
     "date": "2026-10-17",
     "title": "Eight states sued OpenAI over the word \"safe.\" Can you prove yours?",
@@ -28,17 +33,12 @@
     "date": "2026-10-14",
     "title": "Utah's AI prescription pilot hinges on one number nobody has published: how often it asks a human",
     "url": "https://pranaymahendrakar.com/blog/utahs-ai-prescription-pilot-hinges-on-one-number-nobody-has-published-"
-   },
-   {
-    "date": "2026-10-13",
-    "title": "Reflection's Beam has 23B active parameters. Your GPU bill will be set by the other 478B.",
-    "url": "https://pranaymahendrakar.com/blog/reflections-beam-has-23b-active-parameters-your-gpu-bill-will-be-set-b"
    }
   ]
  },
  "github": {
-  "contributions": 9753,
-  "first_sunday": "2025-10-12",
+  "contributions": 9760,
+  "first_sunday": "2025-10-19",
   "followers": 14,
   "languages": [
    {
@@ -80,15 +80,6 @@
   "repos": 1382,
   "stars": 84,
   "weeks": [
-   [
-    13,
-    12,
-    12,
-    16,
-    15,
-    12,
-    10
-   ],
    [
     15,
     9,
@@ -555,7 +546,16 @@
     4,
     0,
     0,
-    0
+    5
+   ],
+   [
+    2,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 96,
+  "count": 98,
   "latest": [
+   {
+    "date": "2026-10-18",
+    "doi": "https://doi.org/10.5281/zenodo.23443486",
+    "title": "A Named Answer Is Not a Correction: The Moral Self-Correction Threshold Moved From 22B to 3.8B on Benchmarks a Context-Blind Policy Can Pass, and the Controls That Would Separate Steering From Correcting",
+    "url": "https://research.pranaymahendrakar.com/p/a-named-answer-is-not-a-correction"
+   },
+   {
+    "date": "2026-10-17",
+    "doi": "https://doi.org/10.5281/zenodo.23437257",
+    "title": "A Hidden Shift Is Not a Hidden Bias: What a Representation-Level Counterfactual Gap Certifies About an LLM Recommender, Why the Encoded-Versus-Expressed Studies Disagree, and the Placebo, Mediation and Transport Tests That Would Settle It",
+    "url": "https://research.pranaymahendrakar.com/p/a-hidden-shift-is-not-a-hidden-bias"
+   },
    {
     "date": "2026-10-17",
     "doi": "https://doi.org/10.5281/zenodo.23427759",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23406462",
     "title": "A Rewrite That Keeps the Label Has Already Read It: Why an LLM Paraphrase Can Raise a Sentiment Classifier's Accuracy Without the Classifier Getting Better, Four Accounts of the Gain, and the Re-Annotation and Neutral-Rate Controls That Would Separate Them",
     "url": "https://research.pranaymahendrakar.com/p/a-rewrite-that-keeps-the-label-has-already-read-it"
-   },
-   {
-    "date": "2026-10-15",
-    "doi": "https://doi.org/10.5281/zenodo.23396947",
-    "title": "Who Spoke Next Is Not Who Should Have: What Zero-Shot Failure on Multi-Party Turn-Taking Benchmarks Measures, Why the Human Reference Sits Beside the Models, and What Would Show That Knowing When to Speak Must Be Trained",
-    "url": "https://research.pranaymahendrakar.com/p/who-spoke-next-is-not-who-should-have"
-   },
-   {
-    "date": "2026-10-15",
-    "doi": "https://doi.org/10.5281/zenodo.23381527",
-    "title": "A Blind Score Is Not a Reliance Measure: What Answering Without the Audio Shows About Audio-Language Benchmarks, Why the Partial-Input Debate Already Settled Half of It, and the Counterfactual-Audio Test the Other Half Needs",
-    "url": "https://research.pranaymahendrakar.com/p/a-blind-score-is-not-a-reliance-measure"
    }
   ]
  }
