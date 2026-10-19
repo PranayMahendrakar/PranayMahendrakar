@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-18",
-  "github": "2026-10-18",
-  "leetcode": "2026-10-18",
-  "packages": "2026-10-18",
-  "podcast": "2026-10-18",
-  "research": "2026-10-18"
+  "blog": "2026-10-19",
+  "github": "2026-10-19",
+  "leetcode": "2026-10-19",
+  "packages": "2026-10-19",
+  "podcast": "2026-10-19",
+  "research": "2026-10-19"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-19",
+    "title": "Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.",
+    "url": "https://pranaymahendrakar.com/blog/jais-3-shipped-six-open-arabic-models-indic-languages-are-still-waitin"
+   },
    {
     "date": "2026-10-18",
     "title": "China would regulate running AI models abroad, not renting them. Know where yours run.",
@@ -28,16 +33,11 @@
     "date": "2026-10-15",
     "title": "Anthropic says open models carry \"more risk.\" It depends on whose risk you count.",
     "url": "https://pranaymahendrakar.com/blog/anthropic-says-open-models-carry-more-risk-it-depends-on-whose-risk-yo"
-   },
-   {
-    "date": "2026-10-14",
-    "title": "Utah's AI prescription pilot hinges on one number nobody has published: how often it asks a human",
-    "url": "https://pranaymahendrakar.com/blog/utahs-ai-prescription-pilot-hinges-on-one-number-nobody-has-published-"
    }
   ]
  },
  "github": {
-  "contributions": 9760,
+  "contributions": 9670,
   "first_sunday": "2025-10-19",
   "followers": 14,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     2,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 98,
+  "count": 100,
   "latest": [
+   {
+    "date": "2026-10-19",
+    "doi": "https://doi.org/10.5281/zenodo.23461021",
+    "title": "Which Way the Verdict Falls: Noise-Induced Flips in an LLM Bias Judge Run Toward the Label Its Prompt Makes Easiest to Reach, the Harm-Detection Literature Records the Opposite Sign, and Whether Noise Inflates a Bias Score Depends on the Score",
+    "url": "https://research.pranaymahendrakar.com/p/which-way-the-verdict-falls"
+   },
+   {
+    "date": "2026-10-18",
+    "doi": "https://doi.org/10.5281/zenodo.23453036",
+    "title": "A Tally of Framings Is Not a Census of Causes: What the AI Risk Repository's Human-Versus-AI Split Measures, Why Its Gap Closed From Seventeen Points to Four as the Corpus Grew, and the Attribution Rule a Causal Claim Would Need",
+    "url": "https://research.pranaymahendrakar.com/p/a-tally-of-framings-is-not-a-census-of-causes"
+   },
    {
     "date": "2026-10-18",
     "doi": "https://doi.org/10.5281/zenodo.23443486",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23427759",
     "title": "Hard to Read Is Not Hard to Audit: Why Degrading a Text Image Raises Jailbreak Success in One 2026 Study and Lowers It in Another, Four Accounts That Fit the Same Curve, and the Ablations That Would Separate Them",
     "url": "https://research.pranaymahendrakar.com/p/hard-to-read-is-not-hard-to-audit"
-   },
-   {
-    "date": "2026-10-16",
-    "doi": "https://doi.org/10.5281/zenodo.23418905",
-    "title": "Wrong Together Is an Item-Level Quantity: Why Per-Person Reliance Measures Cannot Say Whether AI Assistance Correlates Human Errors, Why the Direct Probes Disagree, and the Reanalysis That Would Settle It",
-    "url": "https://research.pranaymahendrakar.com/p/wrong-together-is-an-item-level-quantity"
-   },
-   {
-    "date": "2026-10-16",
-    "doi": "https://doi.org/10.5281/zenodo.23406462",
-    "title": "A Rewrite That Keeps the Label Has Already Read It: Why an LLM Paraphrase Can Raise a Sentiment Classifier's Accuracy Without the Classifier Getting Better, Four Accounts of the Gain, and the Re-Annotation and Neutral-Rate Controls That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/a-rewrite-that-keeps-the-label-has-already-read-it"
    }
   ]
  }
