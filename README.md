@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 100 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 102 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,670 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->100<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->102<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [Optimism Needs a Way Back](https://research.pranaymahendrakar.com/p/optimism-needs-a-way-back) &mdash; [DOI](https://doi.org/10.5281/zenodo.23486150) <sub>2026-10-20</sub>
+- [A Compliance Gap Is Not a Motive](https://research.pranaymahendrakar.com/p/a-compliance-gap-is-not-a-motive) &mdash; [DOI](https://doi.org/10.5281/zenodo.23478872) <sub>2026-10-19</sub>
 - [Which Way the Verdict Falls](https://research.pranaymahendrakar.com/p/which-way-the-verdict-falls) &mdash; [DOI](https://doi.org/10.5281/zenodo.23461021) <sub>2026-10-19</sub>
 - [A Tally of Framings Is Not a Census of Causes](https://research.pranaymahendrakar.com/p/a-tally-of-framings-is-not-a-census-of-causes) &mdash; [DOI](https://doi.org/10.5281/zenodo.23453036) <sub>2026-10-18</sub>
 - [A Named Answer Is Not a Correction](https://research.pranaymahendrakar.com/p/a-named-answer-is-not-a-correction) &mdash; [DOI](https://doi.org/10.5281/zenodo.23443486) <sub>2026-10-18</sub>
-- [A Hidden Shift Is Not a Hidden Bias](https://research.pranaymahendrakar.com/p/a-hidden-shift-is-not-a-hidden-bias) &mdash; [DOI](https://doi.org/10.5281/zenodo.23437257) <sub>2026-10-17</sub>
-- [Hard to Read Is Not Hard to Audit](https://research.pranaymahendrakar.com/p/hard-to-read-is-not-hard-to-audit) &mdash; [DOI](https://doi.org/10.5281/zenodo.23427759) <sub>2026-10-17</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.](https://pranaymahendrakar.com/blog/mixture-of-experts-models-compute-like-a-2b-and-store-like-a-24b-ask-a) <sub>2026-10-20</sub>
 - [Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.](https://pranaymahendrakar.com/blog/jais-3-shipped-six-open-arabic-models-indic-languages-are-still-waitin) <sub>2026-10-19</sub>
 - [China would regulate running AI models abroad, not renting them. Know where yours run.](https://pranaymahendrakar.com/blog/china-would-regulate-running-ai-models-abroad-not-renting-them-know-wh) <sub>2026-10-18</sub>
 - [Eight states sued OpenAI over the word "safe." Can you prove yours?](https://pranaymahendrakar.com/blog/eight-states-sued-openai-over-the-word-safe-can-you-prove-yours) <sub>2026-10-17</sub>
 - [Meta's 816B open model needs 700 GB of memory. Open weights is not on-device.](https://pranaymahendrakar.com/blog/metas-816b-open-model-needs-700-gb-of-memory-open-weights-is-not-on-de) <sub>2026-10-16</sub>
-- [Anthropic says open models carry "more risk." It depends on whose risk you count.](https://pranaymahendrakar.com/blog/anthropic-says-open-models-carry-more-risk-it-depends-on-whose-risk-yo) <sub>2026-10-15</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

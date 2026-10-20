@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-19",
-  "github": "2026-10-19",
-  "leetcode": "2026-10-19",
-  "packages": "2026-10-19",
-  "podcast": "2026-10-19",
-  "research": "2026-10-19"
+  "blog": "2026-10-20",
+  "github": "2026-10-20",
+  "leetcode": "2026-10-20",
+  "packages": "2026-10-20",
+  "podcast": "2026-10-20",
+  "research": "2026-10-20"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-20",
+    "title": "Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.",
+    "url": "https://pranaymahendrakar.com/blog/mixture-of-experts-models-compute-like-a-2b-and-store-like-a-24b-ask-a"
+   },
    {
     "date": "2026-10-19",
     "title": "Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.",
@@ -28,11 +33,6 @@
     "date": "2026-10-16",
     "title": "Meta's 816B open model needs 700 GB of memory. Open weights is not on-device.",
     "url": "https://pranaymahendrakar.com/blog/metas-816b-open-model-needs-700-gb-of-memory-open-weights-is-not-on-de"
-   },
-   {
-    "date": "2026-10-15",
-    "title": "Anthropic says open models carry \"more risk.\" It depends on whose risk you count.",
-    "url": "https://pranaymahendrakar.com/blog/anthropic-says-open-models-carry-more-risk-it-depends-on-whose-risk-yo"
    }
   ]
  },
@@ -551,7 +551,7 @@
    [
     2,
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 100,
+  "count": 102,
   "latest": [
+   {
+    "date": "2026-10-20",
+    "doi": "https://doi.org/10.5281/zenodo.23486150",
+    "title": "Optimism Needs a Way Back: What Value an Agent Should Give a State It Did Not Know Existed, Why Every Located Guarantee Borrows Its Answer From a Reset, a Data Horizon or a Reference, and What That Leaves for Unknown Unknowns",
+    "url": "https://research.pranaymahendrakar.com/p/optimism-needs-a-way-back"
+   },
+   {
+    "date": "2026-10-19",
+    "doi": "https://doi.org/10.5281/zenodo.23478872",
+    "title": "A Compliance Gap Is Not a Motive: Why 'Does Alignment Faking Require Scale?' Has No Answer Until the Measured Quantity Is Fixed, What Small-Model Gaps and Frontier Scratchpads Each Establish, and the Interventions That Would Separate Goal-Guarding From Expectation-Tracking",
+    "url": "https://research.pranaymahendrakar.com/p/a-compliance-gap-is-not-a-motive"
+   },
    {
     "date": "2026-10-19",
     "doi": "https://doi.org/10.5281/zenodo.23461021",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23443486",
     "title": "A Named Answer Is Not a Correction: The Moral Self-Correction Threshold Moved From 22B to 3.8B on Benchmarks a Context-Blind Policy Can Pass, and the Controls That Would Separate Steering From Correcting",
     "url": "https://research.pranaymahendrakar.com/p/a-named-answer-is-not-a-correction"
-   },
-   {
-    "date": "2026-10-17",
-    "doi": "https://doi.org/10.5281/zenodo.23437257",
-    "title": "A Hidden Shift Is Not a Hidden Bias: What a Representation-Level Counterfactual Gap Certifies About an LLM Recommender, Why the Encoded-Versus-Expressed Studies Disagree, and the Placebo, Mediation and Transport Tests That Would Settle It",
-    "url": "https://research.pranaymahendrakar.com/p/a-hidden-shift-is-not-a-hidden-bias"
-   },
-   {
-    "date": "2026-10-17",
-    "doi": "https://doi.org/10.5281/zenodo.23427759",
-    "title": "Hard to Read Is Not Hard to Audit: Why Degrading a Text Image Raises Jailbreak Success in One 2026 Study and Lowers It in Another, Four Accounts That Fit the Same Curve, and the Ablations That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/hard-to-read-is-not-hard-to-audit"
    }
   ]
  }
