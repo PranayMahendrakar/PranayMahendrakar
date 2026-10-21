@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-20",
-  "github": "2026-10-20",
-  "leetcode": "2026-10-20",
-  "packages": "2026-10-20",
-  "podcast": "2026-10-20",
-  "research": "2026-10-20"
+  "blog": "2026-10-21",
+  "github": "2026-10-21",
+  "leetcode": "2026-10-21",
+  "packages": "2026-10-21",
+  "podcast": "2026-10-21",
+  "research": "2026-10-21"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-21",
+    "title": "Hot take: \"private AI\" is a deployment fact, not a marketing sentence",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-private-ai-is-a-deployment-fact-not-a-marketing-sentence"
+   },
    {
     "date": "2026-10-20",
     "title": "Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.",
@@ -28,16 +33,11 @@
     "date": "2026-10-17",
     "title": "Eight states sued OpenAI over the word \"safe.\" Can you prove yours?",
     "url": "https://pranaymahendrakar.com/blog/eight-states-sued-openai-over-the-word-safe-can-you-prove-yours"
-   },
-   {
-    "date": "2026-10-16",
-    "title": "Meta's 816B open model needs 700 GB of memory. Open weights is not on-device.",
-    "url": "https://pranaymahendrakar.com/blog/metas-816b-open-model-needs-700-gb-of-memory-open-weights-is-not-on-de"
    }
   ]
  },
  "github": {
-  "contributions": 9670,
+  "contributions": 9680,
   "first_sunday": "2025-10-19",
   "followers": 14,
   "languages": [
@@ -551,8 +551,8 @@
    [
     2,
     0,
-    0,
-    null,
+    4,
+    6,
     null,
     null,
     null
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 102,
+  "count": 104,
   "latest": [
+   {
+    "date": "2026-10-21",
+    "doi": "https://doi.org/10.5281/zenodo.23519028",
+    "title": "A Hit Rate Is a Retention Policy: Prefix-Cache Reuse in Agentic Coding Traces Compounds the Workload With the Server's Eviction Rule and the Harness's Invalidations, Which Serving Assumptions the Traces Actually Break, and the Rent-or-Buy Rule That Prices the Turn Boundary",
+    "url": "https://research.pranaymahendrakar.com/p/a-hit-rate-is-a-retention-policy"
+   },
+   {
+    "date": "2026-10-20",
+    "doi": "https://doi.org/10.5281/zenodo.23501041",
+    "title": "Which Loss Prices the English Share? What Target-Language Validation Loss Can and Cannot See in Continued Pretraining for Language Adaptation, Why Two Training Regimes Disagree About What English Buys, and the Instruments a Mixture Choice Needs",
+    "url": "https://research.pranaymahendrakar.com/p/which-loss-prices-the-english-share-what-target-language"
+   },
    {
     "date": "2026-10-20",
     "doi": "https://doi.org/10.5281/zenodo.23486150",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23461021",
     "title": "Which Way the Verdict Falls: Noise-Induced Flips in an LLM Bias Judge Run Toward the Label Its Prompt Makes Easiest to Reach, the Harm-Detection Literature Records the Opposite Sign, and Whether Noise Inflates a Bias Score Depends on the Score",
     "url": "https://research.pranaymahendrakar.com/p/which-way-the-verdict-falls"
-   },
-   {
-    "date": "2026-10-18",
-    "doi": "https://doi.org/10.5281/zenodo.23453036",
-    "title": "A Tally of Framings Is Not a Census of Causes: What the AI Risk Repository's Human-Versus-AI Split Measures, Why Its Gap Closed From Seventeen Points to Four as the Corpus Grew, and the Attribution Rule a Causal Claim Would Need",
-    "url": "https://research.pranaymahendrakar.com/p/a-tally-of-framings-is-not-a-census-of-causes"
-   },
-   {
-    "date": "2026-10-18",
-    "doi": "https://doi.org/10.5281/zenodo.23443486",
-    "title": "A Named Answer Is Not a Correction: The Moral Self-Correction Threshold Moved From 22B to 3.8B on Benchmarks a Context-Blind Policy Can Pass, and the Controls That Would Separate Steering From Correcting",
-    "url": "https://research.pranaymahendrakar.com/p/a-named-answer-is-not-a-correction"
    }
   ]
  }
