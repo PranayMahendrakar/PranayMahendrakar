@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-21",
-  "github": "2026-10-21",
-  "leetcode": "2026-10-21",
-  "packages": "2026-10-21",
-  "podcast": "2026-10-21",
-  "research": "2026-10-21"
+  "blog": "2026-10-22",
+  "github": "2026-10-22",
+  "leetcode": "2026-10-22",
+  "packages": "2026-10-22",
+  "podcast": "2026-10-22",
+  "research": "2026-10-22"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-22",
+    "title": "Computer-use agents click buttons. Your code decides whether they should.",
+    "url": "https://pranaymahendrakar.com/blog/computer-use-agents-click-buttons-your-code-decides-whether-they-shoul"
+   },
    {
     "date": "2026-10-21",
     "title": "Hot take: \"private AI\" is a deployment fact, not a marketing sentence",
@@ -28,16 +33,11 @@
     "date": "2026-10-18",
     "title": "China would regulate running AI models abroad, not renting them. Know where yours run.",
     "url": "https://pranaymahendrakar.com/blog/china-would-regulate-running-ai-models-abroad-not-renting-them-know-wh"
-   },
-   {
-    "date": "2026-10-17",
-    "title": "Eight states sued OpenAI over the word \"safe.\" Can you prove yours?",
-    "url": "https://pranaymahendrakar.com/blog/eight-states-sued-openai-over-the-word-safe-can-you-prove-yours"
    }
   ]
  },
  "github": {
-  "contributions": 9680,
+  "contributions": 9681,
   "first_sunday": "2025-10-19",
   "followers": 14,
   "languages": [
@@ -552,8 +552,8 @@
     2,
     0,
     4,
-    6,
-    null,
+    7,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 104,
+  "count": 106,
   "latest": [
+   {
+    "date": "2026-10-22",
+    "doi": "https://doi.org/10.5281/zenodo.23548960",
+    "title": "A Satisfied Constraint Is Not a True Answer: What Reasoning Changes When an Instruction Cannot Be Met Truthfully, Why 'Detection-Resistant' Names a Property of the Checker, and the Feasibility-Controlled Test That Would Settle the Trade",
+    "url": "https://research.pranaymahendrakar.com/p/a-satisfied-constraint-is-not-a-true-answer"
+   },
+   {
+    "date": "2026-10-21",
+    "doi": "https://doi.org/10.5281/zenodo.23536189",
+    "title": "Newly Important Is Not Newly Built: What Reasoning Post-Training Adds Inside a Language Model, Why the Evidence Separates Representation From Wiring From Deployment, and the Cross-Model Tests That Would Show an Attention Head Is New",
+    "url": "https://research.pranaymahendrakar.com/p/newly-important-is-not-newly-built"
+   },
    {
     "date": "2026-10-21",
     "doi": "https://doi.org/10.5281/zenodo.23519028",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23486150",
     "title": "Optimism Needs a Way Back: What Value an Agent Should Give a State It Did Not Know Existed, Why Every Located Guarantee Borrows Its Answer From a Reset, a Data Horizon or a Reference, and What That Leaves for Unknown Unknowns",
     "url": "https://research.pranaymahendrakar.com/p/optimism-needs-a-way-back"
-   },
-   {
-    "date": "2026-10-19",
-    "doi": "https://doi.org/10.5281/zenodo.23478872",
-    "title": "A Compliance Gap Is Not a Motive: Why 'Does Alignment Faking Require Scale?' Has No Answer Until the Measured Quantity Is Fixed, What Small-Model Gaps and Frontier Scratchpads Each Establish, and the Interventions That Would Separate Goal-Guarding From Expectation-Tracking",
-    "url": "https://research.pranaymahendrakar.com/p/a-compliance-gap-is-not-a-motive"
-   },
-   {
-    "date": "2026-10-19",
-    "doi": "https://doi.org/10.5281/zenodo.23461021",
-    "title": "Which Way the Verdict Falls: Noise-Induced Flips in an LLM Bias Judge Run Toward the Label Its Prompt Makes Easiest to Reach, the Harm-Detection Literature Records the Opposite Sign, and Whether Noise Inflates a Bias Score Depends on the Score",
-    "url": "https://research.pranaymahendrakar.com/p/which-way-the-verdict-falls"
    }
   ]
  }
