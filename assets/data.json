@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-22",
-  "github": "2026-10-22",
-  "leetcode": "2026-10-22",
-  "packages": "2026-10-22",
-  "podcast": "2026-10-22",
-  "research": "2026-10-22"
+  "blog": "2026-10-23",
+  "github": "2026-10-23",
+  "leetcode": "2026-10-23",
+  "packages": "2026-10-23",
+  "podcast": "2026-10-23",
+  "research": "2026-10-23"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-23",
+    "title": "The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.",
+    "url": "https://pranaymahendrakar.com/blog/the-eu-ai-act-delay-is-a-head-start-not-a-reprieve-most-teams-will-was"
+   },
    {
     "date": "2026-10-22",
     "title": "Computer-use agents click buttons. Your code decides whether they should.",
@@ -28,11 +33,6 @@
     "date": "2026-10-19",
     "title": "Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.",
     "url": "https://pranaymahendrakar.com/blog/jais-3-shipped-six-open-arabic-models-indic-languages-are-still-waitin"
-   },
-   {
-    "date": "2026-10-18",
-    "title": "China would regulate running AI models abroad, not renting them. Know where yours run.",
-    "url": "https://pranaymahendrakar.com/blog/china-would-regulate-running-ai-models-abroad-not-renting-them-know-wh"
    }
   ]
  },
@@ -554,7 +554,7 @@
     4,
     7,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 106,
+  "count": 108,
   "latest": [
+   {
+    "date": "2026-10-23",
+    "doi": "https://doi.org/10.5281/zenodo.23581295",
+    "title": "A Starting Score Is Not a Ceiling: When Accuracy Before Reinforcement Learning Predicts Accuracy After It, Why Each Proposed Replacement Sees a Different Failure, and the Axis Test That Decides Which Proxy to Trust",
+    "url": "https://research.pranaymahendrakar.com/p/a-starting-score-is-not-a-ceiling"
+   },
+   {
+    "date": "2026-10-22",
+    "doi": "https://doi.org/10.5281/zenodo.23567564",
+    "title": "A Misalignment Rate Is Not a Model Property: Capacity, Propensity, Efficacy and Targeting in Multi-Agent LLM Commerce, Why a Null Capability Correlation Does Not Contradict the Scaling of Deceptive Skill, and the Design That Would Separate Them",
+    "url": "https://research.pranaymahendrakar.com/p/a-misalignment-rate-is-not-a-model-property"
+   },
    {
     "date": "2026-10-22",
     "doi": "https://doi.org/10.5281/zenodo.23548960",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23519028",
     "title": "A Hit Rate Is a Retention Policy: Prefix-Cache Reuse in Agentic Coding Traces Compounds the Workload With the Server's Eviction Rule and the Harness's Invalidations, Which Serving Assumptions the Traces Actually Break, and the Rent-or-Buy Rule That Prices the Turn Boundary",
     "url": "https://research.pranaymahendrakar.com/p/a-hit-rate-is-a-retention-policy"
-   },
-   {
-    "date": "2026-10-20",
-    "doi": "https://doi.org/10.5281/zenodo.23501041",
-    "title": "Which Loss Prices the English Share? What Target-Language Validation Loss Can and Cannot See in Continued Pretraining for Language Adaptation, Why Two Training Regimes Disagree About What English Buys, and the Instruments a Mixture Choice Needs",
-    "url": "https://research.pranaymahendrakar.com/p/which-loss-prices-the-english-share-what-target-language"
-   },
-   {
-    "date": "2026-10-20",
-    "doi": "https://doi.org/10.5281/zenodo.23486150",
-    "title": "Optimism Needs a Way Back: What Value an Agent Should Give a State It Did Not Know Existed, Why Every Located Guarantee Borrows Its Answer From a Reset, a Data Horizon or a Reference, and What That Leaves for Unknown Unknowns",
-    "url": "https://research.pranaymahendrakar.com/p/optimism-needs-a-way-back"
    }
   ]
  }
