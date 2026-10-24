@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 108 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 110 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,681 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->108<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->110<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [Calibrated Is Not Informative](https://research.pranaymahendrakar.com/p/calibrated-is-not-informative) &mdash; [DOI](https://doi.org/10.5281/zenodo.23606814) <sub>2026-10-24</sub>
+- [Tiny in Parameters, Not in Compute](https://research.pranaymahendrakar.com/p/tiny-in-parameters-not-in-compute) &mdash; [DOI](https://doi.org/10.5281/zenodo.23598073) <sub>2026-10-23</sub>
 - [A Starting Score Is Not a Ceiling](https://research.pranaymahendrakar.com/p/a-starting-score-is-not-a-ceiling) &mdash; [DOI](https://doi.org/10.5281/zenodo.23581295) <sub>2026-10-23</sub>
 - [A Misalignment Rate Is Not a Model Property](https://research.pranaymahendrakar.com/p/a-misalignment-rate-is-not-a-model-property) &mdash; [DOI](https://doi.org/10.5281/zenodo.23567564) <sub>2026-10-22</sub>
 - [A Satisfied Constraint Is Not a True Answer](https://research.pranaymahendrakar.com/p/a-satisfied-constraint-is-not-a-true-answer) &mdash; [DOI](https://doi.org/10.5281/zenodo.23548960) <sub>2026-10-22</sub>
-- [Newly Important Is Not Newly Built](https://research.pranaymahendrakar.com/p/newly-important-is-not-newly-built) &mdash; [DOI](https://doi.org/10.5281/zenodo.23536189) <sub>2026-10-21</sub>
-- [A Hit Rate Is a Retention Policy](https://research.pranaymahendrakar.com/p/a-hit-rate-is-a-retention-policy) &mdash; [DOI](https://doi.org/10.5281/zenodo.23519028) <sub>2026-10-21</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge](https://pranaymahendrakar.com/blog/sovereign-ai-starts-with-weights-you-can-actually-run-and-kolibri-make) <sub>2026-10-24</sub>
 - [The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.](https://pranaymahendrakar.com/blog/the-eu-ai-act-delay-is-a-head-start-not-a-reprieve-most-teams-will-was) <sub>2026-10-23</sub>
 - [Computer-use agents click buttons. Your code decides whether they should.](https://pranaymahendrakar.com/blog/computer-use-agents-click-buttons-your-code-decides-whether-they-shoul) <sub>2026-10-22</sub>
 - [Hot take: "private AI" is a deployment fact, not a marketing sentence](https://pranaymahendrakar.com/blog/hot-take-private-ai-is-a-deployment-fact-not-a-marketing-sentence) <sub>2026-10-21</sub>
 - [Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.](https://pranaymahendrakar.com/blog/mixture-of-experts-models-compute-like-a-2b-and-store-like-a-24b-ask-a) <sub>2026-10-20</sub>
-- [Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.](https://pranaymahendrakar.com/blog/jais-3-shipped-six-open-arabic-models-indic-languages-are-still-waitin) <sub>2026-10-19</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

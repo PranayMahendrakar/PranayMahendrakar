@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-23",
-  "github": "2026-10-23",
-  "leetcode": "2026-10-23",
-  "packages": "2026-10-23",
-  "podcast": "2026-10-23",
-  "research": "2026-10-23"
+  "blog": "2026-10-24",
+  "github": "2026-10-24",
+  "leetcode": "2026-10-24",
+  "packages": "2026-10-24",
+  "podcast": "2026-10-24",
+  "research": "2026-10-24"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-24",
+    "title": "Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge",
+    "url": "https://pranaymahendrakar.com/blog/sovereign-ai-starts-with-weights-you-can-actually-run-and-kolibri-make"
+   },
    {
     "date": "2026-10-23",
     "title": "The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.",
@@ -28,18 +33,13 @@
     "date": "2026-10-20",
     "title": "Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.",
     "url": "https://pranaymahendrakar.com/blog/mixture-of-experts-models-compute-like-a-2b-and-store-like-a-24b-ask-a"
-   },
-   {
-    "date": "2026-10-19",
-    "title": "Jais 3 shipped six open Arabic models. Indic languages are still waiting for the same.",
-    "url": "https://pranaymahendrakar.com/blog/jais-3-shipped-six-open-arabic-models-indic-languages-are-still-waitin"
    }
   ]
  },
  "github": {
   "contributions": 9681,
   "first_sunday": "2025-10-19",
-  "followers": 14,
+  "followers": 15,
   "languages": [
    {
     "color": "#3572A5",
@@ -555,7 +555,7 @@
     7,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 108,
+  "count": 110,
   "latest": [
+   {
+    "date": "2026-10-24",
+    "doi": "https://doi.org/10.5281/zenodo.23606814",
+    "title": "Calibrated Is Not Informative: What a Fall in Expected Calibration Error Shows About LLM Confidence, Why Verbalised Scores Fail on Resolution as Well as Level, and the Recalibration Baseline the Ensembling Results Omit",
+    "url": "https://research.pranaymahendrakar.com/p/calibrated-is-not-informative"
+   },
+   {
+    "date": "2026-10-23",
+    "doi": "https://doi.org/10.5281/zenodo.23598073",
+    "title": "Tiny in Parameters, Not in Compute: What a Recursive Reasoning Model's Puzzle Score Credits to Recursion, Why the Ablations Split by Task, and the Matched Comparisons That Would Assign the Rest",
+    "url": "https://research.pranaymahendrakar.com/p/tiny-in-parameters-not-in-compute"
+   },
    {
     "date": "2026-10-23",
     "doi": "https://doi.org/10.5281/zenodo.23581295",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23548960",
     "title": "A Satisfied Constraint Is Not a True Answer: What Reasoning Changes When an Instruction Cannot Be Met Truthfully, Why 'Detection-Resistant' Names a Property of the Checker, and the Feasibility-Controlled Test That Would Settle the Trade",
     "url": "https://research.pranaymahendrakar.com/p/a-satisfied-constraint-is-not-a-true-answer"
-   },
-   {
-    "date": "2026-10-21",
-    "doi": "https://doi.org/10.5281/zenodo.23536189",
-    "title": "Newly Important Is Not Newly Built: What Reasoning Post-Training Adds Inside a Language Model, Why the Evidence Separates Representation From Wiring From Deployment, and the Cross-Model Tests That Would Show an Attention Head Is New",
-    "url": "https://research.pranaymahendrakar.com/p/newly-important-is-not-newly-built"
-   },
-   {
-    "date": "2026-10-21",
-    "doi": "https://doi.org/10.5281/zenodo.23519028",
-    "title": "A Hit Rate Is a Retention Policy: Prefix-Cache Reuse in Agentic Coding Traces Compounds the Workload With the Server's Eviction Rule and the Harness's Invalidations, Which Serving Assumptions the Traces Actually Break, and the Rent-or-Buy Rule That Prices the Turn Boundary",
-    "url": "https://research.pranaymahendrakar.com/p/a-hit-rate-is-a-retention-policy"
    }
   ]
  }
