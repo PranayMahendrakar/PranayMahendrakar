@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-24",
-  "github": "2026-10-24",
-  "leetcode": "2026-10-24",
-  "packages": "2026-10-24",
-  "podcast": "2026-10-24",
-  "research": "2026-10-24"
+  "blog": "2026-10-25",
+  "github": "2026-10-25",
+  "leetcode": "2026-10-25",
+  "packages": "2026-10-25",
+  "podcast": "2026-10-25",
+  "research": "2026-10-25"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-25",
+    "title": "Hot take: a frontier model behind a staged rollout is a preview, not infrastructure",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-frontier-model-behind-a-staged-rollout-is-a-preview-not-inf"
+   },
    {
     "date": "2026-10-24",
     "title": "Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge",
@@ -28,17 +33,12 @@
     "date": "2026-10-21",
     "title": "Hot take: \"private AI\" is a deployment fact, not a marketing sentence",
     "url": "https://pranaymahendrakar.com/blog/hot-take-private-ai-is-a-deployment-fact-not-a-marketing-sentence"
-   },
-   {
-    "date": "2026-10-20",
-    "title": "Mixture-of-experts models compute like a 2B and store like a 24B. Ask about memory.",
-    "url": "https://pranaymahendrakar.com/blog/mixture-of-experts-models-compute-like-a-2b-and-store-like-a-24b-ask-a"
    }
   ]
  },
  "github": {
   "contributions": 9681,
-  "first_sunday": "2025-10-19",
+  "first_sunday": "2025-10-26",
   "followers": 15,
   "languages": [
    {
@@ -80,15 +80,6 @@
   "repos": 1382,
   "stars": 84,
   "weeks": [
-   [
-    15,
-    9,
-    15,
-    11,
-    12,
-    17,
-    8
-   ],
    [
     13,
     13,
@@ -556,6 +547,15 @@
     0,
     0,
     0
+   ],
+   [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 110,
+  "count": 112,
   "latest": [
+   {
+    "date": "2026-10-25",
+    "doi": "https://doi.org/10.5281/zenodo.23628985",
+    "title": "What a Word Limit Removes: Length Constraints Look Free, Costly or Helpful Depending on the Span They Bind, the Scorer That Reads the Answer and the Items Chosen, and Why Compliance Looks Orthogonal to Accuracy in Only One Kind of Design",
+    "url": "https://research.pranaymahendrakar.com/p/what-a-word-limit-removes"
+   },
+   {
+    "date": "2026-10-24",
+    "doi": "https://doi.org/10.5281/zenodo.23619244",
+    "title": "The Rabbit Hole Is Five Claims, Not One: Why Audits, Browsing Panels, Escalation Studies, Exposure Experiments and Discourse Maps of Online Conspiracy Content Keep Disagreeing",
+    "url": "https://research.pranaymahendrakar.com/p/the-rabbit-hole-is-five-claims-not-one"
+   },
    {
     "date": "2026-10-24",
     "doi": "https://doi.org/10.5281/zenodo.23606814",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23581295",
     "title": "A Starting Score Is Not a Ceiling: When Accuracy Before Reinforcement Learning Predicts Accuracy After It, Why Each Proposed Replacement Sees a Different Failure, and the Axis Test That Decides Which Proxy to Trust",
     "url": "https://research.pranaymahendrakar.com/p/a-starting-score-is-not-a-ceiling"
-   },
-   {
-    "date": "2026-10-22",
-    "doi": "https://doi.org/10.5281/zenodo.23567564",
-    "title": "A Misalignment Rate Is Not a Model Property: Capacity, Propensity, Efficacy and Targeting in Multi-Agent LLM Commerce, Why a Null Capability Correlation Does Not Contradict the Scaling of Deceptive Skill, and the Design That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/a-misalignment-rate-is-not-a-model-property"
-   },
-   {
-    "date": "2026-10-22",
-    "doi": "https://doi.org/10.5281/zenodo.23548960",
-    "title": "A Satisfied Constraint Is Not a True Answer: What Reasoning Changes When an Instruction Cannot Be Met Truthfully, Why 'Detection-Resistant' Names a Property of the Checker, and the Feasibility-Controlled Test That Would Settle the Trade",
-    "url": "https://research.pranaymahendrakar.com/p/a-satisfied-constraint-is-not-a-true-answer"
    }
   ]
  }
