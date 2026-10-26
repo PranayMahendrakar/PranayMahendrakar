@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-25",
-  "github": "2026-10-25",
-  "leetcode": "2026-10-25",
-  "packages": "2026-10-25",
-  "podcast": "2026-10-25",
-  "research": "2026-10-25"
+  "blog": "2026-10-26",
+  "github": "2026-10-26",
+  "leetcode": "2026-10-26",
+  "packages": "2026-10-26",
+  "podcast": "2026-10-26",
+  "research": "2026-10-26"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-26",
+    "title": "Open weights are only as open as the license, the memory bill, and your own evals",
+    "url": "https://pranaymahendrakar.com/blog/open-weights-are-only-as-open-as-the-license-the-memory-bill-and-your-"
+   },
    {
     "date": "2026-10-25",
     "title": "Hot take: a frontier model behind a staged rollout is a preview, not infrastructure",
@@ -28,16 +33,11 @@
     "date": "2026-10-22",
     "title": "Computer-use agents click buttons. Your code decides whether they should.",
     "url": "https://pranaymahendrakar.com/blog/computer-use-agents-click-buttons-your-code-decides-whether-they-shoul"
-   },
-   {
-    "date": "2026-10-21",
-    "title": "Hot take: \"private AI\" is a deployment fact, not a marketing sentence",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-private-ai-is-a-deployment-fact-not-a-marketing-sentence"
    }
   ]
  },
  "github": {
-  "contributions": 9681,
+  "contributions": 9594,
   "first_sunday": "2025-10-26",
   "followers": 15,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 112,
+  "count": 114,
   "latest": [
+   {
+    "date": "2026-10-26",
+    "doi": "https://doi.org/10.5281/zenodo.23652519",
+    "title": "A Best Match Is Not a Twin: What Feature Similarity Between State Space Models and Transformers Certifies, Why the Null and the Shared Inputs Decide the Verdict, and the Controls That Would Show Two Architectures Learned the Same Thing",
+    "url": "https://research.pranaymahendrakar.com/p/a-best-match-is-not-a-twin"
+   },
+   {
+    "date": "2026-10-25",
+    "doi": "https://doi.org/10.5281/zenodo.23642775",
+    "title": "Which Fine-Tuning Failed? The Reported Failure and Recovery of Fine-Tuning in Model Editing Are Findings About the Edit Protocol, Why the Breadth-First Recovery Changes What the Editor May Remember, and the Matched Comparisons That Would Assign the Credit",
+    "url": "https://research.pranaymahendrakar.com/p/which-fine-tuning-failed-the-reported-failure-and-recovery"
+   },
    {
     "date": "2026-10-25",
     "doi": "https://doi.org/10.5281/zenodo.23628985",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23606814",
     "title": "Calibrated Is Not Informative: What a Fall in Expected Calibration Error Shows About LLM Confidence, Why Verbalised Scores Fail on Resolution as Well as Level, and the Recalibration Baseline the Ensembling Results Omit",
     "url": "https://research.pranaymahendrakar.com/p/calibrated-is-not-informative"
-   },
-   {
-    "date": "2026-10-23",
-    "doi": "https://doi.org/10.5281/zenodo.23598073",
-    "title": "Tiny in Parameters, Not in Compute: What a Recursive Reasoning Model's Puzzle Score Credits to Recursion, Why the Ablations Split by Task, and the Matched Comparisons That Would Assign the Rest",
-    "url": "https://research.pranaymahendrakar.com/p/tiny-in-parameters-not-in-compute"
-   },
-   {
-    "date": "2026-10-23",
-    "doi": "https://doi.org/10.5281/zenodo.23581295",
-    "title": "A Starting Score Is Not a Ceiling: When Accuracy Before Reinforcement Learning Predicts Accuracy After It, Why Each Proposed Replacement Sees a Different Failure, and the Axis Test That Decides Which Proxy to Trust",
-    "url": "https://research.pranaymahendrakar.com/p/a-starting-score-is-not-a-ceiling"
    }
   ]
  }

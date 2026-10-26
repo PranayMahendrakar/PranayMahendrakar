@@ -24,10 +24,10 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 112 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 114 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
-  <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,681 (on GitHub in the last 12 months)"></picture></a>
+  <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,594 (on GitHub in the last 12 months)"></picture></a>
   <a href="https://pypi.org/user/pranaymahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-packages-dark.svg" width="32%" alt="PyPI packages: 56 (open-source Python packages)"></picture></a>
   <a href="https://pranaymahendrakar.com/about"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-books-dark.svg" width="32%" alt="Books: 3 (on artificial intelligence, with ISBNs)"></picture></a>
 </p>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->112<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->114<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [A Best Match Is Not a Twin](https://research.pranaymahendrakar.com/p/a-best-match-is-not-a-twin) &mdash; [DOI](https://doi.org/10.5281/zenodo.23652519) <sub>2026-10-26</sub>
+- [Which Fine-Tuning Failed?](https://research.pranaymahendrakar.com/p/which-fine-tuning-failed-the-reported-failure-and-recovery) &mdash; [DOI](https://doi.org/10.5281/zenodo.23642775) <sub>2026-10-25</sub>
 - [What a Word Limit Removes](https://research.pranaymahendrakar.com/p/what-a-word-limit-removes) &mdash; [DOI](https://doi.org/10.5281/zenodo.23628985) <sub>2026-10-25</sub>
 - [The Rabbit Hole Is Five Claims, Not One](https://research.pranaymahendrakar.com/p/the-rabbit-hole-is-five-claims-not-one) &mdash; [DOI](https://doi.org/10.5281/zenodo.23619244) <sub>2026-10-24</sub>
 - [Calibrated Is Not Informative](https://research.pranaymahendrakar.com/p/calibrated-is-not-informative) &mdash; [DOI](https://doi.org/10.5281/zenodo.23606814) <sub>2026-10-24</sub>
-- [Tiny in Parameters, Not in Compute](https://research.pranaymahendrakar.com/p/tiny-in-parameters-not-in-compute) &mdash; [DOI](https://doi.org/10.5281/zenodo.23598073) <sub>2026-10-23</sub>
-- [A Starting Score Is Not a Ceiling](https://research.pranaymahendrakar.com/p/a-starting-score-is-not-a-ceiling) &mdash; [DOI](https://doi.org/10.5281/zenodo.23581295) <sub>2026-10-23</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Open weights are only as open as the license, the memory bill, and your own evals](https://pranaymahendrakar.com/blog/open-weights-are-only-as-open-as-the-license-the-memory-bill-and-your-) <sub>2026-10-26</sub>
 - [Hot take: a frontier model behind a staged rollout is a preview, not infrastructure](https://pranaymahendrakar.com/blog/hot-take-a-frontier-model-behind-a-staged-rollout-is-a-preview-not-inf) <sub>2026-10-25</sub>
 - [Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge](https://pranaymahendrakar.com/blog/sovereign-ai-starts-with-weights-you-can-actually-run-and-kolibri-make) <sub>2026-10-24</sub>
 - [The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.](https://pranaymahendrakar.com/blog/the-eu-ai-act-delay-is-a-head-start-not-a-reprieve-most-teams-will-was) <sub>2026-10-23</sub>
 - [Computer-use agents click buttons. Your code decides whether they should.](https://pranaymahendrakar.com/blog/computer-use-agents-click-buttons-your-code-decides-whether-they-shoul) <sub>2026-10-22</sub>
-- [Hot take: "private AI" is a deployment fact, not a marketing sentence](https://pranaymahendrakar.com/blog/hot-take-private-ai-is-a-deployment-fact-not-a-marketing-sentence) <sub>2026-10-21</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).
@@ -74,7 +74,7 @@ Also on [Spotify](https://open.spotify.com/show/033vo2L1KZrhb2qU3ypYhJ).
 ## A year of code
 
 <!-- CHARTS:START -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg" width="100%" alt="9,681 GitHub contributions in the last 12 months, drawn as a city: one block per day, taller on busier days"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/skyline-dark.svg" width="100%" alt="9,594 GitHub contributions in the last 12 months, drawn as a city: one block per day, taller on busier days"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/languages-dark.svg" width="100%" alt="Primary language of 1,315 public repositories: Python 1,132, C++ 95, JavaScript 59, HTML 16, TypeScript 10, CSS 1, Other 2"></picture>
 <!-- CHARTS:END -->
