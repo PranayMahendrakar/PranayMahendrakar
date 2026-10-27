@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-26",
-  "github": "2026-10-26",
-  "leetcode": "2026-10-26",
-  "packages": "2026-10-26",
-  "podcast": "2026-10-26",
-  "research": "2026-10-26"
+  "blog": "2026-10-27",
+  "github": "2026-10-27",
+  "leetcode": "2026-10-27",
+  "packages": "2026-10-27",
+  "podcast": "2026-10-27",
+  "research": "2026-10-27"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-27",
+    "title": "A small open model that writes cited reports is the RAG story I care about this month",
+    "url": "https://pranaymahendrakar.com/blog/a-small-open-model-that-writes-cited-reports-is-the-rag-story-i-care-a"
+   },
    {
     "date": "2026-10-26",
     "title": "Open weights are only as open as the license, the memory bill, and your own evals",
@@ -28,16 +33,11 @@
     "date": "2026-10-23",
     "title": "The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.",
     "url": "https://pranaymahendrakar.com/blog/the-eu-ai-act-delay-is-a-head-start-not-a-reprieve-most-teams-will-was"
-   },
-   {
-    "date": "2026-10-22",
-    "title": "Computer-use agents click buttons. Your code decides whether they should.",
-    "url": "https://pranaymahendrakar.com/blog/computer-use-agents-click-buttons-your-code-decides-whether-they-shoul"
    }
   ]
  },
  "github": {
-  "contributions": 9594,
+  "contributions": 9596,
   "first_sunday": "2025-10-26",
   "followers": 15,
   "languages": [
@@ -505,7 +505,7 @@
    ],
    [
     4,
-    428,
+    427,
     19,
     3,
     12,
@@ -551,7 +551,7 @@
    [
     0,
     0,
-    null,
+    3,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 114,
+  "count": 116,
   "latest": [
+   {
+    "date": "2026-10-27",
+    "doi": "https://doi.org/10.5281/zenodo.23684576",
+    "title": "The Incumbent Did the Work: What the Simple-Baseline Results in LLM-Guided Program Search Settle, Why the Dispute Over Archives, Diversity and Test-Time Training Is Fought on Benchmarks That Cannot Rank It, and the Comparisons That Would",
+    "url": "https://research.pranaymahendrakar.com/p/the-incumbent-did-the-work"
+   },
+   {
+    "date": "2026-10-26",
+    "doi": "https://doi.org/10.5281/zenodo.23669446",
+    "title": "Picking the Branch Is Not Solving the Problem: What an Imperfect Neural Operator Buys a Physics-Informed Network, Where Its Basin Information Comes From, and the Comparators That Decide Whether the Hybrid Pays",
+    "url": "https://research.pranaymahendrakar.com/p/picking-the-branch-is-not-solving-the-problem"
+   },
    {
     "date": "2026-10-26",
     "doi": "https://doi.org/10.5281/zenodo.23652519",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23628985",
     "title": "What a Word Limit Removes: Length Constraints Look Free, Costly or Helpful Depending on the Span They Bind, the Scorer That Reads the Answer and the Items Chosen, and Why Compliance Looks Orthogonal to Accuracy in Only One Kind of Design",
     "url": "https://research.pranaymahendrakar.com/p/what-a-word-limit-removes"
-   },
-   {
-    "date": "2026-10-24",
-    "doi": "https://doi.org/10.5281/zenodo.23619244",
-    "title": "The Rabbit Hole Is Five Claims, Not One: Why Audits, Browsing Panels, Escalation Studies, Exposure Experiments and Discourse Maps of Online Conspiracy Content Keep Disagreeing",
-    "url": "https://research.pranaymahendrakar.com/p/the-rabbit-hole-is-five-claims-not-one"
-   },
-   {
-    "date": "2026-10-24",
-    "doi": "https://doi.org/10.5281/zenodo.23606814",
-    "title": "Calibrated Is Not Informative: What a Fall in Expected Calibration Error Shows About LLM Confidence, Why Verbalised Scores Fail on Resolution as Well as Level, and the Recalibration Baseline the Ensembling Results Omit",
-    "url": "https://research.pranaymahendrakar.com/p/calibrated-is-not-informative"
    }
   ]
  }
