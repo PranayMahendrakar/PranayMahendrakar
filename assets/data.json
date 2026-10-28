@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-27",
-  "github": "2026-10-27",
-  "leetcode": "2026-10-27",
-  "packages": "2026-10-27",
-  "podcast": "2026-10-27",
-  "research": "2026-10-27"
+  "blog": "2026-10-28",
+  "github": "2026-10-28",
+  "leetcode": "2026-10-28",
+  "packages": "2026-10-28",
+  "podcast": "2026-10-28",
+  "research": "2026-10-28"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-28",
+    "title": "Colorado's AI rules hinge on two words: 'materially influence'. Can you prove yours?",
+    "url": "https://pranaymahendrakar.com/blog/colorados-ai-rules-hinge-on-two-words-materially-influence-can-you-pro"
+   },
    {
     "date": "2026-10-27",
     "title": "A small open model that writes cited reports is the RAG story I care about this month",
@@ -28,11 +33,6 @@
     "date": "2026-10-24",
     "title": "Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge",
     "url": "https://pranaymahendrakar.com/blog/sovereign-ai-starts-with-weights-you-can-actually-run-and-kolibri-make"
-   },
-   {
-    "date": "2026-10-23",
-    "title": "The EU AI Act delay is a head start, not a reprieve. Most teams will waste it.",
-    "url": "https://pranaymahendrakar.com/blog/the-eu-ai-act-delay-is-a-head-start-not-a-reprieve-most-teams-will-was"
    }
   ]
  },
@@ -552,7 +552,7 @@
     0,
     0,
     3,
-    null,
+    0,
     null,
     null,
     null
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 116,
+  "count": 118,
   "latest": [
+   {
+    "date": "2026-10-28",
+    "doi": "https://doi.org/10.5281/zenodo.23715242",
+    "title": "Form Rescued Is Not Content Gained: What Constrained Decoding Does to Accuracy, Why Published Studies Disagree About Its Sign, and the Parse-Failure Accounting That Decides the Small-Model Case",
+    "url": "https://research.pranaymahendrakar.com/p/form-rescued-is-not-content-gained"
+   },
+   {
+    "date": "2026-10-27",
+    "doi": "https://doi.org/10.5281/zenodo.23694633",
+    "title": "A Withheld Label Is Not a Withheld Gender: What Describing People by Appearance Was Meant to Achieve, Which of Its Goals the Gender-Association Evidence Defeats, and the Parity Test the Accessibility Case Still Needs",
+    "url": "https://research.pranaymahendrakar.com/p/a-withheld-label-is-not-a-withheld-gender"
+   },
    {
     "date": "2026-10-27",
     "doi": "https://doi.org/10.5281/zenodo.23684576",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23652519",
     "title": "A Best Match Is Not a Twin: What Feature Similarity Between State Space Models and Transformers Certifies, Why the Null and the Shared Inputs Decide the Verdict, and the Controls That Would Show Two Architectures Learned the Same Thing",
     "url": "https://research.pranaymahendrakar.com/p/a-best-match-is-not-a-twin"
-   },
-   {
-    "date": "2026-10-25",
-    "doi": "https://doi.org/10.5281/zenodo.23642775",
-    "title": "Which Fine-Tuning Failed? The Reported Failure and Recovery of Fine-Tuning in Model Editing Are Findings About the Edit Protocol, Why the Breadth-First Recovery Changes What the Editor May Remember, and the Matched Comparisons That Would Assign the Credit",
-    "url": "https://research.pranaymahendrakar.com/p/which-fine-tuning-failed-the-reported-failure-and-recovery"
-   },
-   {
-    "date": "2026-10-25",
-    "doi": "https://doi.org/10.5281/zenodo.23628985",
-    "title": "What a Word Limit Removes: Length Constraints Look Free, Costly or Helpful Depending on the Span They Bind, the Scorer That Reads the Answer and the Items Chosen, and Why Compliance Looks Orthogonal to Accuracy in Only One Kind of Design",
-    "url": "https://research.pranaymahendrakar.com/p/what-a-word-limit-removes"
    }
   ]
  }
