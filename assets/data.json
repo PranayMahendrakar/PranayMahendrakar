@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-28",
-  "github": "2026-10-28",
-  "leetcode": "2026-10-28",
-  "packages": "2026-10-28",
-  "podcast": "2026-10-28",
-  "research": "2026-10-28"
+  "blog": "2026-10-29",
+  "github": "2026-10-29",
+  "leetcode": "2026-10-29",
+  "packages": "2026-10-29",
+  "podcast": "2026-10-29",
+  "research": "2026-10-29"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-29",
+    "title": "Hot take: an AI agent without its own identity is just a shared password with opinions",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-just-a-shared-passwor"
+   },
    {
     "date": "2026-10-28",
     "title": "Colorado's AI rules hinge on two words: 'materially influence'. Can you prove yours?",
@@ -28,11 +33,6 @@
     "date": "2026-10-25",
     "title": "Hot take: a frontier model behind a staged rollout is a preview, not infrastructure",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-frontier-model-behind-a-staged-rollout-is-a-preview-not-inf"
-   },
-   {
-    "date": "2026-10-24",
-    "title": "Sovereign AI starts with weights you can actually run, and Kolibri makes that harder to dodge",
-    "url": "https://pranaymahendrakar.com/blog/sovereign-ai-starts-with-weights-you-can-actually-run-and-kolibri-make"
    }
   ]
  },
@@ -553,7 +553,7 @@
     0,
     3,
     0,
-    null,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 118,
+  "count": 120,
   "latest": [
+   {
+    "date": "2026-10-29",
+    "doi": "https://doi.org/10.5281/zenodo.23749317",
+    "title": "A Ceiling Score Is Not a Physical Inference: Why Pretrained Video Encoders Look Physically Competent on One Benchmark and Near Chance on Its Successor, What a Clean Scene Lets a Readout Read Off, and the Rankability Checks a Physics Evaluation Owes",
+    "url": "https://research.pranaymahendrakar.com/p/a-ceiling-score-is-not-a-physical-inference"
+   },
+   {
+    "date": "2026-10-28",
+    "doi": "https://doi.org/10.5281/zenodo.23735381",
+    "title": "A Steeper Slope Is Not Yet a New Law: What a Claimed Architectural Change to a Scaling Exponent Has to Survive, Why Studies of Looping, Growth, Routing and Optimizers Reach Opposite Verdicts, and the Floor, Recipe and Ladder Controls That Would Decide It",
+    "url": "https://research.pranaymahendrakar.com/p/a-steeper-slope-is-not-yet-a-new-law"
+   },
    {
     "date": "2026-10-28",
     "doi": "https://doi.org/10.5281/zenodo.23715242",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23684576",
     "title": "The Incumbent Did the Work: What the Simple-Baseline Results in LLM-Guided Program Search Settle, Why the Dispute Over Archives, Diversity and Test-Time Training Is Fought on Benchmarks That Cannot Rank It, and the Comparisons That Would",
     "url": "https://research.pranaymahendrakar.com/p/the-incumbent-did-the-work"
-   },
-   {
-    "date": "2026-10-26",
-    "doi": "https://doi.org/10.5281/zenodo.23669446",
-    "title": "Picking the Branch Is Not Solving the Problem: What an Imperfect Neural Operator Buys a Physics-Informed Network, Where Its Basin Information Comes From, and the Comparators That Decide Whether the Hybrid Pays",
-    "url": "https://research.pranaymahendrakar.com/p/picking-the-branch-is-not-solving-the-problem"
-   },
-   {
-    "date": "2026-10-26",
-    "doi": "https://doi.org/10.5281/zenodo.23652519",
-    "title": "A Best Match Is Not a Twin: What Feature Similarity Between State Space Models and Transformers Certifies, Why the Null and the Shared Inputs Decide the Verdict, and the Controls That Would Show Two Architectures Learned the Same Thing",
-    "url": "https://research.pranaymahendrakar.com/p/a-best-match-is-not-a-twin"
    }
   ]
  }
