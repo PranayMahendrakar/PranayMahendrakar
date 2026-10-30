@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-29",
-  "github": "2026-10-29",
-  "leetcode": "2026-10-29",
-  "packages": "2026-10-29",
-  "podcast": "2026-10-29",
-  "research": "2026-10-29"
+  "blog": "2026-10-30",
+  "github": "2026-10-30",
+  "leetcode": "2026-10-30",
+  "packages": "2026-10-30",
+  "podcast": "2026-10-30",
+  "research": "2026-10-30"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-30",
+    "title": "Hot take: a regulatory delay is a gift of time, not a gift of safety",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-regulatory-delay-is-a-gift-of-time-not-a-gift-of-safety"
+   },
    {
     "date": "2026-10-29",
     "title": "Hot take: an AI agent without its own identity is just a shared password with opinions",
@@ -28,11 +33,6 @@
     "date": "2026-10-26",
     "title": "Open weights are only as open as the license, the memory bill, and your own evals",
     "url": "https://pranaymahendrakar.com/blog/open-weights-are-only-as-open-as-the-license-the-memory-bill-and-your-"
-   },
-   {
-    "date": "2026-10-25",
-    "title": "Hot take: a frontier model behind a staged rollout is a preview, not infrastructure",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-frontier-model-behind-a-staged-rollout-is-a-preview-not-inf"
    }
   ]
  },
@@ -554,7 +554,7 @@
     3,
     0,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 120,
+  "count": 122,
   "latest": [
+   {
+    "date": "2026-10-30",
+    "doi": "https://doi.org/10.5281/zenodo.23784965",
+    "title": "A Domain Label Is Not a Treatment: Why Specialist and General-Purpose Language Models Trade Places Across Studies, What a 'Medical' Checkpoint Leaves Unspecified, and the Matched Contrasts That Would Assign the Gain",
+    "url": "https://research.pranaymahendrakar.com/p/a-domain-label-is-not-a-treatment"
+   },
+   {
+    "date": "2026-10-29",
+    "doi": "https://doi.org/10.5281/zenodo.23766691",
+    "title": "A Clean Answer Is Not a Clean Agent: What an Unlearning Certificate Covers Once the Model Calls Tools, Why the Agentic Leaks Divide Into Residue, Scope, Reacquisition and Exposure, and the Source-by-Observer Audit That Would Assign Each to Its Owner",
+    "url": "https://research.pranaymahendrakar.com/p/a-clean-answer-is-not-a-clean-agent"
+   },
    {
     "date": "2026-10-29",
     "doi": "https://doi.org/10.5281/zenodo.23749317",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23715242",
     "title": "Form Rescued Is Not Content Gained: What Constrained Decoding Does to Accuracy, Why Published Studies Disagree About Its Sign, and the Parse-Failure Accounting That Decides the Small-Model Case",
     "url": "https://research.pranaymahendrakar.com/p/form-rescued-is-not-content-gained"
-   },
-   {
-    "date": "2026-10-27",
-    "doi": "https://doi.org/10.5281/zenodo.23694633",
-    "title": "A Withheld Label Is Not a Withheld Gender: What Describing People by Appearance Was Meant to Achieve, Which of Its Goals the Gender-Association Evidence Defeats, and the Parity Test the Accessibility Case Still Needs",
-    "url": "https://research.pranaymahendrakar.com/p/a-withheld-label-is-not-a-withheld-gender"
-   },
-   {
-    "date": "2026-10-27",
-    "doi": "https://doi.org/10.5281/zenodo.23684576",
-    "title": "The Incumbent Did the Work: What the Simple-Baseline Results in LLM-Guided Program Search Settle, Why the Dispute Over Archives, Diversity and Test-Time Training Is Fought on Benchmarks That Cannot Rank It, and the Comparisons That Would",
-    "url": "https://research.pranaymahendrakar.com/p/the-incumbent-did-the-work"
    }
   ]
  }

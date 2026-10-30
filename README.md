@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 120 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 122 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,596 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->120<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->122<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [A Domain Label Is Not a Treatment](https://research.pranaymahendrakar.com/p/a-domain-label-is-not-a-treatment) &mdash; [DOI](https://doi.org/10.5281/zenodo.23784965) <sub>2026-10-30</sub>
+- [A Clean Answer Is Not a Clean Agent](https://research.pranaymahendrakar.com/p/a-clean-answer-is-not-a-clean-agent) &mdash; [DOI](https://doi.org/10.5281/zenodo.23766691) <sub>2026-10-29</sub>
 - [A Ceiling Score Is Not a Physical Inference](https://research.pranaymahendrakar.com/p/a-ceiling-score-is-not-a-physical-inference) &mdash; [DOI](https://doi.org/10.5281/zenodo.23749317) <sub>2026-10-29</sub>
 - [A Steeper Slope Is Not Yet a New Law](https://research.pranaymahendrakar.com/p/a-steeper-slope-is-not-yet-a-new-law) &mdash; [DOI](https://doi.org/10.5281/zenodo.23735381) <sub>2026-10-28</sub>
 - [Form Rescued Is Not Content Gained](https://research.pranaymahendrakar.com/p/form-rescued-is-not-content-gained) &mdash; [DOI](https://doi.org/10.5281/zenodo.23715242) <sub>2026-10-28</sub>
-- [A Withheld Label Is Not a Withheld Gender](https://research.pranaymahendrakar.com/p/a-withheld-label-is-not-a-withheld-gender) &mdash; [DOI](https://doi.org/10.5281/zenodo.23694633) <sub>2026-10-27</sub>
-- [The Incumbent Did the Work](https://research.pranaymahendrakar.com/p/the-incumbent-did-the-work) &mdash; [DOI](https://doi.org/10.5281/zenodo.23684576) <sub>2026-10-27</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: a regulatory delay is a gift of time, not a gift of safety](https://pranaymahendrakar.com/blog/hot-take-a-regulatory-delay-is-a-gift-of-time-not-a-gift-of-safety) <sub>2026-10-30</sub>
 - [Hot take: an AI agent without its own identity is just a shared password with opinions](https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-just-a-shared-passwor) <sub>2026-10-29</sub>
 - [Colorado's AI rules hinge on two words: 'materially influence'. Can you prove yours?](https://pranaymahendrakar.com/blog/colorados-ai-rules-hinge-on-two-words-materially-influence-can-you-pro) <sub>2026-10-28</sub>
 - [A small open model that writes cited reports is the RAG story I care about this month](https://pranaymahendrakar.com/blog/a-small-open-model-that-writes-cited-reports-is-the-rag-story-i-care-a) <sub>2026-10-27</sub>
 - [Open weights are only as open as the license, the memory bill, and your own evals](https://pranaymahendrakar.com/blog/open-weights-are-only-as-open-as-the-license-the-memory-bill-and-your-) <sub>2026-10-26</sub>
-- [Hot take: a frontier model behind a staged rollout is a preview, not infrastructure](https://pranaymahendrakar.com/blog/hot-take-a-frontier-model-behind-a-staged-rollout-is-a-preview-not-inf) <sub>2026-10-25</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).
