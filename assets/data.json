@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-10-30",
-  "github": "2026-10-30",
-  "leetcode": "2026-10-30",
-  "packages": "2026-10-30",
-  "podcast": "2026-10-30",
-  "research": "2026-10-30"
+  "blog": "2026-10-31",
+  "github": "2026-10-31",
+  "leetcode": "2026-10-31",
+  "packages": "2026-10-31",
+  "podcast": "2026-10-31",
+  "research": "2026-10-31"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-10-31",
+    "title": "Hot take: the phone is about to become a serious inference target",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-phone-is-about-to-become-a-serious-inference-target"
+   },
    {
     "date": "2026-10-30",
     "title": "Hot take: a regulatory delay is a gift of time, not a gift of safety",
@@ -28,11 +33,6 @@
     "date": "2026-10-27",
     "title": "A small open model that writes cited reports is the RAG story I care about this month",
     "url": "https://pranaymahendrakar.com/blog/a-small-open-model-that-writes-cited-reports-is-the-rag-story-i-care-a"
-   },
-   {
-    "date": "2026-10-26",
-    "title": "Open weights are only as open as the license, the memory bill, and your own evals",
-    "url": "https://pranaymahendrakar.com/blog/open-weights-are-only-as-open-as-the-license-the-memory-bill-and-your-"
    }
   ]
  },
@@ -78,7 +78,7 @@
    }
   ],
   "repos": 1382,
-  "stars": 84,
+  "stars": 85,
   "weeks": [
    [
     13,
@@ -555,7 +555,7 @@
     0,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 122,
+  "count": 124,
   "latest": [
+   {
+    "date": "2026-10-31",
+    "doi": "https://doi.org/10.5281/zenodo.23824501",
+    "title": "A Held-Out Site Is a Sample of One: What Random, Spatial and Site-Disjoint Splits Each Estimate, Why Leakage That Differs Between Configurations Reorders a Comparison, and How Many Sites a General Claim Needs",
+    "url": "https://research.pranaymahendrakar.com/p/a-held-out-site-is-a-sample-of-one"
+   },
+   {
+    "date": "2026-10-30",
+    "doi": "https://doi.org/10.5281/zenodo.23810600",
+    "title": "A Denial Is Also a Report: What First-Person Experience Claims From Language Models Can Show, Why the Mirror Argument Cuts Against Trained Denials as Hard as Against Affirmations, and the Four Links a Self-Report Would Have to Carry",
+    "url": "https://research.pranaymahendrakar.com/p/a-denial-is-also-a-report"
+   },
    {
     "date": "2026-10-30",
     "doi": "https://doi.org/10.5281/zenodo.23784965",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23749317",
     "title": "A Ceiling Score Is Not a Physical Inference: Why Pretrained Video Encoders Look Physically Competent on One Benchmark and Near Chance on Its Successor, What a Clean Scene Lets a Readout Read Off, and the Rankability Checks a Physics Evaluation Owes",
     "url": "https://research.pranaymahendrakar.com/p/a-ceiling-score-is-not-a-physical-inference"
-   },
-   {
-    "date": "2026-10-28",
-    "doi": "https://doi.org/10.5281/zenodo.23735381",
-    "title": "A Steeper Slope Is Not Yet a New Law: What a Claimed Architectural Change to a Scaling Exponent Has to Survive, Why Studies of Looping, Growth, Routing and Optimizers Reach Opposite Verdicts, and the Floor, Recipe and Ladder Controls That Would Decide It",
-    "url": "https://research.pranaymahendrakar.com/p/a-steeper-slope-is-not-yet-a-new-law"
-   },
-   {
-    "date": "2026-10-28",
-    "doi": "https://doi.org/10.5281/zenodo.23715242",
-    "title": "Form Rescued Is Not Content Gained: What Constrained Decoding Does to Accuracy, Why Published Studies Disagree About Its Sign, and the Parse-Failure Accounting That Decides the Small-Model Case",
-    "url": "https://research.pranaymahendrakar.com/p/form-rescued-is-not-content-gained"
    }
   ]
  }
