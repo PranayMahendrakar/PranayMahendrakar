@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-01",
-  "github": "2026-11-01",
-  "leetcode": "2026-11-01",
-  "packages": "2026-11-01",
-  "podcast": "2026-11-01",
-  "research": "2026-11-01"
+  "blog": "2026-11-02",
+  "github": "2026-11-02",
+  "leetcode": "2026-11-02",
+  "packages": "2026-11-02",
+  "podcast": "2026-11-02",
+  "research": "2026-11-02"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-02",
+    "title": "Hot take: Meta's Mac-ready open model proves memory, not FLOPs, is the local AI budget",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-metas-mac-ready-open-model-proves-memory-not-flops-is-the-loc"
+   },
    {
     "date": "2026-11-01",
     "title": "Hot take: Apple renting Gemini for Siri proves the privacy story is an architecture question",
@@ -28,16 +33,11 @@
     "date": "2026-10-29",
     "title": "Hot take: an AI agent without its own identity is just a shared password with opinions",
     "url": "https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-just-a-shared-passwor"
-   },
-   {
-    "date": "2026-10-28",
-    "title": "Colorado's AI rules hinge on two words: 'materially influence'. Can you prove yours?",
-    "url": "https://pranaymahendrakar.com/blog/colorados-ai-rules-hinge-on-two-words-materially-influence-can-you-pro"
    }
   ]
  },
  "github": {
-  "contributions": 9596,
+  "contributions": 9516,
   "first_sunday": "2025-11-02",
   "followers": 15,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 126,
+  "count": 128,
   "latest": [
+   {
+    "date": "2026-11-02",
+    "doi": "https://doi.org/10.5281/zenodo.23871653",
+    "title": "A Stable Attribution Is Not a Stable Error Rate: What Feature-Attribution Monitoring Can See Under Drift, Why 'More Sensitive Than the Inputs' and 'Silent While Fairness Fails' Are Both Correct, and the Label-Free Statistic the Fairness Alarm Needed",
+    "url": "https://research.pranaymahendrakar.com/p/a-stable-attribution-is-not-a-stable-error-rate"
+   },
+   {
+    "date": "2026-11-01",
+    "doi": "https://doi.org/10.5281/zenodo.23858880",
+    "title": "A Gap to a Reference Is Not a Loss: What Text-Capability Comparisons Between Vision-Language Models and Their Language Backbones Measure, Why Independent Audits and Vendor Reports Disagree in Sign, and the Controlled Trajectory That Would Assign the Cause",
+    "url": "https://research.pranaymahendrakar.com/p/a-gap-to-a-reference-is-not-a-loss"
+   },
    {
     "date": "2026-11-01",
     "doi": "https://doi.org/10.5281/zenodo.23849157",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23824501",
     "title": "A Held-Out Site Is a Sample of One: What Random, Spatial and Site-Disjoint Splits Each Estimate, Why Leakage That Differs Between Configurations Reorders a Comparison, and How Many Sites a General Claim Needs",
     "url": "https://research.pranaymahendrakar.com/p/a-held-out-site-is-a-sample-of-one"
-   },
-   {
-    "date": "2026-10-30",
-    "doi": "https://doi.org/10.5281/zenodo.23810600",
-    "title": "A Denial Is Also a Report: What First-Person Experience Claims From Language Models Can Show, Why the Mirror Argument Cuts Against Trained Denials as Hard as Against Affirmations, and the Four Links a Self-Report Would Have to Carry",
-    "url": "https://research.pranaymahendrakar.com/p/a-denial-is-also-a-report"
-   },
-   {
-    "date": "2026-10-30",
-    "doi": "https://doi.org/10.5281/zenodo.23784965",
-    "title": "A Domain Label Is Not a Treatment: Why Specialist and General-Purpose Language Models Trade Places Across Studies, What a 'Medical' Checkpoint Leaves Unspecified, and the Matched Contrasts That Would Assign the Gain",
-    "url": "https://research.pranaymahendrakar.com/p/a-domain-label-is-not-a-treatment"
    }
   ]
  }
