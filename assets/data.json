@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-02",
-  "github": "2026-11-02",
-  "leetcode": "2026-11-02",
-  "packages": "2026-11-02",
-  "podcast": "2026-11-02",
-  "research": "2026-11-02"
+  "blog": "2026-11-03",
+  "github": "2026-11-03",
+  "leetcode": "2026-11-03",
+  "packages": "2026-11-03",
+  "podcast": "2026-11-03",
+  "research": "2026-11-03"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-03",
+    "title": "Hot take: a trillion-parameter open-weight model is only open if you read the license",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-trillion-parameter-open-weight-model-is-only-open-if-you-re"
+   },
    {
     "date": "2026-11-02",
     "title": "Hot take: Meta's Mac-ready open model proves memory, not FLOPs, is the local AI budget",
@@ -28,11 +33,6 @@
     "date": "2026-10-30",
     "title": "Hot take: a regulatory delay is a gift of time, not a gift of safety",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-regulatory-delay-is-a-gift-of-time-not-a-gift-of-safety"
-   },
-   {
-    "date": "2026-10-29",
-    "title": "Hot take: an AI agent without its own identity is just a shared password with opinions",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-just-a-shared-passwor"
    }
   ]
  },
@@ -551,7 +551,7 @@
    [
     0,
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 128,
+  "count": 130,
   "latest": [
+   {
+    "date": "2026-11-03",
+    "doi": "https://doi.org/10.5281/zenodo.23899944",
+    "title": "A Recall Score Is Not a Use Forecast: What Factual-Memory Benchmarks Predict About Whether a Conversational Memory System Uses What It Stores, Why the Published Transfer Failure Runs Through the Harness and the Write Policy, and the Within-Harness Test That Would Settle It",
+    "url": "https://research.pranaymahendrakar.com/p/a-recall-score-is-not-a-use-forecast"
+   },
+   {
+    "date": "2026-11-02",
+    "doi": "https://doi.org/10.5281/zenodo.23886823",
+    "title": "A Checklist Is Not a Simplification: Where the Published Gains of Decomposed LLM Evaluation Come From, Why a Controlled Null on Holistic Criteria Does Not Reach Instance-Specific or Verifiable Decompositions, and the Ablations a Decomposition Claim Owes",
+    "url": "https://research.pranaymahendrakar.com/p/a-checklist-is-not-a-simplification"
+   },
    {
     "date": "2026-11-02",
     "doi": "https://doi.org/10.5281/zenodo.23871653",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23849157",
     "title": "A Detector Score Is Not a Release Risk: What PII Detection Benchmarks Certify About Deployment, Why 'Rivals Human Annotators' and 'Fails Under Shift' Are Both Measured, and the Coverage Audit a Release Decision Needs",
     "url": "https://research.pranaymahendrakar.com/p/a-detector-score-is-not-a-release-risk"
-   },
-   {
-    "date": "2026-10-31",
-    "doi": "https://doi.org/10.5281/zenodo.23838677",
-    "title": "Written Is Not Kept: What a Single-Layer Readout of the Residual Stream Licenses When Adjacent Layers Undo Part of Each Other's Writes, Why Cancellation and Iterative Refinement Are Not Rival Findings, and the Persistence Check Interpretability Claims Skip",
-    "url": "https://research.pranaymahendrakar.com/p/written-is-not-kept-what-a-single-layer-readout-of-the"
-   },
-   {
-    "date": "2026-10-31",
-    "doi": "https://doi.org/10.5281/zenodo.23824501",
-    "title": "A Held-Out Site Is a Sample of One: What Random, Spatial and Site-Disjoint Splits Each Estimate, Why Leakage That Differs Between Configurations Reorders a Comparison, and How Many Sites a General Claim Needs",
-    "url": "https://research.pranaymahendrakar.com/p/a-held-out-site-is-a-sample-of-one"
    }
   ]
  }
