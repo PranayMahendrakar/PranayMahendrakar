@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-03",
-  "github": "2026-11-03",
-  "leetcode": "2026-11-03",
-  "packages": "2026-11-03",
-  "podcast": "2026-11-03",
-  "research": "2026-11-03"
+  "blog": "2026-11-04",
+  "github": "2026-11-04",
+  "leetcode": "2026-11-04",
+  "packages": "2026-11-04",
+  "podcast": "2026-11-04",
+  "research": "2026-11-04"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-04",
+    "title": "Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-uber-burning-its-ai-budget-in-four-months-is-a-metering-probl"
+   },
    {
     "date": "2026-11-03",
     "title": "Hot take: a trillion-parameter open-weight model is only open if you read the license",
@@ -28,11 +33,6 @@
     "date": "2026-10-31",
     "title": "Hot take: the phone is about to become a serious inference target",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-phone-is-about-to-become-a-serious-inference-target"
-   },
-   {
-    "date": "2026-10-30",
-    "title": "Hot take: a regulatory delay is a gift of time, not a gift of safety",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-regulatory-delay-is-a-gift-of-time-not-a-gift-of-safety"
    }
   ]
  },
@@ -552,7 +552,7 @@
     0,
     0,
     0,
-    null,
+    0,
     null,
     null,
     null
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 130,
+  "count": 132,
   "latest": [
+   {
+    "date": "2026-11-04",
+    "doi": "https://doi.org/10.5281/zenodo.23933365",
+    "title": "A Residual Is Not a Third Factor: What the Gap Between a Perfect-Retention Ensemble and Joint Training Measures in Continual Learning, Why Chunk Size, Repetition and the Combiner Move It, and the Controls That Would Make Co-observation a Mechanism",
+    "url": "https://research.pranaymahendrakar.com/p/a-residual-is-not-a-third-factor"
+   },
+   {
+    "date": "2026-11-03",
+    "doi": "https://doi.org/10.5281/zenodo.23919442",
+    "title": "A Rendered Passage Is Not a Picture: Four Things Called Modality Preference in Multimodal Knowledge Conflict, Why the Reported Reversal of Text Dominance Changes the Channel but Not the Content, and the Reliability-Matched Test That Would Settle It",
+    "url": "https://research.pranaymahendrakar.com/p/a-rendered-passage-is-not-a-picture"
+   },
    {
     "date": "2026-11-03",
     "doi": "https://doi.org/10.5281/zenodo.23899944",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23871653",
     "title": "A Stable Attribution Is Not a Stable Error Rate: What Feature-Attribution Monitoring Can See Under Drift, Why 'More Sensitive Than the Inputs' and 'Silent While Fairness Fails' Are Both Correct, and the Label-Free Statistic the Fairness Alarm Needed",
     "url": "https://research.pranaymahendrakar.com/p/a-stable-attribution-is-not-a-stable-error-rate"
-   },
-   {
-    "date": "2026-11-01",
-    "doi": "https://doi.org/10.5281/zenodo.23858880",
-    "title": "A Gap to a Reference Is Not a Loss: What Text-Capability Comparisons Between Vision-Language Models and Their Language Backbones Measure, Why Independent Audits and Vendor Reports Disagree in Sign, and the Controlled Trajectory That Would Assign the Cause",
-    "url": "https://research.pranaymahendrakar.com/p/a-gap-to-a-reference-is-not-a-loss"
-   },
-   {
-    "date": "2026-11-01",
-    "doi": "https://doi.org/10.5281/zenodo.23849157",
-    "title": "A Detector Score Is Not a Release Risk: What PII Detection Benchmarks Certify About Deployment, Why 'Rivals Human Annotators' and 'Fails Under Shift' Are Both Measured, and the Coverage Audit a Release Decision Needs",
-    "url": "https://research.pranaymahendrakar.com/p/a-detector-score-is-not-a-release-risk"
    }
   ]
  }
