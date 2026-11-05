@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-04",
-  "github": "2026-11-04",
-  "leetcode": "2026-11-04",
-  "packages": "2026-11-04",
-  "podcast": "2026-11-04",
-  "research": "2026-11-04"
+  "blog": "2026-11-05",
+  "github": "2026-11-05",
+  "leetcode": "2026-11-05",
+  "packages": "2026-11-05",
+  "podcast": "2026-11-05",
+  "research": "2026-11-05"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-05",
+    "title": "Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-eus-first-ai-act-enforcement-is-a-questionnaire-and-that-"
+   },
    {
     "date": "2026-11-04",
     "title": "Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem",
@@ -28,11 +33,6 @@
     "date": "2026-11-01",
     "title": "Hot take: Apple renting Gemini for Siri proves the privacy story is an architecture question",
     "url": "https://pranaymahendrakar.com/blog/hot-take-apple-renting-gemini-for-siri-proves-the-privacy-story-is-an-"
-   },
-   {
-    "date": "2026-10-31",
-    "title": "Hot take: the phone is about to become a serious inference target",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-the-phone-is-about-to-become-a-serious-inference-target"
    }
   ]
  },
@@ -553,7 +553,7 @@
     0,
     0,
     0,
-    null,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 132,
+  "count": 134,
   "latest": [
+   {
+    "date": "2026-11-05",
+    "doi": "https://doi.org/10.5281/zenodo.23965964",
+    "title": "A Missing Slice Is a Missing Measurement: What Language-Level Audits of Safety Datasets Establish, Why the Multi-Turn Residual and Cross-Lingual Transfer Break the Step From Data Gaps to Model Behaviour, and the Contrasts That Would Price Native Data",
+    "url": "https://research.pranaymahendrakar.com/p/a-missing-slice-is-a-missing-measurement"
+   },
+   {
+    "date": "2026-11-04",
+    "doi": "https://doi.org/10.5281/zenodo.23951230",
+    "title": "A Lift Is Not a Selection Gradient: What the Amplification-Lift Gap in Thinking Models Measures, Why an Answer-Aware Label and a Pooled Contrast Account for Much of It, and the Within-Prompt Test That Would Show Training Is Misdirected",
+    "url": "https://research.pranaymahendrakar.com/p/a-lift-is-not-a-selection-gradient"
+   },
    {
     "date": "2026-11-04",
     "doi": "https://doi.org/10.5281/zenodo.23933365",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23899944",
     "title": "A Recall Score Is Not a Use Forecast: What Factual-Memory Benchmarks Predict About Whether a Conversational Memory System Uses What It Stores, Why the Published Transfer Failure Runs Through the Harness and the Write Policy, and the Within-Harness Test That Would Settle It",
     "url": "https://research.pranaymahendrakar.com/p/a-recall-score-is-not-a-use-forecast"
-   },
-   {
-    "date": "2026-11-02",
-    "doi": "https://doi.org/10.5281/zenodo.23886823",
-    "title": "A Checklist Is Not a Simplification: Where the Published Gains of Decomposed LLM Evaluation Come From, Why a Controlled Null on Holistic Criteria Does Not Reach Instance-Specific or Verifiable Decompositions, and the Ablations a Decomposition Claim Owes",
-    "url": "https://research.pranaymahendrakar.com/p/a-checklist-is-not-a-simplification"
-   },
-   {
-    "date": "2026-11-02",
-    "doi": "https://doi.org/10.5281/zenodo.23871653",
-    "title": "A Stable Attribution Is Not a Stable Error Rate: What Feature-Attribution Monitoring Can See Under Drift, Why 'More Sensitive Than the Inputs' and 'Silent While Fairness Fails' Are Both Correct, and the Label-Free Statistic the Fairness Alarm Needed",
-    "url": "https://research.pranaymahendrakar.com/p/a-stable-attribution-is-not-a-stable-error-rate"
    }
   ]
  }
