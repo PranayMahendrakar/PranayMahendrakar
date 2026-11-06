@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 134 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 136 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,516 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->134<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->136<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [A Recovered Trigger Is Not a Verdict](https://research.pranaymahendrakar.com/p/a-recovered-trigger-is-not-a-verdict) &mdash; [DOI](https://doi.org/10.5281/zenodo.23991301) <sub>2026-11-06</sub>
+- [A Hard-Task Gain Is Not a Change of Shape](https://research.pranaymahendrakar.com/p/a-hard-task-gain-is-not-a-change-of-shape) &mdash; [DOI](https://doi.org/10.5281/zenodo.23981037) <sub>2026-11-05</sub>
 - [A Missing Slice Is a Missing Measurement](https://research.pranaymahendrakar.com/p/a-missing-slice-is-a-missing-measurement) &mdash; [DOI](https://doi.org/10.5281/zenodo.23965964) <sub>2026-11-05</sub>
 - [A Lift Is Not a Selection Gradient](https://research.pranaymahendrakar.com/p/a-lift-is-not-a-selection-gradient) &mdash; [DOI](https://doi.org/10.5281/zenodo.23951230) <sub>2026-11-04</sub>
 - [A Residual Is Not a Third Factor](https://research.pranaymahendrakar.com/p/a-residual-is-not-a-third-factor) &mdash; [DOI](https://doi.org/10.5281/zenodo.23933365) <sub>2026-11-04</sub>
-- [A Rendered Passage Is Not a Picture](https://research.pranaymahendrakar.com/p/a-rendered-passage-is-not-a-picture) &mdash; [DOI](https://doi.org/10.5281/zenodo.23919442) <sub>2026-11-03</sub>
-- [A Recall Score Is Not a Use Forecast](https://research.pranaymahendrakar.com/p/a-recall-score-is-not-a-use-forecast) &mdash; [DOI](https://doi.org/10.5281/zenodo.23899944) <sub>2026-11-03</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: Google switching Gemini off for students is the right default, and it came a year late](https://pranaymahendrakar.com/blog/hot-take-google-switching-gemini-off-for-students-is-the-right-default) <sub>2026-11-06</sub>
 - [Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you](https://pranaymahendrakar.com/blog/hot-take-the-eus-first-ai-act-enforcement-is-a-questionnaire-and-that-) <sub>2026-11-05</sub>
 - [Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem](https://pranaymahendrakar.com/blog/hot-take-uber-burning-its-ai-budget-in-four-months-is-a-metering-probl) <sub>2026-11-04</sub>
 - [Hot take: a trillion-parameter open-weight model is only open if you read the license](https://pranaymahendrakar.com/blog/hot-take-a-trillion-parameter-open-weight-model-is-only-open-if-you-re) <sub>2026-11-03</sub>
 - [Hot take: Meta's Mac-ready open model proves memory, not FLOPs, is the local AI budget](https://pranaymahendrakar.com/blog/hot-take-metas-mac-ready-open-model-proves-memory-not-flops-is-the-loc) <sub>2026-11-02</sub>
-- [Hot take: Apple renting Gemini for Siri proves the privacy story is an architecture question](https://pranaymahendrakar.com/blog/hot-take-apple-renting-gemini-for-siri-proves-the-privacy-story-is-an-) <sub>2026-11-01</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

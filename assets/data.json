@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-05",
-  "github": "2026-11-05",
-  "leetcode": "2026-11-05",
-  "packages": "2026-11-05",
-  "podcast": "2026-11-05",
-  "research": "2026-11-05"
+  "blog": "2026-11-06",
+  "github": "2026-11-06",
+  "leetcode": "2026-11-06",
+  "packages": "2026-11-06",
+  "podcast": "2026-11-06",
+  "research": "2026-11-06"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-06",
+    "title": "Hot take: Google switching Gemini off for students is the right default, and it came a year late",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-google-switching-gemini-off-for-students-is-the-right-default"
+   },
    {
     "date": "2026-11-05",
     "title": "Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you",
@@ -28,11 +33,6 @@
     "date": "2026-11-02",
     "title": "Hot take: Meta's Mac-ready open model proves memory, not FLOPs, is the local AI budget",
     "url": "https://pranaymahendrakar.com/blog/hot-take-metas-mac-ready-open-model-proves-memory-not-flops-is-the-loc"
-   },
-   {
-    "date": "2026-11-01",
-    "title": "Hot take: Apple renting Gemini for Siri proves the privacy story is an architecture question",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-apple-renting-gemini-for-siri-proves-the-privacy-story-is-an-"
    }
   ]
  },
@@ -554,7 +554,7 @@
     0,
     0,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 134,
+  "count": 136,
   "latest": [
+   {
+    "date": "2026-11-06",
+    "doi": "https://doi.org/10.5281/zenodo.23991301",
+    "title": "A Recovered Trigger Is Not a Verdict: What Trigger Recovery Establishes About Whether a Language Model Was Poisoned, Why a Search Result Depends on Its Candidate Set, Its Objective and Its Acceptance Rule, and What a Poisoning Screen Has to Report",
+    "url": "https://research.pranaymahendrakar.com/p/a-recovered-trigger-is-not-a-verdict"
+   },
+   {
+    "date": "2026-11-05",
+    "doi": "https://doi.org/10.5281/zenodo.23981037",
+    "title": "A Hard-Task Gain Is Not a Change of Shape: When Language-Model Progress Is One Number, Why a Difficulty-Specific Gain Is Defined Only Relative to a Scale, a Difficulty Coordinate, an Overlap in Ability and a System Boundary, and What a Claim of Non-Scalar Progress Has to Carry",
+    "url": "https://research.pranaymahendrakar.com/p/a-hard-task-gain-is-not-a-change-of-shape"
+   },
    {
     "date": "2026-11-05",
     "doi": "https://doi.org/10.5281/zenodo.23965964",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23933365",
     "title": "A Residual Is Not a Third Factor: What the Gap Between a Perfect-Retention Ensemble and Joint Training Measures in Continual Learning, Why Chunk Size, Repetition and the Combiner Move It, and the Controls That Would Make Co-observation a Mechanism",
     "url": "https://research.pranaymahendrakar.com/p/a-residual-is-not-a-third-factor"
-   },
-   {
-    "date": "2026-11-03",
-    "doi": "https://doi.org/10.5281/zenodo.23919442",
-    "title": "A Rendered Passage Is Not a Picture: Four Things Called Modality Preference in Multimodal Knowledge Conflict, Why the Reported Reversal of Text Dominance Changes the Channel but Not the Content, and the Reliability-Matched Test That Would Settle It",
-    "url": "https://research.pranaymahendrakar.com/p/a-rendered-passage-is-not-a-picture"
-   },
-   {
-    "date": "2026-11-03",
-    "doi": "https://doi.org/10.5281/zenodo.23899944",
-    "title": "A Recall Score Is Not a Use Forecast: What Factual-Memory Benchmarks Predict About Whether a Conversational Memory System Uses What It Stores, Why the Published Transfer Failure Runs Through the Harness and the Write Policy, and the Within-Harness Test That Would Settle It",
-    "url": "https://research.pranaymahendrakar.com/p/a-recall-score-is-not-a-use-forecast"
    }
   ]
  }
