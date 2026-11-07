@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-06",
-  "github": "2026-11-06",
-  "leetcode": "2026-11-06",
-  "packages": "2026-11-06",
-  "podcast": "2026-11-06",
-  "research": "2026-11-06"
+  "blog": "2026-11-07",
+  "github": "2026-11-07",
+  "leetcode": "2026-11-07",
+  "packages": "2026-11-07",
+  "podcast": "2026-11-07",
+  "research": "2026-11-07"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-07",
+    "title": "Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-midterm-data-centre-backlash-shows-why-ai-that-needs-a-po"
+   },
    {
     "date": "2026-11-06",
     "title": "Hot take: Google switching Gemini off for students is the right default, and it came a year late",
@@ -28,11 +33,6 @@
     "date": "2026-11-03",
     "title": "Hot take: a trillion-parameter open-weight model is only open if you read the license",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-trillion-parameter-open-weight-model-is-only-open-if-you-re"
-   },
-   {
-    "date": "2026-11-02",
-    "title": "Hot take: Meta's Mac-ready open model proves memory, not FLOPs, is the local AI budget",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-metas-mac-ready-open-model-proves-memory-not-flops-is-the-loc"
    }
   ]
  },
@@ -555,7 +555,7 @@
     0,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 136,
+  "count": 138,
   "latest": [
+   {
+    "date": "2026-11-07",
+    "doi": "https://doi.org/10.5281/zenodo.24024332",
+    "title": "A Better Predictor of People Is Not a Better Synthetic Person: What Compute Scaling Laws for LLM Social Simulation Measure, Why Hyper-Rational and Flattened Simulators Mostly Measure Something Else, and the Deviation Test That Would Separate Knowing About People From Knowing the Answer",
+    "url": "https://research.pranaymahendrakar.com/p/a-better-predictor-of-people-is-not-a-better-synthetic"
+   },
+   {
+    "date": "2026-11-06",
+    "doi": "https://doi.org/10.5281/zenodo.24012007",
+    "title": "An Uncorrelated Pair Is Not a Separated Source: What a Disentanglement Score Certifies About Aleatoric and Epistemic Uncertainty, Why Correlation, Proxy Tasks and Ground-Truth Targets Rank the Same Methods Differently, and the Decision That Has to Be Declared Before Any of Them Counts",
+    "url": "https://research.pranaymahendrakar.com/p/an-uncorrelated-pair-is-not-a-separated-source"
+   },
    {
     "date": "2026-11-06",
     "doi": "https://doi.org/10.5281/zenodo.23991301",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23965964",
     "title": "A Missing Slice Is a Missing Measurement: What Language-Level Audits of Safety Datasets Establish, Why the Multi-Turn Residual and Cross-Lingual Transfer Break the Step From Data Gaps to Model Behaviour, and the Contrasts That Would Price Native Data",
     "url": "https://research.pranaymahendrakar.com/p/a-missing-slice-is-a-missing-measurement"
-   },
-   {
-    "date": "2026-11-04",
-    "doi": "https://doi.org/10.5281/zenodo.23951230",
-    "title": "A Lift Is Not a Selection Gradient: What the Amplification-Lift Gap in Thinking Models Measures, Why an Answer-Aware Label and a Pooled Contrast Account for Much of It, and the Within-Prompt Test That Would Show Training Is Misdirected",
-    "url": "https://research.pranaymahendrakar.com/p/a-lift-is-not-a-selection-gradient"
-   },
-   {
-    "date": "2026-11-04",
-    "doi": "https://doi.org/10.5281/zenodo.23933365",
-    "title": "A Residual Is Not a Third Factor: What the Gap Between a Perfect-Retention Ensemble and Joint Training Measures in Continual Learning, Why Chunk Size, Repetition and the Combiner Move It, and the Controls That Would Make Co-observation a Mechanism",
-    "url": "https://research.pranaymahendrakar.com/p/a-residual-is-not-a-third-factor"
    }
   ]
  }
