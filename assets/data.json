@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-07",
-  "github": "2026-11-07",
-  "leetcode": "2026-11-07",
-  "packages": "2026-11-07",
-  "podcast": "2026-11-07",
-  "research": "2026-11-07"
+  "blog": "2026-11-08",
+  "github": "2026-11-08",
+  "leetcode": "2026-11-08",
+  "packages": "2026-11-08",
+  "podcast": "2026-11-08",
+  "research": "2026-11-08"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-08",
+    "title": "Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-gating-a-cyber-model-behind-vetted-customers-is-a-patch-not-a"
+   },
    {
     "date": "2026-11-07",
     "title": "Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet",
@@ -28,17 +33,12 @@
     "date": "2026-11-04",
     "title": "Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem",
     "url": "https://pranaymahendrakar.com/blog/hot-take-uber-burning-its-ai-budget-in-four-months-is-a-metering-probl"
-   },
-   {
-    "date": "2026-11-03",
-    "title": "Hot take: a trillion-parameter open-weight model is only open if you read the license",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-trillion-parameter-open-weight-model-is-only-open-if-you-re"
    }
   ]
  },
  "github": {
   "contributions": 9516,
-  "first_sunday": "2025-11-02",
+  "first_sunday": "2025-11-09",
   "followers": 15,
   "languages": [
    {
@@ -80,15 +80,6 @@
   "repos": 1382,
   "stars": 85,
   "weeks": [
-   [
-    13,
-    11,
-    12,
-    16,
-    15,
-    12,
-    13
-   ],
    [
     17,
     16,
@@ -556,6 +547,15 @@
     0,
     0,
     0
+   ],
+   [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 138,
+  "count": 140,
   "latest": [
+   {
+    "date": "2026-11-08",
+    "doi": "https://doi.org/10.5281/zenodo.24045651",
+    "title": "Told the Answer Is Not Taught to Reason: What On-Policy Self-Distillation From Privileged Context Transfers to a Language Model, Why Its Gains and Losses Divide Along Whether the Student Can Ever Hold What the Teacher Was Told, and the Controls That Would Separate Three Signals Under One Loss",
+    "url": "https://research.pranaymahendrakar.com/p/told-the-answer-is-not-taught-to-reason"
+   },
+   {
+    "date": "2026-11-07",
+    "doi": "https://doi.org/10.5281/zenodo.24036459",
+    "title": "A Right Response Is Not a Learned Law: What Perturbation, Constraint and Interpretability Tests Show About Whether Data-Driven Atmospheric Models Learn Chemistry and Dynamics, Why a Constraint Must Be Expressible Before It Can Be Missed, and the Evidence a Composition Forecast Owes",
+    "url": "https://research.pranaymahendrakar.com/p/a-right-response-is-not-a-learned-law"
+   },
    {
     "date": "2026-11-07",
     "doi": "https://doi.org/10.5281/zenodo.24024332",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.23991301",
     "title": "A Recovered Trigger Is Not a Verdict: What Trigger Recovery Establishes About Whether a Language Model Was Poisoned, Why a Search Result Depends on Its Candidate Set, Its Objective and Its Acceptance Rule, and What a Poisoning Screen Has to Report",
     "url": "https://research.pranaymahendrakar.com/p/a-recovered-trigger-is-not-a-verdict"
-   },
-   {
-    "date": "2026-11-05",
-    "doi": "https://doi.org/10.5281/zenodo.23981037",
-    "title": "A Hard-Task Gain Is Not a Change of Shape: When Language-Model Progress Is One Number, Why a Difficulty-Specific Gain Is Defined Only Relative to a Scale, a Difficulty Coordinate, an Overlap in Ability and a System Boundary, and What a Claim of Non-Scalar Progress Has to Carry",
-    "url": "https://research.pranaymahendrakar.com/p/a-hard-task-gain-is-not-a-change-of-shape"
-   },
-   {
-    "date": "2026-11-05",
-    "doi": "https://doi.org/10.5281/zenodo.23965964",
-    "title": "A Missing Slice Is a Missing Measurement: What Language-Level Audits of Safety Datasets Establish, Why the Multi-Turn Residual and Cross-Lingual Transfer Break the Step From Data Gaps to Model Behaviour, and the Contrasts That Would Price Native Data",
-    "url": "https://research.pranaymahendrakar.com/p/a-missing-slice-is-a-missing-measurement"
    }
   ]
  }

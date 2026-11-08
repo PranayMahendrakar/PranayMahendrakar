@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 138 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 140 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,516 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->138<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->140<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [Told the Answer Is Not Taught to Reason](https://research.pranaymahendrakar.com/p/told-the-answer-is-not-taught-to-reason) &mdash; [DOI](https://doi.org/10.5281/zenodo.24045651) <sub>2026-11-08</sub>
+- [A Right Response Is Not a Learned Law](https://research.pranaymahendrakar.com/p/a-right-response-is-not-a-learned-law) &mdash; [DOI](https://doi.org/10.5281/zenodo.24036459) <sub>2026-11-07</sub>
 - [A Better Predictor of People Is Not a Better Synthetic Person](https://research.pranaymahendrakar.com/p/a-better-predictor-of-people-is-not-a-better-synthetic) &mdash; [DOI](https://doi.org/10.5281/zenodo.24024332) <sub>2026-11-07</sub>
 - [An Uncorrelated Pair Is Not a Separated Source](https://research.pranaymahendrakar.com/p/an-uncorrelated-pair-is-not-a-separated-source) &mdash; [DOI](https://doi.org/10.5281/zenodo.24012007) <sub>2026-11-06</sub>
 - [A Recovered Trigger Is Not a Verdict](https://research.pranaymahendrakar.com/p/a-recovered-trigger-is-not-a-verdict) &mdash; [DOI](https://doi.org/10.5281/zenodo.23991301) <sub>2026-11-06</sub>
-- [A Hard-Task Gain Is Not a Change of Shape](https://research.pranaymahendrakar.com/p/a-hard-task-gain-is-not-a-change-of-shape) &mdash; [DOI](https://doi.org/10.5281/zenodo.23981037) <sub>2026-11-05</sub>
-- [A Missing Slice Is a Missing Measurement](https://research.pranaymahendrakar.com/p/a-missing-slice-is-a-missing-measurement) &mdash; [DOI](https://doi.org/10.5281/zenodo.23965964) <sub>2026-11-05</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy](https://pranaymahendrakar.com/blog/hot-take-gating-a-cyber-model-behind-vetted-customers-is-a-patch-not-a) <sub>2026-11-08</sub>
 - [Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet](https://pranaymahendrakar.com/blog/hot-take-the-midterm-data-centre-backlash-shows-why-ai-that-needs-a-po) <sub>2026-11-07</sub>
 - [Hot take: Google switching Gemini off for students is the right default, and it came a year late](https://pranaymahendrakar.com/blog/hot-take-google-switching-gemini-off-for-students-is-the-right-default) <sub>2026-11-06</sub>
 - [Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you](https://pranaymahendrakar.com/blog/hot-take-the-eus-first-ai-act-enforcement-is-a-questionnaire-and-that-) <sub>2026-11-05</sub>
 - [Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem](https://pranaymahendrakar.com/blog/hot-take-uber-burning-its-ai-budget-in-four-months-is-a-metering-probl) <sub>2026-11-04</sub>
-- [Hot take: a trillion-parameter open-weight model is only open if you read the license](https://pranaymahendrakar.com/blog/hot-take-a-trillion-parameter-open-weight-model-is-only-open-if-you-re) <sub>2026-11-03</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).
