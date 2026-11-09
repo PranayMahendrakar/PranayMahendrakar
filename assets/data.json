@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-08",
-  "github": "2026-11-08",
-  "leetcode": "2026-11-08",
-  "packages": "2026-11-08",
-  "podcast": "2026-11-08",
-  "research": "2026-11-08"
+  "blog": "2026-11-09",
+  "github": "2026-11-09",
+  "leetcode": "2026-11-09",
+  "packages": "2026-11-09",
+  "podcast": "2026-11-09",
+  "research": "2026-11-09"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-09",
+    "title": "Hot take: Meta's paused business terms show consent-by-terms-update is not a data strategy",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-metas-paused-business-terms-show-consent-by-terms-update-is-n"
+   },
    {
     "date": "2026-11-08",
     "title": "Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy",
@@ -28,16 +33,11 @@
     "date": "2026-11-05",
     "title": "Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-eus-first-ai-act-enforcement-is-a-questionnaire-and-that-"
-   },
-   {
-    "date": "2026-11-04",
-    "title": "Hot take: Uber burning its AI budget in four months is a metering problem, not an AI problem",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-uber-burning-its-ai-budget-in-four-months-is-a-metering-probl"
    }
   ]
  },
  "github": {
-  "contributions": 9516,
+  "contributions": 9424,
   "first_sunday": "2025-11-09",
   "followers": 15,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 140,
+  "count": 142,
   "latest": [
+   {
+    "date": "2026-11-09",
+    "doi": "https://doi.org/10.5281/zenodo.24063903",
+    "title": "A Disowned Turn Is Not a Detected Prefill: What Language-Model Reports About Tampered Assistant Turns Measure, Why the 'Cannot Tell' and 'Can Tell' Results Score Different Cues, and Where a Defence Against Prefilling Should Sit",
+    "url": "https://research.pranaymahendrakar.com/p/a-disowned-turn-is-not-a-detected-prefill"
+   },
+   {
+    "date": "2026-11-08",
+    "doi": "https://doi.org/10.5281/zenodo.24053922",
+    "title": "A Coupled Explanation Is Not a Readout: What Self-Explanation Training Shows When a Model's Explanations Follow Its Own Drift, Why an Explanation Computed in a Separate Forward Pass Can Only Replay What It Explains, and the Interventions That Would Separate Replay From Access",
+    "url": "https://research.pranaymahendrakar.com/p/a-coupled-explanation-is-not-a-readout"
+   },
    {
     "date": "2026-11-08",
     "doi": "https://doi.org/10.5281/zenodo.24045651",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24024332",
     "title": "A Better Predictor of People Is Not a Better Synthetic Person: What Compute Scaling Laws for LLM Social Simulation Measure, Why Hyper-Rational and Flattened Simulators Mostly Measure Something Else, and the Deviation Test That Would Separate Knowing About People From Knowing the Answer",
     "url": "https://research.pranaymahendrakar.com/p/a-better-predictor-of-people-is-not-a-better-synthetic"
-   },
-   {
-    "date": "2026-11-06",
-    "doi": "https://doi.org/10.5281/zenodo.24012007",
-    "title": "An Uncorrelated Pair Is Not a Separated Source: What a Disentanglement Score Certifies About Aleatoric and Epistemic Uncertainty, Why Correlation, Proxy Tasks and Ground-Truth Targets Rank the Same Methods Differently, and the Decision That Has to Be Declared Before Any of Them Counts",
-    "url": "https://research.pranaymahendrakar.com/p/an-uncorrelated-pair-is-not-a-separated-source"
-   },
-   {
-    "date": "2026-11-06",
-    "doi": "https://doi.org/10.5281/zenodo.23991301",
-    "title": "A Recovered Trigger Is Not a Verdict: What Trigger Recovery Establishes About Whether a Language Model Was Poisoned, Why a Search Result Depends on Its Candidate Set, Its Objective and Its Acceptance Rule, and What a Poisoning Screen Has to Report",
-    "url": "https://research.pranaymahendrakar.com/p/a-recovered-trigger-is-not-a-verdict"
    }
   ]
  }
