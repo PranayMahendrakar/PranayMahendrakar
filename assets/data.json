@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-09",
-  "github": "2026-11-09",
-  "leetcode": "2026-11-09",
-  "packages": "2026-11-09",
-  "podcast": "2026-11-09",
-  "research": "2026-11-09"
+  "blog": "2026-11-10",
+  "github": "2026-11-10",
+  "leetcode": "2026-11-10",
+  "packages": "2026-11-10",
+  "podcast": "2026-11-10",
+  "research": "2026-11-10"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-10",
+    "title": "Hot take: the Fireworks AI breach shows attackers want your API keys, not your models",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-fireworks-ai-breach-shows-attackers-want-your-api-keys-no"
+   },
    {
     "date": "2026-11-09",
     "title": "Hot take: Meta's paused business terms show consent-by-terms-update is not a data strategy",
@@ -28,11 +33,6 @@
     "date": "2026-11-06",
     "title": "Hot take: Google switching Gemini off for students is the right default, and it came a year late",
     "url": "https://pranaymahendrakar.com/blog/hot-take-google-switching-gemini-off-for-students-is-the-right-default"
-   },
-   {
-    "date": "2026-11-05",
-    "title": "Hot take: the EU's first AI Act enforcement is a questionnaire, and that should worry you",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-the-eus-first-ai-act-enforcement-is-a-questionnaire-and-that-"
    }
   ]
  },
@@ -551,7 +551,7 @@
    [
     0,
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 142,
+  "count": 144,
   "latest": [
+   {
+    "date": "2026-11-10",
+    "doi": "https://doi.org/10.5281/zenodo.24094666",
+    "title": "A Loop Count Is Not a Compute Dial: What the Claim That Looped Models Trade Inference Iterations for Accuracy Measures, Why Truncation, Continuation and Easy-to-Hard Iteration Come Apart, and the Controls That Would Separate Them",
+    "url": "https://research.pranaymahendrakar.com/p/a-loop-count-is-not-a-compute-dial"
+   },
+   {
+    "date": "2026-11-09",
+    "doi": "https://doi.org/10.5281/zenodo.24085149",
+    "title": "A Narrower Answer Is Not a Worse Perception: What Think-Versus-Answer Comparisons in Multimodal Emotion Recognition Measure, Why Their Verdicts Split by Arm, Metric and Supervision, and the Matched Design That Would Credit Reasoning",
+    "url": "https://research.pranaymahendrakar.com/p/a-narrower-answer-is-not-a-worse-perception"
+   },
    {
     "date": "2026-11-09",
     "doi": "https://doi.org/10.5281/zenodo.24063903",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24045651",
     "title": "Told the Answer Is Not Taught to Reason: What On-Policy Self-Distillation From Privileged Context Transfers to a Language Model, Why Its Gains and Losses Divide Along Whether the Student Can Ever Hold What the Teacher Was Told, and the Controls That Would Separate Three Signals Under One Loss",
     "url": "https://research.pranaymahendrakar.com/p/told-the-answer-is-not-taught-to-reason"
-   },
-   {
-    "date": "2026-11-07",
-    "doi": "https://doi.org/10.5281/zenodo.24036459",
-    "title": "A Right Response Is Not a Learned Law: What Perturbation, Constraint and Interpretability Tests Show About Whether Data-Driven Atmospheric Models Learn Chemistry and Dynamics, Why a Constraint Must Be Expressible Before It Can Be Missed, and the Evidence a Composition Forecast Owes",
-    "url": "https://research.pranaymahendrakar.com/p/a-right-response-is-not-a-learned-law"
-   },
-   {
-    "date": "2026-11-07",
-    "doi": "https://doi.org/10.5281/zenodo.24024332",
-    "title": "A Better Predictor of People Is Not a Better Synthetic Person: What Compute Scaling Laws for LLM Social Simulation Measure, Why Hyper-Rational and Flattened Simulators Mostly Measure Something Else, and the Deviation Test That Would Separate Knowing About People From Knowing the Answer",
-    "url": "https://research.pranaymahendrakar.com/p/a-better-predictor-of-people-is-not-a-better-synthetic"
    }
   ]
  }
