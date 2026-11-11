@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-10",
-  "github": "2026-11-10",
-  "leetcode": "2026-11-10",
-  "packages": "2026-11-10",
-  "podcast": "2026-11-10",
-  "research": "2026-11-10"
+  "blog": "2026-11-11",
+  "github": "2026-11-11",
+  "leetcode": "2026-11-11",
+  "packages": "2026-11-11",
+  "podcast": "2026-11-11",
+  "research": "2026-11-11"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-11",
+    "title": "Hot take: Amazon's text-to-buy agent shows an agent that can spend money needs different engineering",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-amazons-text-to-buy-agent-shows-an-agent-that-can-spend-money"
+   },
    {
     "date": "2026-11-10",
     "title": "Hot take: the Fireworks AI breach shows attackers want your API keys, not your models",
@@ -28,16 +33,11 @@
     "date": "2026-11-07",
     "title": "Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-midterm-data-centre-backlash-shows-why-ai-that-needs-a-po"
-   },
-   {
-    "date": "2026-11-06",
-    "title": "Hot take: Google switching Gemini off for students is the right default, and it came a year late",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-google-switching-gemini-off-for-students-is-the-right-default"
    }
   ]
  },
  "github": {
-  "contributions": 9424,
+  "contributions": 9564,
   "first_sunday": "2025-11-09",
   "followers": 15,
   "languages": [
@@ -477,55 +477,55 @@
     3
    ],
    [
-    0,
-    3,
+    11,
+    15,
     2,
     2,
     3,
     4,
-    2
+    4
    ],
    [
     4,
-    427,
+    425,
     19,
     3,
     12,
-    11,
+    13,
     1
    ],
    [
     0,
-    2,
-    5,
+    16,
+    13,
+    7,
     0,
-    0,
-    0,
-    0
+    24,
+    2
    ],
    [
     6,
-    5,
-    30,
-    1,
-    0,
-    0,
-    0
+    6,
+    34,
+    16,
+    4,
+    6,
+    6
    ],
    [
-    0,
-    0,
-    1,
+    10,
     4,
+    1,
+    9,
     0,
     0,
-    5
+    6
    ],
    [
     2,
     0,
     4,
-    7,
+    9,
     0,
     0,
     0
@@ -551,8 +551,8 @@
    [
     0,
     0,
+    2,
     0,
-    null,
     null,
     null,
     null
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 144,
+  "count": 146,
   "latest": [
+   {
+    "date": "2026-11-11",
+    "doi": "https://doi.org/10.5281/zenodo.24121829",
+    "title": "A Manuscript Score Is Not an Audit: What Reviewer Agreement Certifies About Agent-Written Research, Why a Validation Run on Human Papers Does Not Transfer to Authors That Fabricate, and the Chain of Checks an Auto-Research Claim Owes",
+    "url": "https://research.pranaymahendrakar.com/p/a-manuscript-score-is-not-an-audit"
+   },
+   {
+    "date": "2026-11-10",
+    "doi": "https://doi.org/10.5281/zenodo.24110760",
+    "title": "A Lower Score Is Not a Failed Transfer: What the Claim That Static Medical Benchmarks Do Not Carry Over to Interactive Clinical Encounters Measures, Why Level, Rank and Selection Come Apart, and the Harness Controls the Interactive Benchmarks Owe",
+    "url": "https://research.pranaymahendrakar.com/p/a-lower-score-is-not-a-failed-transfer"
+   },
    {
     "date": "2026-11-10",
     "doi": "https://doi.org/10.5281/zenodo.24094666",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24063903",
     "title": "A Disowned Turn Is Not a Detected Prefill: What Language-Model Reports About Tampered Assistant Turns Measure, Why the 'Cannot Tell' and 'Can Tell' Results Score Different Cues, and Where a Defence Against Prefilling Should Sit",
     "url": "https://research.pranaymahendrakar.com/p/a-disowned-turn-is-not-a-detected-prefill"
-   },
-   {
-    "date": "2026-11-08",
-    "doi": "https://doi.org/10.5281/zenodo.24053922",
-    "title": "A Coupled Explanation Is Not a Readout: What Self-Explanation Training Shows When a Model's Explanations Follow Its Own Drift, Why an Explanation Computed in a Separate Forward Pass Can Only Replay What It Explains, and the Interventions That Would Separate Replay From Access",
-    "url": "https://research.pranaymahendrakar.com/p/a-coupled-explanation-is-not-a-readout"
-   },
-   {
-    "date": "2026-11-08",
-    "doi": "https://doi.org/10.5281/zenodo.24045651",
-    "title": "Told the Answer Is Not Taught to Reason: What On-Policy Self-Distillation From Privileged Context Transfers to a Language Model, Why Its Gains and Losses Divide Along Whether the Student Can Ever Hold What the Teacher Was Told, and the Controls That Would Separate Three Signals Under One Loss",
-    "url": "https://research.pranaymahendrakar.com/p/told-the-answer-is-not-taught-to-reason"
    }
   ]
  }
