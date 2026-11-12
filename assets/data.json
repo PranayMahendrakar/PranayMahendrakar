@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-11",
-  "github": "2026-11-11",
-  "leetcode": "2026-11-11",
-  "packages": "2026-11-11",
-  "podcast": "2026-11-11",
-  "research": "2026-11-11"
+  "blog": "2026-11-12",
+  "github": "2026-11-12",
+  "leetcode": "2026-11-12",
+  "packages": "2026-11-12",
+  "podcast": "2026-11-12",
+  "research": "2026-11-12"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-12",
+    "title": "Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-chinas-fast-tracked-ai-law-shows-evidence-not-benchmarks-is-t"
+   },
    {
     "date": "2026-11-11",
     "title": "Hot take: Amazon's text-to-buy agent shows an agent that can spend money needs different engineering",
@@ -28,11 +33,6 @@
     "date": "2026-11-08",
     "title": "Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy",
     "url": "https://pranaymahendrakar.com/blog/hot-take-gating-a-cyber-model-behind-vetted-customers-is-a-patch-not-a"
-   },
-   {
-    "date": "2026-11-07",
-    "title": "Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-the-midterm-data-centre-backlash-shows-why-ai-that-needs-a-po"
    }
   ]
  },
@@ -553,7 +553,7 @@
     0,
     2,
     0,
-    null,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 146,
+  "count": 148,
   "latest": [
+   {
+    "date": "2026-11-12",
+    "doi": "https://doi.org/10.5281/zenodo.24147988",
+    "title": "A Smaller Ablation Count Is Not an Easier Model: What Heads-to-Damage Counts Measure When Attention Architectures Differ, Why Grouped-Query Attention, Model Family and Training Cannot Yet Be Separated From Scale, and the Matched Comparisons That Would Say Whether Circuit Analysis Gets Harder With Size",
+    "url": "https://research.pranaymahendrakar.com/p/a-smaller-ablation-count-is-not-an-easier-model"
+   },
+   {
+    "date": "2026-11-11",
+    "doi": "https://doi.org/10.5281/zenodo.24137264",
+    "title": "A Pooled Accuracy Is Not a Scaling Verdict: What Tool-Calling Benchmarks Show About Whether Larger Models Call Tools Better, Why Per-Token Price Misranks Cost Only in One Cost Regime, and the Per-Skill, Per-Task Accounting a Router Needs",
+    "url": "https://research.pranaymahendrakar.com/p/a-pooled-accuracy-is-not-a-scaling-verdict"
+   },
    {
     "date": "2026-11-11",
     "doi": "https://doi.org/10.5281/zenodo.24121829",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24094666",
     "title": "A Loop Count Is Not a Compute Dial: What the Claim That Looped Models Trade Inference Iterations for Accuracy Measures, Why Truncation, Continuation and Easy-to-Hard Iteration Come Apart, and the Controls That Would Separate Them",
     "url": "https://research.pranaymahendrakar.com/p/a-loop-count-is-not-a-compute-dial"
-   },
-   {
-    "date": "2026-11-09",
-    "doi": "https://doi.org/10.5281/zenodo.24085149",
-    "title": "A Narrower Answer Is Not a Worse Perception: What Think-Versus-Answer Comparisons in Multimodal Emotion Recognition Measure, Why Their Verdicts Split by Arm, Metric and Supervision, and the Matched Design That Would Credit Reasoning",
-    "url": "https://research.pranaymahendrakar.com/p/a-narrower-answer-is-not-a-worse-perception"
-   },
-   {
-    "date": "2026-11-09",
-    "doi": "https://doi.org/10.5281/zenodo.24063903",
-    "title": "A Disowned Turn Is Not a Detected Prefill: What Language-Model Reports About Tampered Assistant Turns Measure, Why the 'Cannot Tell' and 'Can Tell' Results Score Different Cues, and Where a Defence Against Prefilling Should Sit",
-    "url": "https://research.pranaymahendrakar.com/p/a-disowned-turn-is-not-a-detected-prefill"
    }
   ]
  }

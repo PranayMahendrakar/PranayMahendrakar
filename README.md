@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 146 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 148 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,564 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->146<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->148<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [A Smaller Ablation Count Is Not an Easier Model](https://research.pranaymahendrakar.com/p/a-smaller-ablation-count-is-not-an-easier-model) &mdash; [DOI](https://doi.org/10.5281/zenodo.24147988) <sub>2026-11-12</sub>
+- [A Pooled Accuracy Is Not a Scaling Verdict](https://research.pranaymahendrakar.com/p/a-pooled-accuracy-is-not-a-scaling-verdict) &mdash; [DOI](https://doi.org/10.5281/zenodo.24137264) <sub>2026-11-11</sub>
 - [A Manuscript Score Is Not an Audit](https://research.pranaymahendrakar.com/p/a-manuscript-score-is-not-an-audit) &mdash; [DOI](https://doi.org/10.5281/zenodo.24121829) <sub>2026-11-11</sub>
 - [A Lower Score Is Not a Failed Transfer](https://research.pranaymahendrakar.com/p/a-lower-score-is-not-a-failed-transfer) &mdash; [DOI](https://doi.org/10.5281/zenodo.24110760) <sub>2026-11-10</sub>
 - [A Loop Count Is Not a Compute Dial](https://research.pranaymahendrakar.com/p/a-loop-count-is-not-a-compute-dial) &mdash; [DOI](https://doi.org/10.5281/zenodo.24094666) <sub>2026-11-10</sub>
-- [A Narrower Answer Is Not a Worse Perception](https://research.pranaymahendrakar.com/p/a-narrower-answer-is-not-a-worse-perception) &mdash; [DOI](https://doi.org/10.5281/zenodo.24085149) <sub>2026-11-09</sub>
-- [A Disowned Turn Is Not a Detected Prefill](https://research.pranaymahendrakar.com/p/a-disowned-turn-is-not-a-detected-prefill) &mdash; [DOI](https://doi.org/10.5281/zenodo.24063903) <sub>2026-11-09</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product](https://pranaymahendrakar.com/blog/hot-take-chinas-fast-tracked-ai-law-shows-evidence-not-benchmarks-is-t) <sub>2026-11-12</sub>
 - [Hot take: Amazon's text-to-buy agent shows an agent that can spend money needs different engineering](https://pranaymahendrakar.com/blog/hot-take-amazons-text-to-buy-agent-shows-an-agent-that-can-spend-money) <sub>2026-11-11</sub>
 - [Hot take: the Fireworks AI breach shows attackers want your API keys, not your models](https://pranaymahendrakar.com/blog/hot-take-the-fireworks-ai-breach-shows-attackers-want-your-api-keys-no) <sub>2026-11-10</sub>
 - [Hot take: Meta's paused business terms show consent-by-terms-update is not a data strategy](https://pranaymahendrakar.com/blog/hot-take-metas-paused-business-terms-show-consent-by-terms-update-is-n) <sub>2026-11-09</sub>
 - [Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy](https://pranaymahendrakar.com/blog/hot-take-gating-a-cyber-model-behind-vetted-customers-is-a-patch-not-a) <sub>2026-11-08</sub>
-- [Hot take: the midterm data-centre backlash shows why AI that needs a power plant is a fragile bet](https://pranaymahendrakar.com/blog/hot-take-the-midterm-data-centre-backlash-shows-why-ai-that-needs-a-po) <sub>2026-11-07</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).
