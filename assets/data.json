@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-12",
-  "github": "2026-11-12",
-  "leetcode": "2026-11-12",
-  "packages": "2026-11-12",
-  "podcast": "2026-11-12",
-  "research": "2026-11-12"
+  "blog": "2026-11-13",
+  "github": "2026-11-13",
+  "leetcode": "2026-11-13",
+  "packages": "2026-11-13",
+  "podcast": "2026-11-13",
+  "research": "2026-11-13"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-13",
+    "title": "Hot take: Nemotron 3.5 Lightning shows active parameters, not total, decide where a model can run",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-nemotron-35-lightning-shows-active-parameters-not-total-decid"
+   },
    {
     "date": "2026-11-12",
     "title": "Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product",
@@ -28,11 +33,6 @@
     "date": "2026-11-09",
     "title": "Hot take: Meta's paused business terms show consent-by-terms-update is not a data strategy",
     "url": "https://pranaymahendrakar.com/blog/hot-take-metas-paused-business-terms-show-consent-by-terms-update-is-n"
-   },
-   {
-    "date": "2026-11-08",
-    "title": "Hot take: gating a cyber model behind vetted customers is a patch, not a safety strategy",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-gating-a-cyber-model-behind-vetted-customers-is-a-patch-not-a"
    }
   ]
  },
@@ -554,7 +554,7 @@
     2,
     0,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 148,
+  "count": 150,
   "latest": [
+   {
+    "date": "2026-11-13",
+    "doi": "https://doi.org/10.5281/zenodo.24180439",
+    "title": "A Fallback Is Not a Disposition: What Verifier-Passing Shortcuts in RLVR-Trained Models Show, Why Their Rate Rises With Task Difficulty on One Benchmark and Falls on Another, and the Signatures That Would Separate Fallback, Selection and Learned Exploitation",
+    "url": "https://research.pranaymahendrakar.com/p/a-fallback-is-not-a-disposition"
+   },
+   {
+    "date": "2026-11-12",
+    "doi": "https://doi.org/10.5281/zenodo.24164177",
+    "title": "Harder to Recognise Is Not More Skilled: What a Negative Correlation Between Action-Recognition Accuracy and Rated Nursing Competency Measures, Why the Same Statistic Takes the Opposite Sign in Free Assembly and Expert-Referenced Surgical Scoring, and the Controls That Would Make Recognisability a Competency Signal",
+    "url": "https://research.pranaymahendrakar.com/p/harder-to-recognise-is-not-more-skilled"
+   },
    {
     "date": "2026-11-12",
     "doi": "https://doi.org/10.5281/zenodo.24147988",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24121829",
     "title": "A Manuscript Score Is Not an Audit: What Reviewer Agreement Certifies About Agent-Written Research, Why a Validation Run on Human Papers Does Not Transfer to Authors That Fabricate, and the Chain of Checks an Auto-Research Claim Owes",
     "url": "https://research.pranaymahendrakar.com/p/a-manuscript-score-is-not-an-audit"
-   },
-   {
-    "date": "2026-11-10",
-    "doi": "https://doi.org/10.5281/zenodo.24110760",
-    "title": "A Lower Score Is Not a Failed Transfer: What the Claim That Static Medical Benchmarks Do Not Carry Over to Interactive Clinical Encounters Measures, Why Level, Rank and Selection Come Apart, and the Harness Controls the Interactive Benchmarks Owe",
-    "url": "https://research.pranaymahendrakar.com/p/a-lower-score-is-not-a-failed-transfer"
-   },
-   {
-    "date": "2026-11-10",
-    "doi": "https://doi.org/10.5281/zenodo.24094666",
-    "title": "A Loop Count Is Not a Compute Dial: What the Claim That Looped Models Trade Inference Iterations for Accuracy Measures, Why Truncation, Continuation and Easy-to-Hard Iteration Come Apart, and the Controls That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/a-loop-count-is-not-a-compute-dial"
    }
   ]
  }
