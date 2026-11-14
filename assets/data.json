@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-13",
-  "github": "2026-11-13",
-  "leetcode": "2026-11-13",
-  "packages": "2026-11-13",
-  "podcast": "2026-11-13",
-  "research": "2026-11-13"
+  "blog": "2026-11-14",
+  "github": "2026-11-14",
+  "leetcode": "2026-11-14",
+  "packages": "2026-11-14",
+  "podcast": "2026-11-14",
+  "research": "2026-11-14"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-14",
+    "title": "A voluntary AI safety pledge is only as good as the evidence behind it",
+    "url": "https://pranaymahendrakar.com/blog/a-voluntary-ai-safety-pledge-is-only-as-good-as-the-evidence-behind-it"
+   },
    {
     "date": "2026-11-13",
     "title": "Hot take: Nemotron 3.5 Lightning shows active parameters, not total, decide where a model can run",
@@ -28,16 +33,11 @@
     "date": "2026-11-10",
     "title": "Hot take: the Fireworks AI breach shows attackers want your API keys, not your models",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-fireworks-ai-breach-shows-attackers-want-your-api-keys-no"
-   },
-   {
-    "date": "2026-11-09",
-    "title": "Hot take: Meta's paused business terms show consent-by-terms-update is not a data strategy",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-metas-paused-business-terms-show-consent-by-terms-update-is-n"
    }
   ]
  },
  "github": {
-  "contributions": 9564,
+  "contributions": 9567,
   "first_sunday": "2025-11-09",
   "followers": 15,
   "languages": [
@@ -487,7 +487,7 @@
    ],
    [
     4,
-    425,
+    424,
     19,
     3,
     12,
@@ -554,8 +554,8 @@
     2,
     0,
     0,
-    0,
-    null
+    4,
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 150,
+  "count": 152,
   "latest": [
+   {
+    "date": "2026-11-14",
+    "doi": "https://doi.org/10.5281/zenodo.24209615",
+    "title": "A Session Drop Is Not a Signal Ceiling: What Cross-Session Degradation in ECG Biometrics Measures, Why the Same Heartbeat Can Link a Patient Across Years Yet Fail to Unlock a Device, and the Longitudinal Protocol That Would Locate the Loss",
+    "url": "https://research.pranaymahendrakar.com/p/a-session-drop-is-not-a-signal-ceiling"
+   },
+   {
+    "date": "2026-11-13",
+    "doi": "https://doi.org/10.5281/zenodo.24198393",
+    "title": "A Pooled Score Is Not a Missing Binding: What Compositional Failures of Dual-Encoder Vision-Language Models Locate, Why Probes, Readouts and an Impossibility Proof Disagree About Where the Binding Is Lost, and the Controls That Would Assign It",
+    "url": "https://research.pranaymahendrakar.com/p/a-pooled-score-is-not-a-missing-binding"
+   },
    {
     "date": "2026-11-13",
     "doi": "https://doi.org/10.5281/zenodo.24180439",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24147988",
     "title": "A Smaller Ablation Count Is Not an Easier Model: What Heads-to-Damage Counts Measure When Attention Architectures Differ, Why Grouped-Query Attention, Model Family and Training Cannot Yet Be Separated From Scale, and the Matched Comparisons That Would Say Whether Circuit Analysis Gets Harder With Size",
     "url": "https://research.pranaymahendrakar.com/p/a-smaller-ablation-count-is-not-an-easier-model"
-   },
-   {
-    "date": "2026-11-11",
-    "doi": "https://doi.org/10.5281/zenodo.24137264",
-    "title": "A Pooled Accuracy Is Not a Scaling Verdict: What Tool-Calling Benchmarks Show About Whether Larger Models Call Tools Better, Why Per-Token Price Misranks Cost Only in One Cost Regime, and the Per-Skill, Per-Task Accounting a Router Needs",
-    "url": "https://research.pranaymahendrakar.com/p/a-pooled-accuracy-is-not-a-scaling-verdict"
-   },
-   {
-    "date": "2026-11-11",
-    "doi": "https://doi.org/10.5281/zenodo.24121829",
-    "title": "A Manuscript Score Is Not an Audit: What Reviewer Agreement Certifies About Agent-Written Research, Why a Validation Run on Human Papers Does Not Transfer to Authors That Fabricate, and the Chain of Checks an Auto-Research Claim Owes",
-    "url": "https://research.pranaymahendrakar.com/p/a-manuscript-score-is-not-an-audit"
    }
   ]
  }
