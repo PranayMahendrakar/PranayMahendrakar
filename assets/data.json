@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-14",
-  "github": "2026-11-14",
-  "leetcode": "2026-11-14",
-  "packages": "2026-11-14",
-  "podcast": "2026-11-14",
-  "research": "2026-11-14"
+  "blog": "2026-11-15",
+  "github": "2026-11-15",
+  "leetcode": "2026-11-15",
+  "packages": "2026-11-15",
+  "podcast": "2026-11-15",
+  "research": "2026-11-15"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-15",
+    "title": "Hot take: a 145B model on a laptop matters less for its benchmark than for where the data stays",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-145b-model-on-a-laptop-matters-less-for-its-benchmark-than-"
+   },
    {
     "date": "2026-11-14",
     "title": "A voluntary AI safety pledge is only as good as the evidence behind it",
@@ -28,17 +33,12 @@
     "date": "2026-11-11",
     "title": "Hot take: Amazon's text-to-buy agent shows an agent that can spend money needs different engineering",
     "url": "https://pranaymahendrakar.com/blog/hot-take-amazons-text-to-buy-agent-shows-an-agent-that-can-spend-money"
-   },
-   {
-    "date": "2026-11-10",
-    "title": "Hot take: the Fireworks AI breach shows attackers want your API keys, not your models",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-the-fireworks-ai-breach-shows-attackers-want-your-api-keys-no"
    }
   ]
  },
  "github": {
-  "contributions": 9567,
-  "first_sunday": "2025-11-09",
+  "contributions": 9577,
+  "first_sunday": "2025-11-16",
   "followers": 15,
   "languages": [
    {
@@ -80,15 +80,6 @@
   "repos": 1382,
   "stars": 85,
   "weeks": [
-   [
-    17,
-    16,
-    9,
-    12,
-    16,
-    12,
-    17
-   ],
    [
     15,
     9,
@@ -556,6 +547,15 @@
     0,
     4,
     0
+   ],
+   [
+    10,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 152,
+  "count": 154,
   "latest": [
+   {
+    "date": "2026-11-15",
+    "doi": "https://doi.org/10.5281/zenodo.24235210",
+    "title": "A Relocated Dependency Is Not a Vanished One: What the Neural-Cellular-Automaton Result on Integer Multiplication Shows About Long-Range Dependency, Why the Neural GPU Line Already Bounds It, and the Controls That Would Separate Locality, Supervision and Carry Coverage",
+    "url": "https://research.pranaymahendrakar.com/p/a-relocated-dependency-is-not-a-vanished-one"
+   },
+   {
+    "date": "2026-11-14",
+    "doi": "https://doi.org/10.5281/zenodo.24221454",
+    "title": "A Clause Boundary Is Not a Composition: What Clause-Factorized Decoding Shows About Compositional Multi-Intent Detection, Why a Segmenter and a Cardinality Head Carry Most of the Reported Gap, and the Splits That Would Separate Them",
+    "url": "https://research.pranaymahendrakar.com/p/a-clause-boundary-is-not-a-composition"
+   },
    {
     "date": "2026-11-14",
     "doi": "https://doi.org/10.5281/zenodo.24209615",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24180439",
     "title": "A Fallback Is Not a Disposition: What Verifier-Passing Shortcuts in RLVR-Trained Models Show, Why Their Rate Rises With Task Difficulty on One Benchmark and Falls on Another, and the Signatures That Would Separate Fallback, Selection and Learned Exploitation",
     "url": "https://research.pranaymahendrakar.com/p/a-fallback-is-not-a-disposition"
-   },
-   {
-    "date": "2026-11-12",
-    "doi": "https://doi.org/10.5281/zenodo.24164177",
-    "title": "Harder to Recognise Is Not More Skilled: What a Negative Correlation Between Action-Recognition Accuracy and Rated Nursing Competency Measures, Why the Same Statistic Takes the Opposite Sign in Free Assembly and Expert-Referenced Surgical Scoring, and the Controls That Would Make Recognisability a Competency Signal",
-    "url": "https://research.pranaymahendrakar.com/p/harder-to-recognise-is-not-more-skilled"
-   },
-   {
-    "date": "2026-11-12",
-    "doi": "https://doi.org/10.5281/zenodo.24147988",
-    "title": "A Smaller Ablation Count Is Not an Easier Model: What Heads-to-Damage Counts Measure When Attention Architectures Differ, Why Grouped-Query Attention, Model Family and Training Cannot Yet Be Separated From Scale, and the Matched Comparisons That Would Say Whether Circuit Analysis Gets Harder With Size",
-    "url": "https://research.pranaymahendrakar.com/p/a-smaller-ablation-count-is-not-an-easier-model"
    }
   ]
  }
