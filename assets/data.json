@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-15",
-  "github": "2026-11-15",
-  "leetcode": "2026-11-15",
-  "packages": "2026-11-15",
-  "podcast": "2026-11-15",
-  "research": "2026-11-15"
+  "blog": "2026-11-16",
+  "github": "2026-11-16",
+  "leetcode": "2026-11-16",
+  "packages": "2026-11-16",
+  "podcast": "2026-11-16",
+  "research": "2026-11-16"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-16",
+    "title": "Hot take: open-weight testing rules matter less than whether you can still run models next to your data",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-open-weight-testing-rules-matter-less-than-whether-you-can-st"
+   },
    {
     "date": "2026-11-15",
     "title": "Hot take: a 145B model on a laptop matters less for its benchmark than for where the data stays",
@@ -28,16 +33,11 @@
     "date": "2026-11-12",
     "title": "Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product",
     "url": "https://pranaymahendrakar.com/blog/hot-take-chinas-fast-tracked-ai-law-shows-evidence-not-benchmarks-is-t"
-   },
-   {
-    "date": "2026-11-11",
-    "title": "Hot take: Amazon's text-to-buy agent shows an agent that can spend money needs different engineering",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-amazons-text-to-buy-agent-shows-an-agent-that-can-spend-money"
    }
   ]
  },
  "github": {
-  "contributions": 9577,
+  "contributions": 9478,
   "first_sunday": "2025-11-16",
   "followers": 15,
   "languages": [
@@ -550,7 +550,7 @@
    ],
    [
     10,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 154,
+  "count": 156,
   "latest": [
+   {
+    "date": "2026-11-16",
+    "doi": "https://doi.org/10.5281/zenodo.24265554",
+    "title": "Advice Is Not Effort: When a Language Model's Stated Preferences Predict Its Behaviour, Why the Answer Turns on the Channel a Preference Must Travel and the Kind of Preference Asked About, and the Positive Control a Null Result Owes",
+    "url": "https://research.pranaymahendrakar.com/p/advice-is-not-effort-when-a-language-models-stated"
+   },
+   {
+    "date": "2026-11-15",
+    "doi": "https://doi.org/10.5281/zenodo.24247221",
+    "title": "A Verified Guess Is Not a Reversed Fact: What Test-Time Thinking Repairs in the Latent Generalization of Fine-Tuned Knowledge, Why Its Gains Follow the Forward Paths a Query Leaves Open, and the Candidate-Pool Controls That Would Separate Inversion From Search",
+    "url": "https://research.pranaymahendrakar.com/p/a-verified-guess-is-not-a-reversed-fact"
+   },
    {
     "date": "2026-11-15",
     "doi": "https://doi.org/10.5281/zenodo.24235210",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24209615",
     "title": "A Session Drop Is Not a Signal Ceiling: What Cross-Session Degradation in ECG Biometrics Measures, Why the Same Heartbeat Can Link a Patient Across Years Yet Fail to Unlock a Device, and the Longitudinal Protocol That Would Locate the Loss",
     "url": "https://research.pranaymahendrakar.com/p/a-session-drop-is-not-a-signal-ceiling"
-   },
-   {
-    "date": "2026-11-13",
-    "doi": "https://doi.org/10.5281/zenodo.24198393",
-    "title": "A Pooled Score Is Not a Missing Binding: What Compositional Failures of Dual-Encoder Vision-Language Models Locate, Why Probes, Readouts and an Impossibility Proof Disagree About Where the Binding Is Lost, and the Controls That Would Assign It",
-    "url": "https://research.pranaymahendrakar.com/p/a-pooled-score-is-not-a-missing-binding"
-   },
-   {
-    "date": "2026-11-13",
-    "doi": "https://doi.org/10.5281/zenodo.24180439",
-    "title": "A Fallback Is Not a Disposition: What Verifier-Passing Shortcuts in RLVR-Trained Models Show, Why Their Rate Rises With Task Difficulty on One Benchmark and Falls on Another, and the Signatures That Would Separate Fallback, Selection and Learned Exploitation",
-    "url": "https://research.pranaymahendrakar.com/p/a-fallback-is-not-a-disposition"
    }
   ]
  }
