@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 156 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 158 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,478 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->156<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->158<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [Calibrated Against Which Label?](https://research.pranaymahendrakar.com/p/calibrated-against-which-label-what-temperature-scaling) &mdash; [DOI](https://doi.org/10.5281/zenodo.24294850) <sub>2026-11-17</sub>
+- [An Output Is Not a Memory Until Something Reads It Back](https://research.pranaymahendrakar.com/p/an-output-is-not-a-memory-until-something-reads-it-back) &mdash; [DOI](https://doi.org/10.5281/zenodo.24282461) <sub>2026-11-16</sub>
 - [Advice Is Not Effort](https://research.pranaymahendrakar.com/p/advice-is-not-effort-when-a-language-models-stated) &mdash; [DOI](https://doi.org/10.5281/zenodo.24265554) <sub>2026-11-16</sub>
 - [A Verified Guess Is Not a Reversed Fact](https://research.pranaymahendrakar.com/p/a-verified-guess-is-not-a-reversed-fact) &mdash; [DOI](https://doi.org/10.5281/zenodo.24247221) <sub>2026-11-15</sub>
 - [A Relocated Dependency Is Not a Vanished One](https://research.pranaymahendrakar.com/p/a-relocated-dependency-is-not-a-vanished-one) &mdash; [DOI](https://doi.org/10.5281/zenodo.24235210) <sub>2026-11-15</sub>
-- [A Clause Boundary Is Not a Composition](https://research.pranaymahendrakar.com/p/a-clause-boundary-is-not-a-composition) &mdash; [DOI](https://doi.org/10.5281/zenodo.24221454) <sub>2026-11-14</sub>
-- [A Session Drop Is Not a Signal Ceiling](https://research.pranaymahendrakar.com/p/a-session-drop-is-not-a-signal-ceiling) &mdash; [DOI](https://doi.org/10.5281/zenodo.24209615) <sub>2026-11-14</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: a half-point benchmark lead on an open coding model is noise, not a result](https://pranaymahendrakar.com/blog/hot-take-a-half-point-benchmark-lead-on-an-open-coding-model-is-noise-) <sub>2026-11-17</sub>
 - [Hot take: open-weight testing rules matter less than whether you can still run models next to your data](https://pranaymahendrakar.com/blog/hot-take-open-weight-testing-rules-matter-less-than-whether-you-can-st) <sub>2026-11-16</sub>
 - [Hot take: a 145B model on a laptop matters less for its benchmark than for where the data stays](https://pranaymahendrakar.com/blog/hot-take-a-145b-model-on-a-laptop-matters-less-for-its-benchmark-than-) <sub>2026-11-15</sub>
 - [A voluntary AI safety pledge is only as good as the evidence behind it](https://pranaymahendrakar.com/blog/a-voluntary-ai-safety-pledge-is-only-as-good-as-the-evidence-behind-it) <sub>2026-11-14</sub>
 - [Hot take: Nemotron 3.5 Lightning shows active parameters, not total, decide where a model can run](https://pranaymahendrakar.com/blog/hot-take-nemotron-35-lightning-shows-active-parameters-not-total-decid) <sub>2026-11-13</sub>
-- [Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product](https://pranaymahendrakar.com/blog/hot-take-chinas-fast-tracked-ai-law-shows-evidence-not-benchmarks-is-t) <sub>2026-11-12</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

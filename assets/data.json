@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-16",
-  "github": "2026-11-16",
-  "leetcode": "2026-11-16",
-  "packages": "2026-11-16",
-  "podcast": "2026-11-16",
-  "research": "2026-11-16"
+  "blog": "2026-11-17",
+  "github": "2026-11-17",
+  "leetcode": "2026-11-17",
+  "packages": "2026-11-17",
+  "podcast": "2026-11-17",
+  "research": "2026-11-17"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-17",
+    "title": "Hot take: a half-point benchmark lead on an open coding model is noise, not a result",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-half-point-benchmark-lead-on-an-open-coding-model-is-noise-"
+   },
    {
     "date": "2026-11-16",
     "title": "Hot take: open-weight testing rules matter less than whether you can still run models next to your data",
@@ -28,11 +33,6 @@
     "date": "2026-11-13",
     "title": "Hot take: Nemotron 3.5 Lightning shows active parameters, not total, decide where a model can run",
     "url": "https://pranaymahendrakar.com/blog/hot-take-nemotron-35-lightning-shows-active-parameters-not-total-decid"
-   },
-   {
-    "date": "2026-11-12",
-    "title": "Hot take: China's fast-tracked AI law shows evidence, not benchmarks, is the new product",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-chinas-fast-tracked-ai-law-shows-evidence-not-benchmarks-is-t"
    }
   ]
  },
@@ -551,7 +551,7 @@
    [
     10,
     0,
-    null,
+    0,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 156,
+  "count": 158,
   "latest": [
+   {
+    "date": "2026-11-17",
+    "doi": "https://doi.org/10.5281/zenodo.24294850",
+    "title": "Calibrated Against Which Label? What Temperature Scaling Certifies When Annotators Disagree, Why a Majority Vote and an Annotator Distribution Each Make the Other's Calibrated Model Look Wrong, and the Target a Calibration Claim Has to Declare",
+    "url": "https://research.pranaymahendrakar.com/p/calibrated-against-which-label-what-temperature-scaling"
+   },
+   {
+    "date": "2026-11-16",
+    "doi": "https://doi.org/10.5281/zenodo.24282461",
+    "title": "An Output Is Not a Memory Until Something Reads It Back: Where the Key Lives in Implicit-Memory Channels of Stateless Language Models, Why Steganography Evaluations and Temporal-Backdoor Results Disagree, and the Loop Audit That Would Locate a Deployment's Risk",
+    "url": "https://research.pranaymahendrakar.com/p/an-output-is-not-a-memory-until-something-reads-it-back"
+   },
    {
     "date": "2026-11-16",
     "doi": "https://doi.org/10.5281/zenodo.24265554",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24235210",
     "title": "A Relocated Dependency Is Not a Vanished One: What the Neural-Cellular-Automaton Result on Integer Multiplication Shows About Long-Range Dependency, Why the Neural GPU Line Already Bounds It, and the Controls That Would Separate Locality, Supervision and Carry Coverage",
     "url": "https://research.pranaymahendrakar.com/p/a-relocated-dependency-is-not-a-vanished-one"
-   },
-   {
-    "date": "2026-11-14",
-    "doi": "https://doi.org/10.5281/zenodo.24221454",
-    "title": "A Clause Boundary Is Not a Composition: What Clause-Factorized Decoding Shows About Compositional Multi-Intent Detection, Why a Segmenter and a Cardinality Head Carry Most of the Reported Gap, and the Splits That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/a-clause-boundary-is-not-a-composition"
-   },
-   {
-    "date": "2026-11-14",
-    "doi": "https://doi.org/10.5281/zenodo.24209615",
-    "title": "A Session Drop Is Not a Signal Ceiling: What Cross-Session Degradation in ECG Biometrics Measures, Why the Same Heartbeat Can Link a Patient Across Years Yet Fail to Unlock a Device, and the Longitudinal Protocol That Would Locate the Loss",
-    "url": "https://research.pranaymahendrakar.com/p/a-session-drop-is-not-a-signal-ceiling"
    }
   ]
  }
