@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-17",
-  "github": "2026-11-17",
-  "leetcode": "2026-11-17",
-  "packages": "2026-11-17",
-  "podcast": "2026-11-17",
-  "research": "2026-11-17"
+  "blog": "2026-11-18",
+  "github": "2026-11-18",
+  "leetcode": "2026-11-18",
+  "packages": "2026-11-18",
+  "podcast": "2026-11-18",
+  "research": "2026-11-18"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-18",
+    "title": "Hot take: the US rule on remote chip access proves compute you rent is compute you can lose",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-us-rule-on-remote-chip-access-proves-compute-you-rent-is-"
+   },
    {
     "date": "2026-11-17",
     "title": "Hot take: a half-point benchmark lead on an open coding model is noise, not a result",
@@ -28,16 +33,11 @@
     "date": "2026-11-14",
     "title": "A voluntary AI safety pledge is only as good as the evidence behind it",
     "url": "https://pranaymahendrakar.com/blog/a-voluntary-ai-safety-pledge-is-only-as-good-as-the-evidence-behind-it"
-   },
-   {
-    "date": "2026-11-13",
-    "title": "Hot take: Nemotron 3.5 Lightning shows active parameters, not total, decide where a model can run",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-nemotron-35-lightning-shows-active-parameters-not-total-decid"
    }
   ]
  },
  "github": {
-  "contributions": 9478,
+  "contributions": 9487,
   "first_sunday": "2025-11-16",
   "followers": 15,
   "languages": [
@@ -551,8 +551,8 @@
    [
     10,
     0,
-    0,
-    null,
+    3,
+    6,
     null,
     null,
     null
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 158,
+  "count": 160,
   "latest": [
+   {
+    "date": "2026-11-18",
+    "doi": "https://doi.org/10.5281/zenodo.24326760",
+    "title": "Two Answers Are Not Two Memories: What the Evidence for Intra-Memory Knowledge Conflict Certifies, Why Head Interventions That Settle Trained-In Conflicts Lose Their Grip on Real Entities, and the Controls That Would Separate Competing Stores From Unstable Retrieval",
+    "url": "https://research.pranaymahendrakar.com/p/two-answers-are-not-two-memories"
+   },
+   {
+    "date": "2026-11-17",
+    "doi": "https://doi.org/10.5281/zenodo.24315100",
+    "title": "A Null Citation Gap Is Not a Missing Reward: What Field-Level Comparisons of Papers With and Without Shared Data and Code Certify About the Incentive to Share, Why a Transportation Null and an Astrophysics Advantage Can Both Hold, and the Design That Would Price the Return",
+    "url": "https://research.pranaymahendrakar.com/p/a-null-citation-gap-is-not-a-missing-reward"
+   },
    {
     "date": "2026-11-17",
     "doi": "https://doi.org/10.5281/zenodo.24294850",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24265554",
     "title": "Advice Is Not Effort: When a Language Model's Stated Preferences Predict Its Behaviour, Why the Answer Turns on the Channel a Preference Must Travel and the Kind of Preference Asked About, and the Positive Control a Null Result Owes",
     "url": "https://research.pranaymahendrakar.com/p/advice-is-not-effort-when-a-language-models-stated"
-   },
-   {
-    "date": "2026-11-15",
-    "doi": "https://doi.org/10.5281/zenodo.24247221",
-    "title": "A Verified Guess Is Not a Reversed Fact: What Test-Time Thinking Repairs in the Latent Generalization of Fine-Tuned Knowledge, Why Its Gains Follow the Forward Paths a Query Leaves Open, and the Candidate-Pool Controls That Would Separate Inversion From Search",
-    "url": "https://research.pranaymahendrakar.com/p/a-verified-guess-is-not-a-reversed-fact"
-   },
-   {
-    "date": "2026-11-15",
-    "doi": "https://doi.org/10.5281/zenodo.24235210",
-    "title": "A Relocated Dependency Is Not a Vanished One: What the Neural-Cellular-Automaton Result on Integer Multiplication Shows About Long-Range Dependency, Why the Neural GPU Line Already Bounds It, and the Controls That Would Separate Locality, Supervision and Carry Coverage",
-    "url": "https://research.pranaymahendrakar.com/p/a-relocated-dependency-is-not-a-vanished-one"
    }
   ]
  }
