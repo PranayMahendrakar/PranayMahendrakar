@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-18",
-  "github": "2026-11-18",
-  "leetcode": "2026-11-18",
-  "packages": "2026-11-18",
-  "podcast": "2026-11-18",
-  "research": "2026-11-18"
+  "blog": "2026-11-19",
+  "github": "2026-11-19",
+  "leetcode": "2026-11-19",
+  "packages": "2026-11-19",
+  "podcast": "2026-11-19",
+  "research": "2026-11-19"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-19",
+    "title": "Hot take: a citation next to an AI answer is not evidence until someone checks it",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-citation-next-to-an-ai-answer-is-not-evidence-until-someone"
+   },
    {
     "date": "2026-11-18",
     "title": "Hot take: the US rule on remote chip access proves compute you rent is compute you can lose",
@@ -28,11 +33,6 @@
     "date": "2026-11-15",
     "title": "Hot take: a 145B model on a laptop matters less for its benchmark than for where the data stays",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-145b-model-on-a-laptop-matters-less-for-its-benchmark-than-"
-   },
-   {
-    "date": "2026-11-14",
-    "title": "A voluntary AI safety pledge is only as good as the evidence behind it",
-    "url": "https://pranaymahendrakar.com/blog/a-voluntary-ai-safety-pledge-is-only-as-good-as-the-evidence-behind-it"
    }
   ]
  },
@@ -553,7 +553,7 @@
     0,
     3,
     6,
-    null,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 160,
+  "count": 162,
   "latest": [
+   {
+    "date": "2026-11-19",
+    "doi": "https://doi.org/10.5281/zenodo.24355741",
+    "title": "A Sharp Turn Is Not a Phase Transition: What Training-Time Transitions in Small Language Models Establish, Why Threshold Readouts, Fast Crossovers, Developmental Stages and Critical Behaviour Are Reported Under One Name, and the Controls That Would Tell Them Apart",
+    "url": "https://research.pranaymahendrakar.com/p/a-sharp-turn-is-not-a-phase-transition"
+   },
+   {
+    "date": "2026-11-18",
+    "doi": "https://doi.org/10.5281/zenodo.24344793",
+    "title": "A Query Update Is Not a Memory Write: What Test-Time Training on a Long Context Changes, Why Its Advantage Over Thinking Tokens Narrows Outside the Setup That Produced It, and the Controls That Would Credit the Gradient",
+    "url": "https://research.pranaymahendrakar.com/p/a-query-update-is-not-a-memory-write"
+   },
    {
     "date": "2026-11-18",
     "doi": "https://doi.org/10.5281/zenodo.24326760",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24294850",
     "title": "Calibrated Against Which Label? What Temperature Scaling Certifies When Annotators Disagree, Why a Majority Vote and an Annotator Distribution Each Make the Other's Calibrated Model Look Wrong, and the Target a Calibration Claim Has to Declare",
     "url": "https://research.pranaymahendrakar.com/p/calibrated-against-which-label-what-temperature-scaling"
-   },
-   {
-    "date": "2026-11-16",
-    "doi": "https://doi.org/10.5281/zenodo.24282461",
-    "title": "An Output Is Not a Memory Until Something Reads It Back: Where the Key Lives in Implicit-Memory Channels of Stateless Language Models, Why Steganography Evaluations and Temporal-Backdoor Results Disagree, and the Loop Audit That Would Locate a Deployment's Risk",
-    "url": "https://research.pranaymahendrakar.com/p/an-output-is-not-a-memory-until-something-reads-it-back"
-   },
-   {
-    "date": "2026-11-16",
-    "doi": "https://doi.org/10.5281/zenodo.24265554",
-    "title": "Advice Is Not Effort: When a Language Model's Stated Preferences Predict Its Behaviour, Why the Answer Turns on the Channel a Preference Must Travel and the Kind of Preference Asked About, and the Positive Control a Null Result Owes",
-    "url": "https://research.pranaymahendrakar.com/p/advice-is-not-effort-when-a-language-models-stated"
    }
   ]
  }
