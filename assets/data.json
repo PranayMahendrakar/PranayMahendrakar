@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-19",
-  "github": "2026-11-19",
-  "leetcode": "2026-11-19",
-  "packages": "2026-11-19",
-  "podcast": "2026-11-19",
-  "research": "2026-11-19"
+  "blog": "2026-11-20",
+  "github": "2026-11-20",
+  "leetcode": "2026-11-20",
+  "packages": "2026-11-20",
+  "podcast": "2026-11-20",
+  "research": "2026-11-20"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-20",
+    "title": "Hot take: an AI agent without its own identity is a shared password with a language model attached",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-a-shared-password-wit"
+   },
    {
     "date": "2026-11-19",
     "title": "Hot take: a citation next to an AI answer is not evidence until someone checks it",
@@ -28,11 +33,6 @@
     "date": "2026-11-16",
     "title": "Hot take: open-weight testing rules matter less than whether you can still run models next to your data",
     "url": "https://pranaymahendrakar.com/blog/hot-take-open-weight-testing-rules-matter-less-than-whether-you-can-st"
-   },
-   {
-    "date": "2026-11-15",
-    "title": "Hot take: a 145B model on a laptop matters less for its benchmark than for where the data stays",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-145b-model-on-a-laptop-matters-less-for-its-benchmark-than-"
    }
   ]
  },
@@ -554,7 +554,7 @@
     3,
     6,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 162,
+  "count": 164,
   "latest": [
+   {
+    "date": "2026-11-20",
+    "doi": "https://doi.org/10.5281/zenodo.24382475",
+    "title": "A Benchmark Hit Is Not an Exposure: What Published Vision-Language Geolocation Accuracy Says About Location Privacy, Why One Model Locates 61 Percent of One Photo Set to a Kilometre and Fewer Than 12 Percent of Another to a Hundred, and the Exposure Estimand a Privacy Claim Needs",
+    "url": "https://research.pranaymahendrakar.com/p/a-benchmark-hit-is-not-an-exposure"
+   },
+   {
+    "date": "2026-11-19",
+    "doi": "https://doi.org/10.5281/zenodo.24372087",
+    "title": "A Learned Inverse Is Not a Lifted Curse: What Training Transformers on a Family Knowledge Graph Shows About the Reversal Curse, Why Its Bilinear Geometry Answers a Relation-Level Question the Original Curse Did Not Ask, and the Controls That Would Carry It to Pretrained Models",
+    "url": "https://research.pranaymahendrakar.com/p/a-learned-inverse-is-not-a-lifted-curse"
+   },
    {
     "date": "2026-11-19",
     "doi": "https://doi.org/10.5281/zenodo.24355741",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24326760",
     "title": "Two Answers Are Not Two Memories: What the Evidence for Intra-Memory Knowledge Conflict Certifies, Why Head Interventions That Settle Trained-In Conflicts Lose Their Grip on Real Entities, and the Controls That Would Separate Competing Stores From Unstable Retrieval",
     "url": "https://research.pranaymahendrakar.com/p/two-answers-are-not-two-memories"
-   },
-   {
-    "date": "2026-11-17",
-    "doi": "https://doi.org/10.5281/zenodo.24315100",
-    "title": "A Null Citation Gap Is Not a Missing Reward: What Field-Level Comparisons of Papers With and Without Shared Data and Code Certify About the Incentive to Share, Why a Transportation Null and an Astrophysics Advantage Can Both Hold, and the Design That Would Price the Return",
-    "url": "https://research.pranaymahendrakar.com/p/a-null-citation-gap-is-not-a-missing-reward"
-   },
-   {
-    "date": "2026-11-17",
-    "doi": "https://doi.org/10.5281/zenodo.24294850",
-    "title": "Calibrated Against Which Label? What Temperature Scaling Certifies When Annotators Disagree, Why a Majority Vote and an Annotator Distribution Each Make the Other's Calibrated Model Look Wrong, and the Target a Calibration Claim Has to Declare",
-    "url": "https://research.pranaymahendrakar.com/p/calibrated-against-which-label-what-temperature-scaling"
    }
   ]
  }
