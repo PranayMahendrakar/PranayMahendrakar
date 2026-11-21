@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-20",
-  "github": "2026-11-20",
-  "leetcode": "2026-11-20",
-  "packages": "2026-11-20",
-  "podcast": "2026-11-20",
-  "research": "2026-11-20"
+  "blog": "2026-11-21",
+  "github": "2026-11-21",
+  "leetcode": "2026-11-21",
+  "packages": "2026-11-21",
+  "podcast": "2026-11-21",
+  "research": "2026-11-21"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-21",
+    "title": "Hot take: a new frontier model is a reason to re-measure your costs, not re-platform your product",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-new-frontier-model-is-a-reason-to-re-measure-your-costs-not"
+   },
    {
     "date": "2026-11-20",
     "title": "Hot take: an AI agent without its own identity is a shared password with a language model attached",
@@ -28,11 +33,6 @@
     "date": "2026-11-17",
     "title": "Hot take: a half-point benchmark lead on an open coding model is noise, not a result",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-half-point-benchmark-lead-on-an-open-coding-model-is-noise-"
-   },
-   {
-    "date": "2026-11-16",
-    "title": "Hot take: open-weight testing rules matter less than whether you can still run models next to your data",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-open-weight-testing-rules-matter-less-than-whether-you-can-st"
    }
   ]
  },
@@ -555,7 +555,7 @@
     6,
     0,
     0,
-    null
+    0
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 164,
+  "count": 166,
   "latest": [
+   {
+    "date": "2026-11-21",
+    "doi": "https://doi.org/10.5281/zenodo.24408406",
+    "title": "A Near Neighbour Is Not a Native Feature: What Nearest-Neighbour Novelty Detection Owes to the Space It Measures In, Why the Case For and Against Pretrained Features Turns on Benchmark and Baseline More Than on Where the Features Came From, and the Comparison That Would Separate Scoring Rule From Representation",
+    "url": "https://research.pranaymahendrakar.com/p/a-near-neighbour-is-not-a-native-feature"
+   },
+   {
+    "date": "2026-11-20",
+    "doi": "https://doi.org/10.5281/zenodo.24398949",
+    "title": "A Second Sample Is Not a Second Signal: What the One-Sample Semantic Entropy Result Measures, Why the Sampling Premium Is Mostly a Disagreement About the Baseline, and the Matched Comparison That Would Settle It",
+    "url": "https://research.pranaymahendrakar.com/p/a-second-sample-is-not-a-second-signal"
+   },
    {
     "date": "2026-11-20",
     "doi": "https://doi.org/10.5281/zenodo.24382475",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24355741",
     "title": "A Sharp Turn Is Not a Phase Transition: What Training-Time Transitions in Small Language Models Establish, Why Threshold Readouts, Fast Crossovers, Developmental Stages and Critical Behaviour Are Reported Under One Name, and the Controls That Would Tell Them Apart",
     "url": "https://research.pranaymahendrakar.com/p/a-sharp-turn-is-not-a-phase-transition"
-   },
-   {
-    "date": "2026-11-18",
-    "doi": "https://doi.org/10.5281/zenodo.24344793",
-    "title": "A Query Update Is Not a Memory Write: What Test-Time Training on a Long Context Changes, Why Its Advantage Over Thinking Tokens Narrows Outside the Setup That Produced It, and the Controls That Would Credit the Gradient",
-    "url": "https://research.pranaymahendrakar.com/p/a-query-update-is-not-a-memory-write"
-   },
-   {
-    "date": "2026-11-18",
-    "doi": "https://doi.org/10.5281/zenodo.24326760",
-    "title": "Two Answers Are Not Two Memories: What the Evidence for Intra-Memory Knowledge Conflict Certifies, Why Head Interventions That Settle Trained-In Conflicts Lose Their Grip on Real Entities, and the Controls That Would Separate Competing Stores From Unstable Retrieval",
-    "url": "https://research.pranaymahendrakar.com/p/two-answers-are-not-two-memories"
    }
   ]
  }
