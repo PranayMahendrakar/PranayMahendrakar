@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-21",
-  "github": "2026-11-21",
-  "leetcode": "2026-11-21",
-  "packages": "2026-11-21",
-  "podcast": "2026-11-21",
-  "research": "2026-11-21"
+  "blog": "2026-11-22",
+  "github": "2026-11-22",
+  "leetcode": "2026-11-22",
+  "packages": "2026-11-22",
+  "podcast": "2026-11-22",
+  "research": "2026-11-22"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-22",
+    "title": "Hot take: a 0.5B speech model you can run yourself beats another leaderboard-topping API",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-05b-speech-model-you-can-run-yourself-beats-another-leaderb"
+   },
    {
     "date": "2026-11-21",
     "title": "Hot take: a new frontier model is a reason to re-measure your costs, not re-platform your product",
@@ -28,17 +33,12 @@
     "date": "2026-11-18",
     "title": "Hot take: the US rule on remote chip access proves compute you rent is compute you can lose",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-us-rule-on-remote-chip-access-proves-compute-you-rent-is-"
-   },
-   {
-    "date": "2026-11-17",
-    "title": "Hot take: a half-point benchmark lead on an open coding model is noise, not a result",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-half-point-benchmark-lead-on-an-open-coding-model-is-noise-"
    }
   ]
  },
  "github": {
   "contributions": 9487,
-  "first_sunday": "2025-11-16",
+  "first_sunday": "2025-11-23",
   "followers": 15,
   "languages": [
    {
@@ -80,15 +80,6 @@
   "repos": 1382,
   "stars": 85,
   "weeks": [
-   [
-    15,
-    9,
-    16,
-    14,
-    10,
-    9,
-    12
-   ],
    [
     15,
     15,
@@ -556,6 +547,15 @@
     0,
     0,
     0
+   ],
+   [
+    0,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 166,
+  "count": 168,
   "latest": [
+   {
+    "date": "2026-11-22",
+    "doi": "https://doi.org/10.5281/zenodo.24430423",
+    "title": "A Recovered Average Is Not a Defended Corridor: What Adversarial Training Buys Spatiotemporal Traffic Forecasters, Why the Case That Static Methods Fail Rests on Node Selection While the Evidence of Failure Comes From Attack Shape, and the Evaluation That Would Tell Them Apart",
+    "url": "https://research.pranaymahendrakar.com/p/a-recovered-average-is-not-a-defended-corridor"
+   },
+   {
+    "date": "2026-11-21",
+    "doi": "https://doi.org/10.5281/zenodo.24420073",
+    "title": "A Refusal Is Not a Veto: Why Multi-Agent Structures Are Reported Both to Amplify and to Contain Language-Model Harm, Which Properties of the Structure Set the Sign, and the Matched Comparison That Would Separate Them",
+    "url": "https://research.pranaymahendrakar.com/p/a-refusal-is-not-a-veto-why-multi-agent-structures-are"
+   },
    {
     "date": "2026-11-21",
     "doi": "https://doi.org/10.5281/zenodo.24408406",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24382475",
     "title": "A Benchmark Hit Is Not an Exposure: What Published Vision-Language Geolocation Accuracy Says About Location Privacy, Why One Model Locates 61 Percent of One Photo Set to a Kilometre and Fewer Than 12 Percent of Another to a Hundred, and the Exposure Estimand a Privacy Claim Needs",
     "url": "https://research.pranaymahendrakar.com/p/a-benchmark-hit-is-not-an-exposure"
-   },
-   {
-    "date": "2026-11-19",
-    "doi": "https://doi.org/10.5281/zenodo.24372087",
-    "title": "A Learned Inverse Is Not a Lifted Curse: What Training Transformers on a Family Knowledge Graph Shows About the Reversal Curse, Why Its Bilinear Geometry Answers a Relation-Level Question the Original Curse Did Not Ask, and the Controls That Would Carry It to Pretrained Models",
-    "url": "https://research.pranaymahendrakar.com/p/a-learned-inverse-is-not-a-lifted-curse"
-   },
-   {
-    "date": "2026-11-19",
-    "doi": "https://doi.org/10.5281/zenodo.24355741",
-    "title": "A Sharp Turn Is Not a Phase Transition: What Training-Time Transitions in Small Language Models Establish, Why Threshold Readouts, Fast Crossovers, Developmental Stages and Critical Behaviour Are Reported Under One Name, and the Controls That Would Tell Them Apart",
-    "url": "https://research.pranaymahendrakar.com/p/a-sharp-turn-is-not-a-phase-transition"
    }
   ]
  }
