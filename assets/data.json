@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-23",
-  "github": "2026-11-23",
-  "leetcode": "2026-11-23",
-  "packages": "2026-11-23",
-  "podcast": "2026-11-23",
-  "research": "2026-11-23"
+  "blog": "2026-11-24",
+  "github": "2026-11-24",
+  "leetcode": "2026-11-24",
+  "packages": "2026-11-24",
+  "podcast": "2026-11-24",
+  "research": "2026-11-24"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-24",
+    "title": "Hot take: open weights are now a policy question, and your architecture is your answer",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-open-weights-are-now-a-policy-question-and-your-architecture-"
+   },
    {
     "date": "2026-11-23",
     "title": "Hot take: the scariest part of the FBI's ARTEX alert is not the AI, it is the workflow",
@@ -28,16 +33,11 @@
     "date": "2026-11-20",
     "title": "Hot take: an AI agent without its own identity is a shared password with a language model attached",
     "url": "https://pranaymahendrakar.com/blog/hot-take-an-ai-agent-without-its-own-identity-is-a-shared-password-wit"
-   },
-   {
-    "date": "2026-11-19",
-    "title": "Hot take: a citation next to an AI answer is not evidence until someone checks it",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-citation-next-to-an-ai-answer-is-not-evidence-until-someone"
    }
   ]
  },
  "github": {
-  "contributions": 9402,
+  "contributions": 9424,
   "first_sunday": "2025-11-23",
   "followers": 15,
   "languages": [
@@ -469,7 +469,7 @@
    ],
    [
     4,
-    424,
+    423,
     19,
     3,
     12,
@@ -550,8 +550,8 @@
    ],
    [
     0,
-    0,
-    null,
+    6,
+    17,
     null,
     null,
     null,
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 170,
+  "count": 172,
   "latest": [
+   {
+    "date": "2026-11-24",
+    "doi": "https://doi.org/10.5281/zenodo.24485494",
+    "title": "A Preserved Score Is Not a Preserved Answer: What Position-Independent KV Cache Reuse Evaluations Measure, Why Conditioning on the Baseline's Success Does Not Remove the Ambiguity, and the Paired Audit That Would Separate Fidelity, Accuracy and the Source of Loss",
+    "url": "https://research.pranaymahendrakar.com/p/a-preserved-score-is-not-a-preserved-answer"
+   },
+   {
+    "date": "2026-11-23",
+    "doi": "https://doi.org/10.5281/zenodo.24472983",
+    "title": "An Evaded Monitor Is Not a Hidden Thought: What Training Against Chain-of-Thought Monitors Produces, Why Monitor Recall Cannot Tell Omission, Encoding and Monitor Exploitation Apart, and the Probe Battery That Would",
+    "url": "https://research.pranaymahendrakar.com/p/an-evaded-monitor-is-not-a-hidden-thought"
+   },
    {
     "date": "2026-11-23",
     "doi": "https://doi.org/10.5281/zenodo.24450652",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24430423",
     "title": "A Recovered Average Is Not a Defended Corridor: What Adversarial Training Buys Spatiotemporal Traffic Forecasters, Why the Case That Static Methods Fail Rests on Node Selection While the Evidence of Failure Comes From Attack Shape, and the Evaluation That Would Tell Them Apart",
     "url": "https://research.pranaymahendrakar.com/p/a-recovered-average-is-not-a-defended-corridor"
-   },
-   {
-    "date": "2026-11-21",
-    "doi": "https://doi.org/10.5281/zenodo.24420073",
-    "title": "A Refusal Is Not a Veto: Why Multi-Agent Structures Are Reported Both to Amplify and to Contain Language-Model Harm, Which Properties of the Structure Set the Sign, and the Matched Comparison That Would Separate Them",
-    "url": "https://research.pranaymahendrakar.com/p/a-refusal-is-not-a-veto-why-multi-agent-structures-are"
-   },
-   {
-    "date": "2026-11-21",
-    "doi": "https://doi.org/10.5281/zenodo.24408406",
-    "title": "A Near Neighbour Is Not a Native Feature: What Nearest-Neighbour Novelty Detection Owes to the Space It Measures In, Why the Case For and Against Pretrained Features Turns on Benchmark and Baseline More Than on Where the Features Came From, and the Comparison That Would Separate Scoring Rule From Representation",
-    "url": "https://research.pranaymahendrakar.com/p/a-near-neighbour-is-not-a-native-feature"
    }
   ]
  }
