@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-25",
-  "github": "2026-11-25",
-  "leetcode": "2026-11-25",
-  "packages": "2026-11-25",
-  "podcast": "2026-11-25",
-  "research": "2026-11-25"
+  "blog": "2026-11-26",
+  "github": "2026-11-26",
+  "leetcode": "2026-11-26",
+  "packages": "2026-11-26",
+  "podcast": "2026-11-26",
+  "research": "2026-11-26"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-26",
+    "title": "Hot take: Meta's paused scraping terms prove your data policy is only as strong as someone else's contract",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-metas-paused-scraping-terms-prove-your-data-policy-is-only-as"
+   },
    {
     "date": "2026-11-25",
     "title": "Hot take: California's OpenAI lawsuit shows a sandbox you have not tried to escape is just a guess",
@@ -28,11 +33,6 @@
     "date": "2026-11-22",
     "title": "Hot take: a 0.5B speech model you can run yourself beats another leaderboard-topping API",
     "url": "https://pranaymahendrakar.com/blog/hot-take-a-05b-speech-model-you-can-run-yourself-beats-another-leaderb"
-   },
-   {
-    "date": "2026-11-21",
-    "title": "Hot take: a new frontier model is a reason to re-measure your costs, not re-platform your product",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-new-frontier-model-is-a-reason-to-re-measure-your-costs-not"
    }
   ]
  },
@@ -553,7 +553,7 @@
     6,
     24,
     0,
-    null,
+    0,
     null,
     null
    ]
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 174,
+  "count": 176,
   "latest": [
+   {
+    "date": "2026-11-26",
+    "doi": "https://doi.org/10.5281/zenodo.24545381",
+    "title": "A Likelihood Ratio Is Not a Whole Reading: What Class-Conditional Guard Models Change About Shortcuts, Calibration and Position, Why the Generative-Classifier Evidence Does Not Transfer to a Discriminatively Trained Ratio, and the Matched Comparison That Would Assign the Gains",
+    "url": "https://research.pranaymahendrakar.com/p/a-likelihood-ratio-is-not-a-whole-reading"
+   },
+   {
+    "date": "2026-11-25",
+    "doi": "https://doi.org/10.5281/zenodo.24537485",
+    "title": "A Different Route Is Not a Different Destination: What Controlled On- Versus Off-Policy Distillation Rules Out About Forgetting, Sparsity and Generalisation, Why Its Null Does Not Carry Over to the Gap Between Fine-Tuning and Reinforcement Learning, and the Target-Matched Comparison That Would Assign the Credit",
+    "url": "https://research.pranaymahendrakar.com/p/a-different-route-is-not-a-different-destination"
+   },
    {
     "date": "2026-11-25",
     "doi": "https://doi.org/10.5281/zenodo.24517680",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24485494",
     "title": "A Preserved Score Is Not a Preserved Answer: What Position-Independent KV Cache Reuse Evaluations Measure, Why Conditioning on the Baseline's Success Does Not Remove the Ambiguity, and the Paired Audit That Would Separate Fidelity, Accuracy and the Source of Loss",
     "url": "https://research.pranaymahendrakar.com/p/a-preserved-score-is-not-a-preserved-answer"
-   },
-   {
-    "date": "2026-11-23",
-    "doi": "https://doi.org/10.5281/zenodo.24472983",
-    "title": "An Evaded Monitor Is Not a Hidden Thought: What Training Against Chain-of-Thought Monitors Produces, Why Monitor Recall Cannot Tell Omission, Encoding and Monitor Exploitation Apart, and the Probe Battery That Would",
-    "url": "https://research.pranaymahendrakar.com/p/an-evaded-monitor-is-not-a-hidden-thought"
-   },
-   {
-    "date": "2026-11-23",
-    "doi": "https://doi.org/10.5281/zenodo.24450652",
-    "title": "A Composed Policy Is Not a Predicted Run: What Combining Policies Trained on Other Rewards Can Tell About Reinforcement Learning on a New One, Why the Closed Form Covers an Objective Common Recipes Do Not Optimise, and the Null Basis That Would Separate Reward-Specific Prediction From Shared Drift",
-    "url": "https://research.pranaymahendrakar.com/p/a-composed-policy-is-not-a-predicted-run"
    }
   ]
  }
