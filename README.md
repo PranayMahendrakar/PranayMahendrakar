@@ -24,7 +24,7 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 <!-- TILES:START -->
 <p align="center">
-  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 176 (open access, each with a DOI)"></picture></a>
+  <a href="https://research.pranaymahendrakar.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-papers-dark.svg" width="32%" alt="Research papers: 178 (open access, each with a DOI)"></picture></a>
   <a href="https://github.com/PranayMahendrakar?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-repos-dark.svg" width="32%" alt="Public repositories: 1,382 (on GitHub)"></picture></a>
   <a href="https://leetcode.com/u/PranayMahendrakar/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-leetcode-dark.svg" width="32%" alt="LeetCode solved: 3,288 (840 easy / 1,662 medium / 786 hard)"></picture></a>
   <a href="https://github.com/PranayMahendrakar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-light.svg"><img src="https://raw.githubusercontent.com/PranayMahendrakar/PranayMahendrakar/main/assets/tile-contributions-dark.svg" width="32%" alt="Contributions: 9,431 (on GitHub in the last 12 months)"></picture></a>
@@ -38,24 +38,24 @@ Pranay Mahendrakar is an Indian AI specialist and LLM engineer based in Bengalur
 
 ## Latest research
 
-Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->176<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
+Open access, each with a permanent DOI. All <!-- PAPER-COUNT:START -->178<!-- PAPER-COUNT:END --> papers are at [research.pranaymahendrakar.com](https://research.pranaymahendrakar.com/).
 
 <!-- PAPERS:START -->
+- [A Portable Encoder Is Not a Portable Rule](https://research.pranaymahendrakar.com/p/a-portable-encoder-is-not-a-portable-rule) &mdash; [DOI](https://doi.org/10.5281/zenodo.24573054) <sub>2026-11-27</sub>
+- [A Residue Is Not a Recurrence](https://research.pranaymahendrakar.com/p/a-residue-is-not-a-recurrence) &mdash; [DOI](https://doi.org/10.5281/zenodo.24565011) <sub>2026-11-26</sub>
 - [A Likelihood Ratio Is Not a Whole Reading](https://research.pranaymahendrakar.com/p/a-likelihood-ratio-is-not-a-whole-reading) &mdash; [DOI](https://doi.org/10.5281/zenodo.24545381) <sub>2026-11-26</sub>
 - [A Different Route Is Not a Different Destination](https://research.pranaymahendrakar.com/p/a-different-route-is-not-a-different-destination) &mdash; [DOI](https://doi.org/10.5281/zenodo.24537485) <sub>2026-11-25</sub>
 - [A Winning Transcript Is Not a Located Bottleneck](https://research.pranaymahendrakar.com/p/a-winning-transcript-is-not-a-located-bottleneck) &mdash; [DOI](https://doi.org/10.5281/zenodo.24517680) <sub>2026-11-25</sub>
-- [A Stricter Filter Is Not a Sharper One](https://research.pranaymahendrakar.com/p/a-stricter-filter-is-not-a-sharper-one) &mdash; [DOI](https://doi.org/10.5281/zenodo.24502641) <sub>2026-11-24</sub>
-- [A Preserved Score Is Not a Preserved Answer](https://research.pranaymahendrakar.com/p/a-preserved-score-is-not-a-preserved-answer) &mdash; [DOI](https://doi.org/10.5281/zenodo.24485494) <sub>2026-11-24</sub>
 <!-- PAPERS:END -->
 
 ## Latest writing
 
 <!-- POSTS:START -->
+- [Hot take: the UK's AI cyber warning is really a patching and architecture problem](https://pranaymahendrakar.com/blog/hot-take-the-uks-ai-cyber-warning-is-really-a-patching-and-architectur) <sub>2026-11-27</sub>
 - [Hot take: Meta's paused scraping terms prove your data policy is only as strong as someone else's contract](https://pranaymahendrakar.com/blog/hot-take-metas-paused-scraping-terms-prove-your-data-policy-is-only-as) <sub>2026-11-26</sub>
 - [Hot take: California's OpenAI lawsuit shows a sandbox you have not tried to escape is just a guess](https://pranaymahendrakar.com/blog/hot-take-californias-openai-lawsuit-shows-a-sandbox-you-have-not-tried) <sub>2026-11-25</sub>
 - [Hot take: open weights are now a policy question, and your architecture is your answer](https://pranaymahendrakar.com/blog/hot-take-open-weights-are-now-a-policy-question-and-your-architecture-) <sub>2026-11-24</sub>
 - [Hot take: the scariest part of the FBI's ARTEX alert is not the AI, it is the workflow](https://pranaymahendrakar.com/blog/hot-take-the-scariest-part-of-the-fbis-artex-alert-is-not-the-ai-it-is) <sub>2026-11-23</sub>
-- [Hot take: a 0.5B speech model you can run yourself beats another leaderboard-topping API](https://pranaymahendrakar.com/blog/hot-take-a-05b-speech-model-you-can-run-yourself-beats-another-leaderb) <sub>2026-11-22</sub>
 <!-- POSTS:END -->
 
 More at [pranaymahendrakar.com/blog](https://pranaymahendrakar.com/blog).

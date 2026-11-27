@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-26",
-  "github": "2026-11-26",
-  "leetcode": "2026-11-26",
-  "packages": "2026-11-26",
-  "podcast": "2026-11-26",
-  "research": "2026-11-26"
+  "blog": "2026-11-27",
+  "github": "2026-11-27",
+  "leetcode": "2026-11-27",
+  "packages": "2026-11-27",
+  "podcast": "2026-11-27",
+  "research": "2026-11-27"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-27",
+    "title": "Hot take: the UK's AI cyber warning is really a patching and architecture problem",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-the-uks-ai-cyber-warning-is-really-a-patching-and-architectur"
+   },
    {
     "date": "2026-11-26",
     "title": "Hot take: Meta's paused scraping terms prove your data policy is only as strong as someone else's contract",
@@ -28,11 +33,6 @@
     "date": "2026-11-23",
     "title": "Hot take: the scariest part of the FBI's ARTEX alert is not the AI, it is the workflow",
     "url": "https://pranaymahendrakar.com/blog/hot-take-the-scariest-part-of-the-fbis-artex-alert-is-not-the-ai-it-is"
-   },
-   {
-    "date": "2026-11-22",
-    "title": "Hot take: a 0.5B speech model you can run yourself beats another leaderboard-topping API",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-a-05b-speech-model-you-can-run-yourself-beats-another-leaderb"
    }
   ]
  },
@@ -554,7 +554,7 @@
     24,
     0,
     0,
-    null,
+    0,
     null
    ]
   ],
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 176,
+  "count": 178,
   "latest": [
+   {
+    "date": "2026-11-27",
+    "doi": "https://doi.org/10.5281/zenodo.24573054",
+    "title": "A Portable Encoder Is Not a Portable Rule: What Frozen Earth-Observation Embeddings Carry Across Regions, Why Recovery From a Few Target Labels Does Not Locate a Cross-Region Loss, and the Controls That Would Separate Readout, Shift and Place",
+    "url": "https://research.pranaymahendrakar.com/p/a-portable-encoder-is-not-a-portable-rule"
+   },
+   {
+    "date": "2026-11-26",
+    "doi": "https://doi.org/10.5281/zenodo.24565011",
+    "title": "A Residue Is Not a Recurrence: What 'Reinforcement Learning Alone' Shows About Information Carried in a Streamed KV Cache After Context Compaction, Why Presence, Use, Channel and Benefit Are Separate Claims, and the Re-Prefill and Cache-Swap Controls That Would Tell Them Apart",
+    "url": "https://research.pranaymahendrakar.com/p/a-residue-is-not-a-recurrence"
+   },
    {
     "date": "2026-11-26",
     "doi": "https://doi.org/10.5281/zenodo.24545381",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24517680",
     "title": "A Winning Transcript Is Not a Located Bottleneck: What Replacing an Image With Its Caption or Code Measures, Why the Same Gain Is Read as a Perception Failure and as a Selection Failure, and the Information-Matched Ladder That Would Tell Them Apart",
     "url": "https://research.pranaymahendrakar.com/p/a-winning-transcript-is-not-a-located-bottleneck"
-   },
-   {
-    "date": "2026-11-24",
-    "doi": "https://doi.org/10.5281/zenodo.24502641",
-    "title": "A Stricter Filter Is Not a Sharper One: What Pseudo-Label Filtering on Noisy Police Radio Shows About Internal Confidence and LLM Judges, Why Unmatched Retention Decides the Comparison, and the Risk-Coverage Audit That Would Rank the Selectors",
-    "url": "https://research.pranaymahendrakar.com/p/a-stricter-filter-is-not-a-sharper-one"
-   },
-   {
-    "date": "2026-11-24",
-    "doi": "https://doi.org/10.5281/zenodo.24485494",
-    "title": "A Preserved Score Is Not a Preserved Answer: What Position-Independent KV Cache Reuse Evaluations Measure, Why Conditioning on the Baseline's Success Does Not Remove the Ambiguity, and the Paired Audit That Would Separate Fidelity, Accuracy and the Source of Loss",
-    "url": "https://research.pranaymahendrakar.com/p/a-preserved-score-is-not-a-preserved-answer"
    }
   ]
  }
