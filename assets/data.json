@@ -1,14 +1,19 @@
 {
  "answered": {
-  "blog": "2026-11-27",
-  "github": "2026-11-27",
-  "leetcode": "2026-11-27",
-  "packages": "2026-11-27",
-  "podcast": "2026-11-27",
-  "research": "2026-11-27"
+  "blog": "2026-11-28",
+  "github": "2026-11-28",
+  "leetcode": "2026-11-28",
+  "packages": "2026-11-28",
+  "podcast": "2026-11-28",
+  "research": "2026-11-28"
  },
  "blog": {
   "latest": [
+   {
+    "date": "2026-11-28",
+    "title": "Hot take: a delayed EU AI Act deadline is not a delayed risk, it is free time to build your evidence trail",
+    "url": "https://pranaymahendrakar.com/blog/hot-take-a-delayed-eu-ai-act-deadline-is-not-a-delayed-risk-it-is-free"
+   },
    {
     "date": "2026-11-27",
     "title": "Hot take: the UK's AI cyber warning is really a patching and architecture problem",
@@ -28,16 +33,11 @@
     "date": "2026-11-24",
     "title": "Hot take: open weights are now a policy question, and your architecture is your answer",
     "url": "https://pranaymahendrakar.com/blog/hot-take-open-weights-are-now-a-policy-question-and-your-architecture-"
-   },
-   {
-    "date": "2026-11-23",
-    "title": "Hot take: the scariest part of the FBI's ARTEX alert is not the AI, it is the workflow",
-    "url": "https://pranaymahendrakar.com/blog/hot-take-the-scariest-part-of-the-fbis-artex-alert-is-not-the-ai-it-is"
    }
   ]
  },
  "github": {
-  "contributions": 9431,
+  "contributions": 9432,
   "first_sunday": "2025-11-23",
   "followers": 15,
   "languages": [
@@ -555,7 +555,7 @@
     0,
     0,
     0,
-    null
+    1
    ]
   ],
   "with_language": 1315
@@ -594,8 +594,20 @@
   ]
  },
  "research": {
-  "count": 178,
+  "count": 180,
   "latest": [
+   {
+    "date": "2026-11-28",
+    "doi": "https://doi.org/10.5281/zenodo.24613039",
+    "title": "An Equivalent Schema Is Not an Equivalent Task: What Tool-Schema Sensitivity Measures in Language-Model Agents, Why Invariance Training and Interface Adaptation Prescribe Opposite Fixes for the Same Variance, and the Decomposition That Would Assign It",
+    "url": "https://research.pranaymahendrakar.com/p/an-equivalent-schema-is-not-an-equivalent-task"
+   },
+   {
+    "date": "2026-11-27",
+    "doi": "https://doi.org/10.5281/zenodo.24593788",
+    "title": "A Selected Score Is Not a Held-Out Score: What Agent-Designed and Meta-Learned Optimizers Show About Leaving the Problems They Were Built On, Why Selection on the Reported Test Set and a Re-Run Design Loop Do Not Measure Transfer, and the Protocol That Would",
+    "url": "https://research.pranaymahendrakar.com/p/a-selected-score-is-not-a-held-out-score"
+   },
    {
     "date": "2026-11-27",
     "doi": "https://doi.org/10.5281/zenodo.24573054",
@@ -613,18 +625,6 @@
     "doi": "https://doi.org/10.5281/zenodo.24545381",
     "title": "A Likelihood Ratio Is Not a Whole Reading: What Class-Conditional Guard Models Change About Shortcuts, Calibration and Position, Why the Generative-Classifier Evidence Does Not Transfer to a Discriminatively Trained Ratio, and the Matched Comparison That Would Assign the Gains",
     "url": "https://research.pranaymahendrakar.com/p/a-likelihood-ratio-is-not-a-whole-reading"
-   },
-   {
-    "date": "2026-11-25",
-    "doi": "https://doi.org/10.5281/zenodo.24537485",
-    "title": "A Different Route Is Not a Different Destination: What Controlled On- Versus Off-Policy Distillation Rules Out About Forgetting, Sparsity and Generalisation, Why Its Null Does Not Carry Over to the Gap Between Fine-Tuning and Reinforcement Learning, and the Target-Matched Comparison That Would Assign the Credit",
-    "url": "https://research.pranaymahendrakar.com/p/a-different-route-is-not-a-different-destination"
-   },
-   {
-    "date": "2026-11-25",
-    "doi": "https://doi.org/10.5281/zenodo.24517680",
-    "title": "A Winning Transcript Is Not a Located Bottleneck: What Replacing an Image With Its Caption or Code Measures, Why the Same Gain Is Read as a Perception Failure and as a Selection Failure, and the Information-Matched Ladder That Would Tell Them Apart",
-    "url": "https://research.pranaymahendrakar.com/p/a-winning-transcript-is-not-a-located-bottleneck"
    }
   ]
  }
